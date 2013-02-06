@@ -1,0 +1,656 @@
+<link media="all" type="text/css" href="spec/fixtures/frontend/css/general.css?ver=1.7-4" id="ai1ec-general-css" rel="stylesheet" ></link>
+<link media="all" type="text/css" href="spec/fixtures/frontend/css/event.css?ver=1.7-4" id="ai1ec-general-css" rel="stylesheet" ></link>
+<link media="all" type="text/css" href="spec/fixtures/frontend/css/calendar.css?ver=1.7-4" id="ai1ec-general-css" rel="stylesheet" ></link>
+<article class="post-13 page type-page status-publish hentry"
+	id="post-13">
+	<header class="entry-header">
+		<h1 class="entry-title">Calendar</h1>
+	</header>
+	<!-- .entry-header -->
+
+	<div class="entry-content">
+		<div class="ai1ec-container timely" id="ai1ec-container">
+			<!-- START All-in-One Event Calendar Plugin - Version 1.8 -->
+			<table class="ai1ec-calendar-toolbar">
+				<tbody>
+					<tr>
+
+						<td>
+							<div class="btn-group" id="ai1ec-view-dropdown">
+								<a href="#" data-toggle="dropdown" class="btn dropdown-toggle"
+									id="ai1ec-current-view"> <img alt="Month"
+									src="http://localhost/wordpress/wp-content/themes-ai1ec/vortex/img/month-view.png">
+									Month <span class="caret"></span></a>
+								<ul class="dropdown-menu">
+									<li class="active"><a
+										href="#action=ai1ec_month&amp;ai1ec_post_ids="
+										class="ai1ec-load-view month" id="ai1ec-view-month"> <img
+											alt="Month"
+											src="http://localhost/wordpress/wp-content/themes-ai1ec/vortex/img/month-view.png">
+											Month
+									</a></li>
+									<li><a href="#action=ai1ec_week&amp;ai1ec_post_ids="
+										class="ai1ec-load-view week" id="ai1ec-view-week"> <img
+											alt="Week"
+											src="http://localhost/wordpress/wp-content/themes-ai1ec/vortex/img/week-view.png">
+											Week
+									</a></li>
+									<li><a href="#action=ai1ec_oneday&amp;ai1ec_post_ids="
+										class="ai1ec-load-view oneday" id="ai1ec-view-oneday"> <img
+											alt="Day"
+											src="http://localhost/wordpress/wp-content/themes-ai1ec/vortex/img/oneday-view.png">
+											Day
+									</a></li>
+									<li><a href="#action=ai1ec_agenda&amp;ai1ec_post_ids="
+										class="ai1ec-load-view agenda" id="ai1ec-view-agenda"> <img
+											alt="Agenda"
+											src="http://localhost/wordpress/wp-content/themes-ai1ec/vortex/img/agenda-view.png">
+											Agenda
+									</a></li>
+								</ul>
+							</div>
+						</td>
+
+						<td>
+							<div class="ai1ec-filters-container">
+								<span class="ai1ec-label"> <a title="Clear Filters"
+									rel="tooltip" class="ai1ec-clear-filters"><i
+										class="icon-remove"></i></a> Filter:
+								</span> <span class="ai1ec-filter-selector-container"> <a
+									class="btn ai1ec-dropdown"> <i class="icon-folder-open"></i>
+										Categories <span class="caret"></span>
+								</a> <input type="hidden" value="" id="ai1ec-selected-categories"
+									class="ai1ec-selected-terms">
+									<div
+										class="ai1ec-filter-selector ai1ec-category-filter-selector">
+										<ul>
+											<li class="ai1ec-category">
+												<div title="Boring" rel="tooltip"
+													style="background: #880077" class="ai1ec-category-color"></div>
+												Boring <input type="hidden" value="8"
+												name="ai1ec-categories" class="ai1ec-term-ids">
+											</li>
+											<li class="ai1ec-category">
+												<div title="Nonsense" rel="tooltip"
+													style="background: #880077" class="ai1ec-category-color"></div>
+												Nonsense <input type="hidden" value="9"
+												name="ai1ec-categories" class="ai1ec-term-ids">
+											</li>
+										</ul>
+									</div>
+								</span> <span class="ai1ec-filter-selector-container"> <a
+									class="btn ai1ec-dropdown"> <i class="icon-tags"></i> Tags
+										<span class="caret"></span>
+								</a> <input type="hidden" value="" id="ai1ec-selected-tags"
+									class="ai1ec-selected-terms">
+									<div class="ai1ec-filter-selector ai1ec-tag-filter-selector">
+										<ul>
+											<li style="font-weight: bold;" class="ai1ec-tag">alby
+												(3) <input type="hidden" value="20" name="ai1ec-tags"
+												class="ai1ec-term-ids">
+											</li>
+											<li style="font-weight: bold;" class="ai1ec-tag">party
+												(14) <input type="hidden" value="19" name="ai1ec-tags"
+												class="ai1ec-term-ids">
+											</li>
+										</ul>
+										<input type="hidden" id="ai1ec-selected-tags"
+											class="ai1ec-selected-terms">
+									</div>
+								</span>
+							</div> <a class="btn" href="#" id="ai1ec-print-button"
+							style="display: none;"> <i class="icon-print"></i>
+						</a>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<div id="ai1ec-calendar-view-container">
+				<div class="ai1ec-loading" id="ai1ec-calendar-view-loading"></div>
+				<div id="ai1ec-calendar-view">
+					<h2 class="ai1ec-calendar-title">June 2012</h2>
+					<div class="ai1ec-title-buttons btn-toolbar">
+						<div class="btn-group">
+							<a href="#action=ai1ec_month&amp;ai1ec_post_ids="
+								class="ai1ec-load-view btn btn-mini" id="ai1ec-today"> Today
+							</a>
+						</div>
+						<div class="ai1ec-pagination btn-group pull-right">
+							<a
+								href="#action=ai1ec_month&amp;ai1ec_month_offset=-12&amp;ai1ec_post_ids="
+								class="ai1ec-load-view btn" id="ai1ec-prev-year"> « 2011 </a> <a
+								href="#action=ai1ec_month&amp;ai1ec_month_offset=-1&amp;ai1ec_post_ids="
+								class="ai1ec-load-view btn" id="ai1ec-prev-month"> ‹ May </a> <a
+								href="#action=ai1ec_month&amp;ai1ec_month_offset=1&amp;ai1ec_post_ids="
+								class="ai1ec-load-view btn" id="ai1ec-next-month"> Jul › </a> <a
+								href="#action=ai1ec_month&amp;ai1ec_month_offset=12&amp;ai1ec_post_ids="
+								class="ai1ec-load-view btn" id="ai1ec-next-year"> 2013 » </a>
+						</div>
+					</div>
+					<table class="ai1ec-month-view">
+						<thead>
+							<tr>
+								<th class="ai1ec-weekday">Mon</th>
+								<th class="ai1ec-weekday">Tue</th>
+								<th class="ai1ec-weekday">Wed</th>
+								<th class="ai1ec-weekday">Thu</th>
+								<th class="ai1ec-weekday">Fri</th>
+								<th class="ai1ec-weekday">Sat</th>
+								<th class="ai1ec-weekday">Sun</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr class="ai1ec-week">
+								<td class="ai1ec-empty"></td>
+								<td class="ai1ec-empty"></td>
+								<td class="ai1ec-empty"></td>
+								<td class="ai1ec-empty"></td>
+								<td>
+
+									<div class="ai1ec-day-stretcher"></div>
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">1</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">2</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">3</div>
+									</div>
+								</td>
+							</tr>
+							<tr class="ai1ec-week">
+								<td>
+
+									<div class="ai1ec-day-stretcher"></div>
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">4</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">5</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">6</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">7</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">8</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">9</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">10</div>
+									</div>
+								</td>
+							</tr>
+							<tr class="ai1ec-week">
+								<td>
+
+									<div class="ai1ec-day-stretcher"></div>
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">11</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">12</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">13</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">14</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">15</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">16</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">17</div>
+									</div>
+								</td>
+							</tr>
+							<tr class="ai1ec-week">
+								<td>
+
+									<div class="ai1ec-day-stretcher"></div>
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">18</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">19</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">20</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">21</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">22</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">23</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">24</div>
+									</div>
+								</td>
+							</tr>
+							<tr class="ai1ec-week">
+								<td>
+
+									<div class="ai1ec-day-stretcher"></div>
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">25</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">26</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">27</div>
+										<a
+											class="ai1ec-event-container
+											ai1ec-event-id-16											ai1ec-event-instance-id-134																						"
+											href="http://localhost/wordpress/?ai1ec_event=essaouira-good-vibrationsthe-marciellos-in-concerto&amp;instance_id=134">
+
+											<input type="hidden" value="16" class="ai1ec-post-id">
+
+											<div class="ai1ec-event-popup">
+												<div class="ai1ec-event-summary">
+													<div class="ai1ec-category-colors">
+														<div title="Nonsense" rel="tooltip"
+															style="background: #880077" class="ai1ec-category-color"></div>
+													</div>
+													<strong>Summary:</strong>
+													<p></p>
+													<div class="ai1ec-read-more">click anywhere for
+														details</div>
+												</div>
+												<div class="ai1ec-event-popup-bg">
+													<span class="ai1ec-event-time">8:30 pm</span> <span
+														class="ai1ec-event-title"> ESSAOUIRA GOOD
+														VIBRATIONS!!!!!!T...</span> <span class="ai1ec-event-location">@
+														Essaouira Disco Albenga via michelangelo 26</span>
+
+												</div>
+											</div>
+											<!-- .event-popup -->
+
+											<div style="color: #880077 !important;" class="ai1ec-event ">
+												<span class="ai1ec-event-time">8:30 pm</span> <span
+													class="ai1ec-event-title">ESSAOUIRA GOOD
+													VIBRATIONS!!!!!!The Marciellos in concerto…..</span>
+											</div>
+
+										</a>
+									</div>
+								</td>
+								<td class="ai1ec-today">
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 1px;">28</div>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 17px;">29</div>
+										<a
+											class="ai1ec-event-container
+											ai1ec-event-id-33											ai1ec-event-instance-id-372																						ai1ec-multiday"
+											data-end-truncated="false" data-start-truncated="false"
+											data-end-day="30"
+											href="http://localhost/wordpress/?ai1ec_event=sposero-simon-le-bon-atomic-venerdi-296-nicoladj-noi-cmq-ci-siamo&amp;instance_id=372"
+											style="position: absolute; left: 1px; top: 14px; width: 165.317px;">
+
+											<input type="hidden" value="33" class="ai1ec-post-id">
+
+											<div class="ai1ec-event-popup">
+												<div class="ai1ec-event-summary">
+													<div class="ai1ec-category-colors">
+														<div title="Boring" rel="tooltip"
+															style="background: #880077" class="ai1ec-category-color"></div>
+													</div>
+													<strong>Summary:</strong>
+													<p>TUTTI I VENERDI - @ATOMIC BAR - MILANO - ARIA
+														CONDIZIONATA! NicolaDj (Rainbow Club, Rolling Stone)
+														INDIE/PUNK/ROCK/ELECTRO/80S -------SI CHIUDE ALLE
+														3!!!---------- A furor di popolo, [...]</p>
+													<div class="ai1ec-read-more">click anywhere for
+														details</div>
+												</div>
+												<div class="ai1ec-event-popup-bg">
+													<span class="ai1ec-event-time">9:45 pm</span> <span
+														class="ai1ec-event-title"> Sposerò Simon Le Bon
+														@Atomic- Ve...</span> <span class="ai1ec-event-location">@
+														ATOMIC BAR - MILANO</span>
+
+												</div>
+											</div>
+											<!-- .event-popup -->
+
+											<div style="background-color: #880077;" class="ai1ec-event ">
+												<span class="ai1ec-event-time">9:45 pm</span> <span
+													class="ai1ec-event-title">Sposerò Simon Le Bon
+													@Atomic- Venerdì 29/6 &ndash; NicolaDJ &ndash; Noi cmq ci
+													siamo!</span>
+											</div>
+
+										</a> <a
+											class="ai1ec-event-container
+											ai1ec-event-id-26											ai1ec-event-instance-id-374																						"
+											href="http://localhost/wordpress/?ai1ec_event=exposicion-de-inigo-manterola-en-biarritz&amp;instance_id=374">
+
+											<input type="hidden" value="26" class="ai1ec-post-id">
+
+											<div class="ai1ec-event-popup">
+												<div class="ai1ec-event-summary">
+													<div class="ai1ec-category-colors">
+														<div title="Boring" rel="tooltip"
+															style="background: #880077" class="ai1ec-category-color"></div>
+													</div>
+													<strong>Summary:</strong>
+													<p>El día 29 de Junio, en el hotel Chateau de Brindos
+														de Biarritz, se inaugura la exposición de pintura,
+														escultura y fotografía de Manterola.</p>
+													<div class="ai1ec-read-more">click anywhere for
+														details</div>
+												</div>
+												<div class="ai1ec-event-popup-bg">
+													<span class="ai1ec-event-time">4:00 pm</span> <span
+														class="ai1ec-event-title"> Exposición de Iñigo
+														Manterola en...</span> <span class="ai1ec-event-location">@
+														Hôtel Château de Brindos Anglet-Biarritz</span>
+
+												</div>
+											</div>
+											<!-- .event-popup -->
+
+											<div style="color: #880077 !important;" class="ai1ec-event ">
+												<span class="ai1ec-event-time">4:00 pm</span> <span
+													class="ai1ec-event-title">Exposición de Iñigo
+													Manterola en Biarritz.</span>
+											</div>
+
+										</a> <a
+											class="ai1ec-event-container
+											ai1ec-event-id-37											ai1ec-event-instance-id-373																						"
+											href="http://localhost/wordpress/?ai1ec_event=concert-sala-social-sant-lluc&amp;instance_id=373">
+
+											<input type="hidden" value="37" class="ai1ec-post-id">
+
+											<div class="ai1ec-event-popup">
+												<div class="ai1ec-event-summary">
+													<div class="ai1ec-category-colors">
+														<div title="Boring" rel="tooltip"
+															style="background: #880077" class="ai1ec-category-color"></div>
+													</div>
+													<strong>Summary:</strong>
+													<p></p>
+													<div class="ai1ec-read-more">click anywhere for
+														details</div>
+												</div>
+												<div class="ai1ec-event-popup-bg">
+													<span class="ai1ec-event-time">7:30 pm</span> <span
+														class="ai1ec-event-title"> CONCERT SALA SOCIAL /
+														SANT LLUC</span> <span class="ai1ec-event-location">@
+														Cercle Artístic Sant Lluc</span>
+
+												</div>
+											</div>
+											<!-- .event-popup -->
+
+											<div style="color: #880077 !important;" class="ai1ec-event ">
+												<span class="ai1ec-event-time">7:30 pm</span> <span
+													class="ai1ec-event-title">CONCERT SALA SOCIAL / SANT
+													LLUC</span>
+											</div>
+
+										</a>
+									</div>
+								</td>
+								<td>
+
+
+									<div class="ai1ec-day">
+										<div class="ai1ec-date" style="margin-bottom: 33px;">30</div>
+										<a
+											class="ai1ec-event-container
+											ai1ec-event-id-24											ai1ec-event-instance-id-370																						ai1ec-multiday"
+											data-end-truncated="true" data-start-truncated="false"
+											data-end-day="01"
+											href="http://localhost/wordpress/?ai1ec_event=moya-kalongo-dj-roger-c-joint-sessions-cafe-royale-bcn&amp;instance_id=370"
+											style="position: absolute; left: 1px; top: 30px; width: 82px;">
+
+											<input type="hidden" value="24" class="ai1ec-post-id">
+
+											<div class="ai1ec-event-popup">
+												<div class="ai1ec-event-summary">
+													<div class="ai1ec-category-colors">
+														<div title="Boring" rel="tooltip"
+															style="background: #880077" class="ai1ec-category-color"></div>
+													</div>
+													<strong>Summary:</strong>
+													<p>Sabado 30 Junio / Saturday 30th June 2012 MOYA
+														KALONGO (Live) &amp; DJ ROGER C (Joint Sessions) Cafe
+														Royale Festival c/Nou de Zurbano 3 Gotico [...]</p>
+													<div class="ai1ec-read-more">click anywhere for
+														details</div>
+												</div>
+												<div class="ai1ec-event-popup-bg">
+													<span class="ai1ec-event-time">8:00 pm</span> <span
+														class="ai1ec-event-title"> MOYA KALONGO &amp; DJ
+														ROGER C (J...</span> <span class="ai1ec-event-location">@
+														Café Royale</span>
+
+												</div>
+											</div>
+											<!-- .event-popup -->
+
+											<div style="background-color: #880077;" class="ai1ec-event ">
+												<span class="ai1ec-event-time">8:00 pm</span> <span
+													class="ai1ec-event-title">MOYA KALONGO &amp; DJ
+													ROGER C (Joint Sessions) @ CAFÉ ROYALE BCN</span>
+											</div>
+
+											<div class="ai1ec-multiday-arrow1"
+												style="border-left-color: rgb(136, 0, 119);"></div>
+										</a> <a
+											class="ai1ec-event-container
+											ai1ec-event-id-25											ai1ec-event-instance-id-371																						"
+											href="http://localhost/wordpress/?ai1ec_event=sotataula-al-gipsy-lou&amp;instance_id=371">
+
+											<input type="hidden" value="25" class="ai1ec-post-id">
+
+											<div class="ai1ec-event-popup">
+												<div class="ai1ec-event-summary">
+													<div class="ai1ec-category-colors">
+														<div title="Boring" rel="tooltip"
+															style="background: #880077" class="ai1ec-category-color"></div>
+													</div>
+													<strong>Summary:</strong>
+													<p>Ens veiem el dissabte 30 de juny. Estarem com a casa
+														al Gispsy Lou del Raval</p>
+													<div class="ai1ec-read-more">click anywhere for
+														details</div>
+												</div>
+												<div class="ai1ec-event-popup-bg">
+													<span class="ai1ec-event-time">7:30 pm</span> <span
+														class="ai1ec-event-title"> SotaTaula al Gipsy Lou</span> <span
+														class="ai1ec-event-location">@ Gipsy Lou</span>
+
+												</div>
+											</div>
+											<!-- .event-popup -->
+
+											<div style="color: #880077 !important;" class="ai1ec-event ">
+												<span class="ai1ec-event-time">7:30 pm</span> <span
+													class="ai1ec-event-title">SotaTaula al Gipsy Lou</span>
+											</div>
+
+										</a> <a
+											class="ai1ec-event-container
+											ai1ec-event-id-27											ai1ec-event-instance-id-369																						"
+											href="http://localhost/wordpress/?ai1ec_event=mauri-clash-city-rocker-deaf-party-livelo-fi-milano&amp;instance_id=369">
+
+											<input type="hidden" value="27" class="ai1ec-post-id">
+
+											<div class="ai1ec-event-popup">
+												<div class="ai1ec-event-summary">
+													<div class="ai1ec-category-colors">
+														<div title="Boring" rel="tooltip"
+															style="background: #880077" class="ai1ec-category-color"></div>
+													</div>
+													<strong>Summary:</strong>
+													<p></p>
+													<div class="ai1ec-read-more">click anywhere for
+														details</div>
+												</div>
+												<div class="ai1ec-event-popup-bg">
+													<span class="ai1ec-event-time">8:00 pm</span> <span
+														class="ai1ec-event-title"> Mauri Clash City Rocker
+														+ Deaf P...</span> <span class="ai1ec-event-location">@
+														Arci Lo Fi</span>
+
+												</div>
+											</div>
+											<!-- .event-popup -->
+
+											<div style="color: #880077 !important;" class="ai1ec-event ">
+												<span class="ai1ec-event-time">8:00 pm</span> <span
+													class="ai1ec-event-title">Mauri Clash City Rocker +
+													Deaf Party LIVE@LO-FI Milano</span>
+											</div>
+
+										</a>
+									</div>
+								</td>
+								<td class="ai1ec-empty"></td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+
+			<a
+				title="Subscribe to this calendar using your favourite calendar program (iCal, Outlook, etc.)"
+				href="webcal://localhost/wordpress/?plugin=all-in-one-event-calendar&amp;controller=ai1ec_exporter_controller&amp;action=export_events&amp;cb=7963"
+				class="btn ai1ec-subscribe"> ✔ Subscribe <span
+				class="ai1ec-subscribe-filtered">to this filtered calendar</span>
+			</a> <a title="Subscribe to this calendar in your Google Calendar"
+				href="http://www.google.com/calendar/render?cid=http%3A%2F%2Flocalhost%2Fwordpress%2F%3Fplugin%3Dall-in-one-event-calendar%26controller%3Dai1ec_exporter_controller%26action%3Dexport_events%26cb%3D7963"
+				target="_blank" class="btn ai1ec-subscribe-google"> <img
+				src="http://localhost/wordpress/wp-content/themes-ai1ec/vortex/img/google-calendar.png">
+				Subscribe in Google Calendar
+			</a>
+			<!-- END All-in-One Event Calendar Plugin -->
+		</div>
+	</div>
+	<!-- .entry-content -->
+	<footer class="entry-meta">
+		<span class="edit-link"><a title="Edit Page"
+			href="http://localhost/wordpress/wp-admin/post.php?post=13&amp;action=edit"
+			class="post-edit-link">Edit</a></span>
+	</footer>
+	<!-- .entry-meta -->
+</article>

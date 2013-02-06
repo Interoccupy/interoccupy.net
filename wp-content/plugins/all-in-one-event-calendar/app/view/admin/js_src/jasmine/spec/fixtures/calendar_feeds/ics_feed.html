@@ -1,0 +1,71 @@
+<div id="ics" class="tab-pane active">
+	<p>Configure which other calendars your own calendar subscribes to.
+		You can add any calendar that provides an iCalendar (.ics) feed. Enter
+		the feed URL(s) below and the events from those feeds will be imported
+		periodically.</p>
+	<div id="ics-alerts"></div>
+	<label for="cron_freq" class="textinput"> Check for new events:
+	</label> <select name="cron_freq">
+		<option selected value="hourly">Hourly</option>
+		<option value="twicedaily">Twice Daily</option>
+		<option value="daily">Daily</option>
+	</select> <br class="clear">
+
+	<div class="ai1ec-feed-container" id="ai1ec-feeds-after">
+		<h4 class="ai1ec_feed_h4">iCalendar/.ics Feed URL:</h4>
+		<div class="ai1ec-feed-url">
+			<input type="text" id="ai1ec_feed_url" name="ai1ec_feed_url">
+		</div>
+		<div class="ai1ec-feed-category">
+			<label for="ai1ec_feed_category"> Event category: </label> <select
+				id="ai1ec_feed_category" name="ai1ec_feed_category">
+				<option value="8">Boring</option>
+				<option value="3">gfgf</option>
+				<option value="9">Nonsense</option>
+				<option value="7">Party!</option>
+			</select>
+		</div>
+		<div class="ai1ec-feed-tags">
+			<label for="ai1ec_feed_tags"> Tag with: </label> <input type="text"
+				id="ai1ec_feed_tags" name="ai1ec_feed_tags">
+		</div>
+		<input type="button" value="+ Add new subscription" class="button"
+			id="ai1ec_add_new_ics">
+	</div>
+
+	<div class="ai1ec-feed-container">
+		<h4 class="ai1ec_feed_h4">iCalendar/.ics Feed URL:</h4>
+		<div class="ai1ec-feed-url">
+			<input type="text"
+				value="https://www.google.com/calendar/ical/nicola.peluchetti%40gmail.com/public/basic.ics"
+				readonly="readonly" class="ai1ec-feed-url">
+		</div>
+		<input type="hidden" value="31" class="ai1ec_feed_id" name="feed_id">
+		<div class="ai1ec-feed-category">
+			Event category: <strong>Boring</strong>
+		</div>
+		<input type="button" value="× Delete" class="button ai1ec_delete_ics">
+		<input type="button" value="Update" class="button ai1ec_update_ics">
+		<input type="hidden" value="97" class="ai1ec_flush_ics"> <img
+			alt="" class="ajax-loading" src="images/wpspin_light.gif">
+	</div>
+	<div id="ai1ec-ics-modal" class="modal hide">
+		<div class="modal-header">
+			<button data-dismiss="modal" class="close">Ã—</button>
+			<h3>Removing ICS Feed</h3>
+		</div>
+		<div class="modal-body">
+			<p>Do you want to keep the events imported from the calendar or
+				remove them?</p>
+		</div>
+		<div class="modal-footer">
+			<a class="btn remove btn-danger" href="#">Remove Events</a> <a
+				class="btn keep btn-primary" href="#">Keep Events</a>
+		</div>
+	</div>
+	<br class="clear">
+	<p class="submit">
+		<input type="submit" value="Update Settings" class="button-primary"
+			id="ai1ec_save_settings" name="ai1ec_save_settings">
+	</p>
+</div>

@@ -1,0 +1,168 @@
+
+/* icons */
+
+div.wysiwyg_editor span.chooser a.insert_post,
+div.wysiwyg_editor span.chooser a.free_text,
+div.wysiwyg_editor span.handler a.sel_font, 
+div.wysiwyg_editor span.handler a.sel_color, 
+div.wysiwyg_editor span.img_handler a.change_image,
+div.wysiwyg_editor span.img_handler a.uundo_image,
+div.wysiwyg_editor span.img_handler a.rredraw_image,
+div.wysiwyg_editor span.img_handler a.properties_image,
+div.wysiwyg_editor span.handler a.insert_post,
+div.wysiwyg_editor span.handler span.move,
+div.wysiwyg_editor span.handler span.delete {
+	background:url(../images/iconos.png) no-repeat 0 0;
+	display:block;
+	width:24px;
+	height:24px;
+	float:left;
+	margin-right:1px;
+}
+
+div.wysiwyg_editor span.chooser a.insert_post,
+div.wysiwyg_editor span.handler a.insert_post { background-position:-350px 0; }
+div.wysiwyg_editor span.chooser a.insert_post:hover,
+div.wysiwyg_editor span.handler a.insert_post:hover { background-position:-350px -25px; }
+
+div.wysiwyg_editor span.chooser a.free_text { background-position:-375px 0; }
+div.wysiwyg_editor span.chooser a.free_text:hover { background-position:-375px -25px; }
+
+div.wysiwyg_editor span.handler span.move { background-position:-400px 0; cursor:move; }
+div.wysiwyg_editor span.handler span.move:hover { background-position:-400px -25px; }
+
+div.wysiwyg_editor span.handler span.delete { background-position:-425px 0; cursor:pointer; }
+div.wysiwyg_editor span.handler span.delete:hover { background-position:-425px -25px; }
+
+div.wysiwyg_editor span.img_handler a.properties_image,
+div.wysiwyg_editor span.img_handler a.change_image { background-position:-450px 0; }
+
+div.wysiwyg_editor span.img_handler a.properties_image,
+div.wysiwyg_editor span.img_handler a.change_image:hover { background-position:-450px -25px; }
+
+div.wysiwyg_editor span.img_handler a.rredraw_image { background-position:-525px 0; }
+div.wysiwyg_editor span.img_handler a.rredraw_image:hover { background-position:-525px -25px; }
+
+div.wysiwyg_editor span.img_handler a.uundo_image { background-position:-325px 0; }
+div.wysiwyg_editor span.img_handler a.uundo_image:hover { background-position:-325px -25px; }
+
+div.wysiwyg_editor span.handler a.sel_color { background-position:-475px 0; }
+div.wysiwyg_editor span.handler a.sel_color:hover { background-position:-475px -25px; }
+
+div.wysiwyg_editor span.handler a.sel_font { background-position:-500px 0; }
+div.wysiwyg_editor span.handler a.sel_font:hover { background-position:-500px -25px; }
+
+div.wysiwyg_editor span.img_resizer {
+	border:#fff 1px solid;
+	font-size:1px;
+	line-height:1px;
+	background:#000;
+	width:8px;
+	height:8px;
+	position:absolute;
+	cursor:n-resize;
+}
+div.wysiwyg_editor span.img_resizer_n,
+div.wysiwyg_editor span.img_resizer_s {
+	cursor:n-resize;
+}
+div.wysiwyg_editor span.img_resizer_e,
+div.wysiwyg_editor span.img_resizer_w {
+	cursor:e-resize;
+}
+div.wysiwyg_editor span.img_resizer_se,
+div.wysiwyg_editor span.img_resizer_nw {
+	cursor:nw-resize;
+}
+div.wysiwyg_editor span.img_resizer_sw,
+div.wysiwyg_editor span.img_resizer_ne {
+	cursor:ne-resize;
+}
+div.wysiwyg_editor span.prohibited {
+	cursor:default;
+	cursor:not-allowed !important;
+}
+/* editor */
+div.wysiwyg_editor span.img_handler {
+	z-index:1;
+	margin:10px;
+	display:none;
+}
+div.wysiwyg_editor span.img_handler a {
+	width:22px !important;
+}
+
+span.chooser,
+span.img_handler,
+span.handler {
+	position:absolute;
+	display:inline-block;
+	background:#eee;
+	padding:3px;
+	z-index:2;
+	border:#fff 1px solid;
+	outline:dashed #0ff 2px;
+	outline-bottom:0;
+}
+
+body.doing_drag tr.droppable:hover span.chooser,
+span.chooser,
+body.doing_drag tr.droppable:hover span.handler,
+span.handler {
+	display:none;
+}
+tr.droppable:hover span.chooser,
+tr.droppable:hover span.handler {
+	display:block;
+}
+body.hide_handler span.handler {
+	display:none;
+	padding-right:3px;
+}
+tr.droppable_empty {
+	font-size:1px;
+	line-height:1px;
+	height:8px;
+}
+body.doing_drag {
+	cursor:move;
+}
+body.doing_drag tr.droppable_empty {
+	background:#C4FFFC;
+	display:table-row;
+}
+/*
+tr.droppable_empty td {
+	display:block;
+	min-height:8px;
+}
+*/
+body.doing_drag tr.droppable_empty_hidden {
+	display:none !important;
+}
+body.doing_drag tr.droppable_empty_hover {
+	outline:dashed 2px #0FF;
+	background:#09F;
+}
+
+tr.droppable:hover {
+	outline:dashed 2px #0FF;
+}
+body.doing_drag tr.droppable:hover {
+	outline:none;
+}
+img.editable:hover {
+	outline:1px dashed #000000;
+}
+body {
+	margin-bottom:100px;
+}
+
+/* preview without css*/
+p {
+	margin:0;
+	padding:0;
+}
+img {
+	display:inline-block;
+}

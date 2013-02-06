@@ -1,0 +1,2522 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Knews\n"
+"Language: en\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carles <mail@carlesrever.com>\n"
+"Language-Team: \n"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Schedule submit"
+msgstr "Schedule submit"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "(highest)"
+msgstr "(highest)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "(lowest)"
+msgstr "(lowest)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "(normal)"
+msgstr "(normal)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Batch submit process has been properly scheduled."
+msgstr "Batch submit process has been properly scheduled."
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "Activate user directly (don't send e-mail confirmation)"
+msgstr "Activate user directly (don't send e-mail confirmation)"
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "Filter by state"
+msgstr "Filter by state"
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "No users match the search criteria"
+msgstr "No users match the search criteria"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:142
+msgid "Active users"
+msgstr "Active users"
+
+#: Text in echo
+#: admin/knews_admin_users.php:162
+msgid "Add extra field"
+msgstr "Add extra field"
+
+#: Text in echo
+#: admin/knews_admin_users.php:178
+msgid "Add field"
+msgstr "Add field"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:214
+msgid "Add newsletter"
+msgstr "Add newsletter"
+
+#: Text in function
+#: admin/knews_admin_import.php:358
+#: admin/knews_admin_import.php:359
+#: admin/knews_admin_import.php:360
+#: admin/knews_admin_users.php:309
+msgid "All"
+msgstr "All"
+
+#: Text in function
+#: admin/knews_admin_import.php:362
+msgid "All in"
+msgstr "All in"
+
+#: Text in echo
+#: admin/knews_admin_import.php:668
+msgid "And have been blocked in this import:"
+msgstr "And have been blocked in this import:"
+
+#: Text in echo
+#: admin/knews_admin_import.php:649
+msgid "And there have not been imported:"
+msgstr "And there have not been imported:"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:155
+msgid "At the moment there is no list, you can create new ones"
+msgstr "At the moment there is no list, you can create new ones"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:170
+msgid "At the moment there is no newsletter, you can create new ones"
+msgstr "At the moment there is no newsletter, you can create new ones"
+
+#: Text in echo
+#: admin/knews_admin_import.php:658
+msgid "Automatically send confirmation e-mails:"
+msgstr "Automatically send confirmation e-mails:"
+
+#: Text in echo
+#: admin/knews_admin_config.php:219
+msgid "Before enabling the sending SMTP, enter the values and your e-mail and then click on TEST button"
+msgstr "Before enabling the sending SMTP, enter the values and your e-mail and then click on TEST button"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+msgid "Blocked"
+msgstr "Blocked"
+
+#: Text in echo
+#: admin/knews_admin_config.php:157
+msgid "CRON"
+msgstr "CRON"
+
+#: Text in function
+#: admin/knews_admin_config.php:172
+msgid "CRON has not yet been configured"
+msgstr "CRON has not yet been configured"
+
+#: Text in function
+#: admin/knews_admin_config.php:172
+msgid "CRON has stopped working."
+msgstr "CRON has stopped working."
+
+#: Text in echo
+#: admin/knews_admin_config.php:164
+msgid "CRON is properly configured"
+msgstr "CRON is properly configured"
+
+#: Text in echo
+#: admin/knews_admin_import.php:228
+msgid "CSV File"
+msgstr "CSV File"
+
+#: Text in echo
+#: admin/knews_admin_import.php:217
+msgid "CSV Upload"
+msgstr "CSV Upload"
+
+#: Text in echo
+#: admin/knews_admin_import.php:644
+msgid "CSV total:"
+msgstr "CSV total:"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:201
+msgid "I can't submit an e-mail to:"
+msgstr "I can't submit an e-mail to:"
+
+#: Text in echo
+#: admin/knews_admin_config.php:216
+msgid "Pay attention: If your SMTP server is anonymous leave SMTP User and SMTP Password fields blank"
+msgstr "Pay attention: If your SMTP server is anonymous leave SMTP User and SMTP Password fields blank"
+
+#: Text in echo
+#: admin/knews_admin_import.php:374
+msgid "Check dates"
+msgstr "Check dates"
+
+#: Text in function
+#: direct/edit_news.php:49
+msgid "Check the directory permissions for"
+msgstr "Check the directory permissions for"
+
+#: Text in echo
+#: admin/knews_admin_import.php:356
+msgid "Select a column"
+msgstr "Select a column"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:179
+msgid "Choose a template"
+msgstr "Choose a template"
+
+#: Text in function
+#: knews.php:520
+msgid "Configuration"
+msgstr "Configuration"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+msgid "Confirmed"
+msgstr "Confirmed"
+
+#: Text in echo
+#: admin/knews_admin_import.php:294
+msgid "Continue"
+msgstr "Continue"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:164
+msgid "Create a mailing list"
+msgstr "Create a mailing list"
+
+#: Text in echo
+#: admin/knews_admin_users.php:421
+msgid "Create a subscriber manually"
+msgstr "Create a subscriber manually"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:159
+msgid "Create new mailing list"
+msgstr "Create new mailing list"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:175
+msgid "Create new newsletter"
+msgstr "Create new newsletter"
+
+#: Text in echo
+#: admin/knews_admin_users.php:457
+msgid "Create a user"
+msgstr "Create a user"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:153
+msgid "Created"
+msgstr "Created"
+
+#: Text in echo
+#: direct/knews_cron.php:135
+msgid "Cron-JS finished, you can close the window"
+msgstr "Cron-JS finished, you can close the window"
+
+#: Text in echo
+#: direct/knews_cron.php:131
+msgid "Cron-JS in the process, don't close this window..."
+msgstr "Cron-JS in the process, don't close this window..."
+
+#: Text in echo
+#: admin/knews_admin_config.php:85
+#: admin/knews_admin_config.php:143
+msgid "Customised messages"
+msgstr "Customised messages"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:172
+msgid "Date (day/month/year)"
+msgstr "Date (day/month/year)"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:159
+#: admin/knews_admin_lists.php:143
+msgid "Delete"
+msgstr "Delete"
+
+#: Text in echo
+#: admin/knews_admin_import.php:686
+msgid "Do the import"
+msgstr "Do the import"
+
+#: Text in echo
+#: admin/knews_admin_config.php:209
+msgid "E-mails sent internally using WordPress (wp_mail() function)"
+msgstr "E-mails sent internally using WordPress (wp_mail() function)"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:156
+#: admin/knews_admin_news_list.php:167
+#: admin/knews_admin_lists.php:141
+msgid "Edit"
+msgstr "Edit"
+
+#: Text in echo
+#: admin/knews_admin_news_edit.php:28
+msgid "Editing newsletter"
+msgstr "Editing newsletter"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "E-mails sent at once"
+msgstr "E-mails sent at once"
+
+#: Text in echo
+#: admin/knews_admin_import.php:74
+msgid "Enclosure"
+msgstr "Enclosure"
+
+#: Text in echo
+#: admin/knews_admin_import.php:82
+msgid "Encoding"
+msgstr "Encoding"
+
+#: Text in function
+#: direct/edit_news.php:49
+#: admin/knews_admin_news_send.php:201
+#: admin/knews_admin_news_send.php:124
+#: admin/knews_admin_news_edit.php:22
+#: admin/knews_admin_users.php:464
+#: admin/knews_admin_users.php:246
+#: admin/knews_admin_users.php:460
+#: admin/knews_admin_news_list.php:1
+#: admin/knews_admin_lists.php:1
+msgid "Error"
+msgstr "Error"
+
+#: Text in echo
+#: direct/edit_news.php:50
+msgid "Error saving"
+msgstr "Error saving"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "Error: can't move uploaded file."
+msgstr "Error: can't move uploaded file."
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "Error: can't open the file"
+msgstr "Error: can't open the file"
+
+#: Text in echo
+#: admin/knews_admin_users.php:136
+#: admin/knews_admin_users.php:190
+msgid "Extra fields"
+msgstr "Extra fields"
+
+#: Text in echo
+#: admin/knews_admin_users.php:152
+#: admin/knews_admin_users.php:207
+#: admin/knews_admin_users.php:257
+msgid "Field"
+msgstr "Field"
+
+#: Text in echo
+#: admin/knews_admin_import.php:219
+msgid "Fields assignement"
+msgstr "Fields assignement"
+
+#: Text in echo
+#: admin/knews_admin_import.php:232
+msgid "File upload"
+msgstr "File upload"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "File uploaded correctly"
+msgstr "File uploaded correctly"
+
+#: Text in echo
+#: admin/knews_admin_users.php:315
+msgid "Filter"
+msgstr "Filter"
+
+#: Text in echo
+#: admin/knews_admin_users.php:308
+msgid "Filter by mailing list"
+msgstr "Filter by mailing list"
+
+#: Text in echo
+#: admin/knews_admin_users.php:321
+msgid "Find"
+msgstr "Find"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Finished"
+msgstr "Finished"
+
+#: Text in echo
+#: admin/knews_admin_import.php:218
+msgid "Formatting"
+msgstr "Formatting"
+
+#: Text in echo
+#: admin/knews_admin_import.php:401
+#: admin/knews_admin_import.php:686
+#: admin/knews_admin_users.php:260
+msgid "Go back"
+msgstr "Go back"
+
+#: Text in echo
+#: admin/knews_admin_users.php:396
+#: admin/knews_admin_users.php:399
+msgid "Go to first page"
+msgstr "Go to first page"
+
+#: Text in echo
+#: admin/knews_admin_users.php:405
+#: admin/knews_admin_users.php:408
+msgid "Go to last page"
+msgstr "Go to last page"
+
+#: Text in echo
+#: admin/knews_admin_users.php:404
+#: admin/knews_admin_users.php:407
+msgid "Go to next page"
+msgstr "Go to next page"
+
+#: Text in echo
+#: admin/knews_admin_users.php:397
+#: admin/knews_admin_users.php:400
+msgid "Go to previous page"
+msgstr "Go to previous page"
+
+#: Text in echo
+#: admin/knews_admin_config.php:212
+msgid "Host SMTP"
+msgstr "Host SMTP"
+
+#: Text in echo
+#: admin/knews_admin_import.php:397
+msgid "If a user already exists (matches e-mail)"
+msgstr "If a user already exists (matches e-mail)"
+
+#: Text in echo
+#: admin/knews_admin_import.php:287
+msgid "If you see the correct values, press \"Continue\""
+msgstr "If you see the correct values, press \"Continue\""
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "If you can read this e-mail, SMTP is correctly configured and you can activate it in Knews preferences"
+msgstr "If you can read this e-mail, SMTP is correctly configured and you can activate it in Knews preferences"
+
+#: Text in echo
+#: admin/knews_admin_import.php:368
+msgid "If you choose a column, allowed values ​​are:"
+msgstr "If you choose a column, allowed values ​​are:"
+
+#: Text in echo
+#: admin/knews_admin_import.php:229
+msgid "If you do not know what values ​​to put, leave these initially, later you can change it"
+msgstr "If you do not know what values ​​to put, leave these initially, later you can change it"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "If you enter a value manually, this will be the same for all users imported"
+msgstr "If you enter a value manually, this will be the same for all users imported"
+
+#: Text in echo
+#: admin/knews_admin_import.php:221
+msgid "Import"
+msgstr "Import"
+
+#: Text in echo
+#: admin/knews_admin_import.php:214
+#: knews.php:520
+msgid "Import CSV"
+msgstr "Import CSV"
+
+#: Text in echo
+#: admin/knews_admin_import.php:691
+msgid "Import finished"
+msgstr "Import finished"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Import preview (we have not made ​​any changes yet:"
+msgstr "Import preview (we have not made ​​any changes yet:"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Import results"
+msgstr "Import results"
+
+#: Text in function
+#: admin/knews_admin_users.php:246
+msgid "Inactive language"
+msgstr "Inactive language"
+
+#: Text in echo
+#: admin/knews_admin_config.php:180
+msgid "Instructions for setting up CRON"
+msgstr "Instructions for setting up CRON"
+
+#: Text in echo
+#: admin/knews_admin_import.php:362
+#: admin/knews_admin_users.php:246
+#: admin/knews_admin_users.php:326
+#: admin/knews_admin_users.php:460
+msgid "Language"
+msgstr "Language"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Leave empty"
+msgstr "Leave empty"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:131
+msgid "List name"
+msgstr "List name"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:162
+msgid "Mailing list"
+msgstr "Mailing list"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "Mailing list created"
+msgstr "Mailing list created"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:78
+#: knews.php:520
+msgid "Mailing lists"
+msgstr "Mailing lists"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "Mailing lists updated"
+msgstr "Mailing lists updated"
+
+#: Text in echo
+#: admin/knews_admin_users.php:152
+msgid "Main"
+msgstr "Main"
+
+#: Text in echo
+#: admin/knews_admin_users.php:170
+msgid "Main field"
+msgstr "Main field"
+
+#: Text in echo
+#: admin/knews_admin_config.php:84
+#: admin/knews_admin_config.php:142
+msgid "Main options"
+msgstr "Main options"
+
+#: Text in echo
+#: admin/knews_admin_import.php:398
+msgid "Maintain current data"
+msgstr "Maintain current data"
+
+#: Text in echo
+#: admin/knews_admin_import.php:402
+msgid "Make preview"
+msgstr "Make preview"
+
+#: Text in echo
+#: admin/knews_admin_users.php:171
+msgid "Marking this box, this field will be visible in the users table. We recommend you don't mark more than 2 or 3 fields to avoid a confusing table"
+msgstr "Marking this box, this field will be visible in the users table. We recommend you don't mark more than 2 or 3 fields to avoid a confusing table"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:154
+msgid "Modified"
+msgstr "Modified"
+
+#: Text in echo
+#: admin/knews_admin_config.php:145
+msgid "Multilingual"
+msgstr "Multilingual"
+
+#: Text in echo
+#: admin/knews_admin_users.php:165
+#: admin/knews_admin_news_list.php:178
+msgid "Name"
+msgstr "Name"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:89
+msgid "Name list"
+msgstr "Name list"
+
+#: Text in echo
+#: admin/knews_admin_users.php:167
+msgid "Name of extra field"
+msgstr "Name of extra field"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:66
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "Failed to create the Newsletter"
+msgstr "Failed to create the Newsletter"
+
+#: Text in function
+#: admin/knews_admin_news_edit.php:22
+msgid "Newsletter doesn't exists"
+msgstr "Newsletter doesn't exists"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "Newsletter list updated"
+msgstr "Newsletter list updated"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:152
+msgid "Newsletter name"
+msgstr "Newsletter name"
+
+#: Text in echo
+#: direct/edit_news.php:51
+msgid "Newsletter saved"
+msgstr "Newsletter saved"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:123
+#: admin/knews_admin_news_edit.php:21
+#: admin/knews_admin_news_list.php:111
+#: knews.php:520
+msgid "Newsletters"
+msgstr "Newsletters"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "No"
+msgstr "No"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "No delimiters"
+msgstr "No delimiters"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+msgid "Not confirmed"
+msgstr "Not confirmed"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:179
+msgid "Now you must click here, then a window that emulates CRON with JavaScript will open. You should leave it open till sending ends."
+msgstr "Now you must click here, then a window that emulates CRON with JavaScript will open. You should leave it open till sending ends."
+
+#: Text in echo
+#: admin/knews_admin_import.php:646
+msgid "Of which have been successfully imported:"
+msgstr "Of which have been successfully imported:"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Ongoing"
+msgstr "Ongoing"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:90
+#: admin/knews_admin_lists.php:132
+msgid "Open"
+msgstr "Open"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:91
+#: admin/knews_admin_lists.php:133
+msgid "Open for registered users"
+msgstr "Open for registered users"
+
+#: Text in echo
+#: admin/knews_admin_import.php:399
+msgid "Overwrite"
+msgstr "Overwrite"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Paused"
+msgstr "Paused"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Paused?"
+msgstr "Paused?"
+
+#: Text in echo
+#: admin/knews_admin_import.php:361
+msgid "Permission"
+msgstr "Permission"
+
+#: Text in echo
+#: admin/knews_admin_config.php:213
+msgid "Port SMTP"
+msgstr "Port SMTP"
+
+#: Text in echo
+#: admin/knews_admin_import.php:220
+#: admin/knews_admin_news_list.php:157
+#: admin/knews_admin_news_list.php:167
+msgid "Preview"
+msgstr "Preview"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:67
+#: admin/knews_admin_news_send.php:173
+msgid "Priority"
+msgstr "Priority"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:71
+msgid "Progress / Results"
+msgstr "Progress / Results"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "Properly tabulated"
+msgstr "Properly tabulated"
+
+#: Text in echo
+#: admin/knews_admin_config.php:220
+msgid "Recipient"
+msgstr "Recipient"
+
+#: Text in echo
+#: admin/knews_admin_config.php:215
+msgid "SMTP Password"
+msgstr "SMTP Password"
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "SMTP Submit e-mail test done"
+msgstr "SMTP Submit e-mail test done"
+
+#: Text in echo
+#: admin/knews_admin_config.php:214
+msgid "SMTP User"
+msgstr "SMTP User"
+
+#: Text in echo
+#: direct/edit_news.php:73
+#: admin/knews_admin_config.php:116
+#: admin/knews_admin_config.php:228
+msgid "Save"
+msgstr "Save"
+
+#: Text in function
+#: admin/knews_admin_config.php:232
+msgid "Saved."
+msgstr "Saved."
+
+#: Text in echo
+#: admin/knews_admin_import.php:279
+msgid "Scan CSV again"
+msgstr "Scan CSV again"
+
+#: Text in function
+#: admin/knews_admin_lists.php:152
+msgid "See users"
+msgstr "See users"
+
+#: Text in echo
+#: direct/select_post.php:59
+msgid "Select the post to insert in the newsletter"
+msgstr "Select the post to insert in the newsletter"
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "Send e-mail confirmation"
+msgstr "Send e-mail confirmation"
+
+#: Text in echo
+#: admin/knews_admin_config.php:210
+msgid "Send e-mails using SMTP (recommended)"
+msgstr "Send e-mails using SMTP (recommended)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:191
+msgid "Send the newsletter manually"
+msgstr "Send the newsletter manually"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:131
+msgid "Send the newsletter to the following lists"
+msgstr "Send the newsletter to the following lists"
+
+#: Text in echo
+#: admin/knews_admin_config.php:187
+msgid "Sender"
+msgstr "Sender"
+
+#: Text in echo
+#: admin/knews_admin_config.php:188
+msgid "Sender e-mail"
+msgstr "Sender e-mail"
+
+#: Text in echo
+#: admin/knews_admin_config.php:189
+msgid "Sender name"
+msgstr "Sender name"
+
+#: Text in echo
+#: admin/knews_admin_config.php:194
+msgid "Sending"
+msgstr "Sending"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:179
+msgid "Sending SMTP is not enabled, the shipments are less reliable."
+msgstr "Sending SMTP is not enabled, the shipments are less reliable."
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:130
+msgid "Sending newsletter"
+msgstr "Sending newsletter"
+
+#: Text in echo
+#: admin/knews_admin_import.php:66
+msgid "Separator"
+msgstr "Separator"
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "Shipping done, check that the mail has arrived."
+msgstr "Shipping done, check that the mail has arrived."
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Special"
+msgstr "Special"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:172
+msgid "Start (now or deferred)?"
+msgstr "Start (now or deferred)?"
+
+#: Text in echo
+#: admin/knews_admin_import.php:357
+#: admin/knews_admin_users.php:233
+#: admin/knews_admin_users.php:326
+msgid "State"
+msgstr "State"
+
+#: Text in function
+#: knews.php:520
+msgid "Stats"
+msgstr "Stats"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:72
+msgid "Status"
+msgstr "Status"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:69
+msgid "Submit end"
+msgstr "Submit end"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:158
+#: admin/knews_admin_news_list.php:167
+#: knews.php:517
+msgid "Submit"
+msgstr "Submit"
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "Submit error."
+msgstr "Submit error."
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:197
+msgid "Submit newsletter"
+msgstr "Submit newsletter"
+
+msgid "Continue editing"
+msgstr "Continue editing"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:68
+msgid "Submit start"
+msgstr "Submit start"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:2
+#: knews.php:520
+msgid "Submits"
+msgstr "Submits"
+
+#: Text in echo
+#: admin/knews_admin_import.php:387
+msgid "Subscribe all users to the following mailing lists:"
+msgstr "Subscribe all users to the following mailing lists:"
+
+#: Text in echo
+#: admin/knews_admin_users.php:136
+#: admin/knews_admin_users.php:190
+#: knews.php:520
+msgid "Subscribers"
+msgstr "Subscribers"
+
+#: Text in echo
+#: admin/knews_admin_users.php:245
+#: admin/knews_admin_users.php:326
+msgid "Subscriptions"
+msgstr "Subscriptions"
+
+#: Text in echo
+#: admin/knews_admin_config.php:208
+msgid "Submit method"
+msgstr "Submit method"
+
+#: Text in function
+#: knews.php:520
+msgid "Today, at"
+msgstr "Today, at"
+
+#: Text in function
+#: knews.php:520
+msgid "Tomorrow, at"
+msgstr "Tomorrow, at"
+
+#: Text in function
+#: knews.php:520
+msgid "at"
+msgstr "at"
+
+#: Text in function
+#: knews.php:520
+msgid "Yesterday, at"
+msgstr "Yesterday, at"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:155
+msgid "Template"
+msgstr "Template"
+
+#: Text in echo
+#: admin/knews_admin_config.php:223
+msgid "Test SMTP config"
+msgstr "Test SMTP config"
+
+#: Text in echo
+#: admin/knews_admin_config.php:148
+msgid "The WPML plugin was not detected, multilingual options are not functional"
+msgstr "The WPML plugin was not detected, multilingual options are not functional"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "The directory /wp-content/plugins/knews/tmp must be writable (chmod 700)"
+msgstr "The directory /wp-content/plugins/knews/tmp must be writable (chmod 700)"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The field already exists"
+msgstr "The field already exists"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The field has been added"
+msgstr "The field has been added"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The field name can't be empty"
+msgstr "The field name can't be empty"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The fields have been updated"
+msgstr "The fields have been updated"
+
+#: Text in echo
+#: admin/knews_admin_import.php:90
+msgid "The first row is a header"
+msgstr "The first row is a header"
+
+#: Text in echo
+#: admin/knews_admin_config.php:165
+#: admin/knews_admin_config.php:172
+msgid "The last execution was done"
+msgstr "The last execution was done"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:124
+msgid "The newsletter doesn't exists"
+msgstr "The newsletter doesn't exists"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "The newsletter has been created successfully"
+msgstr "The newsletter has been created successfully"
+
+#: Text in echo
+#: admin/knews_admin_users.php:176
+msgid "A token is used to insert a field in the newsletter. Should be located between %, with no spaces, for example: %name%"
+msgstr "A token is used to insert a field in the newsletter. Should be located between %, with no spaces, for example: %name%"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has been added and an e-mail confirmation has been sent"
+msgstr "The user has been added and an e-mail confirmation has been sent"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has been added and from now on he will receive the newsletters"
+msgstr "The user has been added and from now on he will receive the newsletters"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has been added but an error occurred in sending e-mail confirmation"
+msgstr "The user has been added but an error occurred in sending e-mail confirmation"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has not been inserted"
+msgstr "The user has not been inserted"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user was already introduced"
+msgstr "The user was already introduced"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "There is already another newsletter with the same name!"
+msgstr "There is already another newsletter with the same name!"
+
+#: Text in echo
+#: admin/knews_admin_import.php:651
+msgid "There have been created:"
+msgstr "There have been created:"
+
+#: Text in echo
+#: admin/knews_admin_import.php:653
+msgid "There have been updated:"
+msgstr "There have been updated:"
+
+#: Text in echo
+#: admin/knews_admin_import.php:356
+msgid "This field is required to take it in some column"
+msgstr "This field is required to take it in some column"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:172
+msgid "Time"
+msgstr "Time"
+
+#: Text in echo
+#: admin/knews_admin_users.php:152
+#: admin/knews_admin_users.php:174
+msgid "Token"
+msgstr "Token"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:201
+msgid "The single e-mail has been sent to:"
+msgstr "The single e-mail has been sent to:"
+
+#: Text in function
+#: knews.php:1
+msgid "Unique language"
+msgstr "Unique language"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Unknown language"
+msgstr "Unknown language"
+
+#: Text in echo
+#: admin/knews_admin_users.php:154
+msgid "Update fields"
+msgstr "Update fields"
+
+#: Text in echo
+#: admin/knews_admin_users.php:260
+msgid "Update user"
+msgstr "Update user"
+
+#: Text in echo
+#: admin/knews_admin_config.php:153
+msgid "Use the WPML defined languages to operate Knews in multilanguage mode"
+msgstr "Use the WPML defined languages to operate Knews in multilanguage mode"
+
+msgid "Use the qTranslate defined languages to operate Knews in multilanguage mode"
+msgstr "Use the qTranslate defined languages to operate Knews in multilanguage mode"
+
+msgid "Operate Knews as monolingual"
+msgstr "Operate Knews as monolingual"
+
+msgid "No mulilanguage plugins detected. Knews works with qTranslate and WPML plugins"
+msgstr "No mulilanguage plugins detected. Knews works with qTranslate and WPML plugins"
+
+msgid "qTranslate: free plugin"
+msgstr "qTranslate: free plugin"
+
+msgid "WPML: commercial plugin"
+msgstr "WPML: commercial plugin"
+
+msgid "Note: Knews authors have no relationship with qTranslate or WMPL authors."
+msgstr "Note: Knews authors have no relationship with qTranslate or WMPL authors."
+
+msgid "If you leave now this page, the Newsletter changes will be lost. Please, cancel and press the \"Save\" button (blue coloured)."
+msgstr "If you leave now this page, the Newsletter changes will be lost. Please, cancel and press the \"Save\" button (blue coloured)."
+
+msgid "The multilanguage plugin has stopped working."
+msgstr "The multilanguage plugin has stopped working."
+
+msgid "Welcome to Knews."
+msgstr "Welcome to Knews."
+
+msgid "Please, go to %s configuration page"
+msgstr "Please, go to %s configuration page"
+
+msgid "Don't show this message again [x]"
+msgstr "Don't show this message again [x]"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "The user already exists"
+msgstr "The user already exists"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "User data updated"
+msgstr "User data updated"
+
+#: Text in function
+#: admin/knews_admin_users.php:263
+msgid "User not found"
+msgstr "User not found"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:70
+msgid "Users"
+msgstr "Users"
+
+#: Text in function
+#: admin/knews_admin_users.php:460
+msgid "There are not yet users"
+msgstr "There are not yet users"
+
+#: Text in echo
+#: admin/knews_admin_import.php:658
+msgid "Users unconfirmed (You should do confirmation manually):"
+msgstr "Users unconfirmed (You should do confirmation manually):"
+
+#: Text in echo
+#: admin/knews_admin_import.php:361
+msgid "Send a confirmation e-mail to the unconfirmed users (not to the locked ones)"
+msgstr "Send a confirmation e-mail to the unconfirmed users (not to the locked ones)"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "Using special characters (accents) correctly coded"
+msgstr "Using special characters (accents) correctly coded"
+
+#: Text in echo
+#: admin/knews_admin_users.php:207
+#: admin/knews_admin_users.php:257
+msgid "Value"
+msgstr "Value"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+#: admin/knews_admin_users.php:464
+msgid "Wrong e-mail"
+msgstr "Wrong e-mail"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Wrong state"
+msgstr "Wrong state"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Yes"
+msgstr "Yes"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:179
+msgid "You cannot schedule a delayed delivery. You must leave an auxiliary window open (JavaScript CRON Emulation) until the sending ends"
+msgstr "You cannot schedule a delayed delivery. You must leave an auxiliary window open (JavaScript CRON Emulation) until the sending ends"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "You must choose a name for the new newsletter!"
+msgstr "You must choose a name for the new newsletter!"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "You must choose a template!"
+msgstr "You must choose a template!"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "You must upload a file."
+msgstr "You must upload a file."
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "You should be seeing the header and the four first lines of the CSV:"
+msgstr "You should be seeing the header and the four first lines of the CSV:"
+
+msgid "widget_title"
+msgstr "Subscribe me"
+
+msgid "widget_label_email"
+msgstr "Email:"
+
+msgid "Widget submit button"
+msgstr "Widget submit button"
+
+msgid "widget_button"
+msgstr "Send"
+
+msgid "You were already a subscriber (AJAX message)"
+msgstr "You were already a subscriber (AJAX message)"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription"
+msgstr "We just sent you an e-mail to confirm your subscription"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription_direct"
+msgstr "You have been successfully subscribed"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription_oops"
+msgstr "You were already subscribed"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription_error"
+msgstr "An error ocurred while sending e-mail confirmation"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_wrong_email"
+msgstr "Your e-mail address seems to be incorrect. Please check it back"
+
+#: Text in function
+#: knews.php:1
+msgid "email_subscription_subject"
+msgstr "Newsletter sign up"
+
+#: Text in function
+#: knews.php:1
+msgid "email_subscription_body"
+msgstr "<p>You've asked to be subscribed to the newsletter of #blog_name#, you must confirm your registration by clicking <a href=\"#url_confirm#\">here</a>.</p><p>You can paste the address in the browser:<br>#url_confirm#</p>"
+
+#: Text in echo
+#: dialogs.php:28
+msgid "subscription_ok_title"
+msgstr "Your subscription has been confirmed"
+
+#: Text in echo
+#: dialogs.php:29
+msgid "subscription_ok_message"
+msgstr "From now on, you will receive our newsletters.<br><br><strong>Thank you.</strong>"
+
+#: Text in echo
+#: dialogs.php:35
+msgid "subscription_error_title"
+msgstr "Error on subscription"
+
+#: Text in echo
+#: dialogs.php:50
+msgid "subscription_error_message"
+msgstr "Please, try it again. If necessary, copy the entire link in the browser bar.<br><br><strong>We apologize for the inconvenience</strong>"
+
+#: Text in echo
+#: dialogs.php:49
+msgid "subscription_stop_error_title"
+msgstr "Fail to cancel your subscription"
+
+#: Text in echo
+#: dialogs.php:50
+msgid "subscription_stop_error_message"
+msgstr "Please, try it again. If necessary, copy the entire email link in the navigation bar. Sorry for the inconvenience."
+
+#: Text in echo
+#: dialogs.php:42
+msgid "subscription_stop_ok_title"
+msgstr "Your subscription has been cancelled"
+
+#: Text in echo
+#: dialogs.php:43
+msgid "subscription_stop_ok_message"
+msgstr "From now on, you will no longer receive our newsletters. Thank you."
+
+#: Text in echo
+#: dialogs.php:52
+msgid "dialogs_close_button"
+msgstr "Close"
+
+#: Text in echo
+#: admin/knews_admin_import.php:373
+msgid "year-month-day"
+msgstr "year-month-day"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+#: admin/knews_admin_users.php:236
+msgid "blocked"
+msgstr "blocked"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "can't create the mailing list"
+msgstr "can't create the mailing list"
+
+#: Text in function
+#: admin/knews_admin_import.php:359
+#: admin/knews_admin_users.php:235
+msgid "confirmed"
+msgstr "confirmed"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "deleted"
+msgstr "deleted"
+
+#: Text in echo
+#: admin/knews_admin_import.php:371
+msgid "day-month-year"
+msgstr "day-month-year"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "If not, change the separator values and / or closing. Then press \"Scan CSV again\":"
+msgstr "If not, change the separator values and / or closing. Then press \"Scan CSV again\":"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "introduce value"
+msgstr "introduce value"
+
+#: Text in echo
+#: admin/knews_admin_import.php:372
+msgid "month-day-year"
+msgstr "month-day-year"
+
+#: Text in echo
+#: admin/knews_admin_config.php:165
+#: admin/knews_admin_config.php:172
+msgid "minutes ago"
+msgstr "minutes ago"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:167
+msgid "never"
+msgstr "never"
+
+#: Text in function
+#: admin/knews_admin_import.php:358
+#: admin/knews_admin_users.php:234
+msgid "not confirmed"
+msgstr "not confirmed"
+
+#: Text in function
+#: admin/knews_admin_users.php:246
+#: admin/knews_admin_users.php:460
+msgid "Language not detected!"
+msgstr "Language not detected!"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "test mode"
+msgstr "test mode"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "there is already a list with this name!"
+msgstr "there is already a list with this name!"
+
+#: Text in echo
+#: admin/knews_admin_import.php:644
+#: admin/knews_admin_import.php:646
+#: admin/knews_admin_import.php:649
+#: admin/knews_admin_import.php:651
+#: admin/knews_admin_import.php:653
+#: admin/knews_admin_import.php:665
+#: admin/knews_admin_import.php:668
+#: admin/knews_admin_users.php:394
+msgid "users"
+msgstr "users"
+
+#: Text in echo
+#: phpscanner.php:17
+msgid "E-mail on automatically import (body)"
+msgstr "E-mail on automatically import (body)"
+
+#: Text in echo
+#: phpscanner.php:16
+msgid "E-mail on automatically import (title)"
+msgstr "E-mail on automatically import (title)"
+
+#: Text in echo
+#: phpscanner.php:26
+msgid "Close Button Caption"
+msgstr "Close Button Caption"
+
+#: Text in echo
+#: phpscanner.php:15
+msgid "Confirmation E-mail (body)"
+msgstr "Confirmation E-mail (body)"
+
+#: Text in echo
+#: phpscanner.php:14
+msgid "Confirmation E-mail (subject)"
+msgstr "Confirmation E-mail (subject)"
+
+#: Text in echo
+#: phpscanner.php:21
+msgid "Subscription Error Dialog (Message)"
+msgstr "Subscription Error Dialog (Message)"
+
+#: Text in echo
+#: phpscanner.php:20
+msgid "Subscription Error Dialog (Title)"
+msgstr "Subscription Error Dialog (Title)"
+
+#: Text in echo
+#: phpscanner.php:19
+msgid "Subscription OK Dialog (Message)"
+msgstr "Subscription OK Dialog (Message)"
+
+#: Text in echo
+#: phpscanner.php:18
+msgid "Subscription OK Dialog (Title)"
+msgstr "Subscription OK Dialog (Title)"
+
+#: Text in echo
+#: phpscanner.php:11
+msgid "Subscription done, you were already subscribed (AJAX message)"
+msgstr "Subscription done, you were already subscribed (AJAX message)"
+
+#: Text in echo
+#: phpscanner.php:10
+msgid "We have sent you a confirmation e-mail (AJAX message)"
+msgstr "We have sent you a confirmation e-mail (AJAX message)"
+
+#: Text in echo
+#: phpscanner.php:13
+msgid "Subscription error (AJAX message)"
+msgstr "Subscription error (AJAX message)"
+
+#: Text in echo
+#: phpscanner.php:23
+msgid "UnSubscribe Error Dialog (Message)"
+msgstr "UnSubscribe Error Dialog (Message)"
+
+#: Text in echo
+#: phpscanner.php:22
+msgid "UnSubscribe Error Dialog (Title)"
+msgstr "UnSubscribe Error Dialog (Title)"
+
+#: Text in echo
+#: phpscanner.php:25
+msgid "UnSubscribe OK Dialog (Message)"
+msgstr "UnSubscribe OK Dialog (Message)"
+
+#: Text in echo
+#: phpscanner.php:24
+msgid "UnSubscribe OK Dialog (Title)"
+msgstr "UnSubscribe OK Dialog (Title)"
+
+#: Text in echo
+#: phpscanner.php:9
+msgid "Wrong e-mail address, please check (AJAX message)"
+msgstr "Wrong e-mail address, please check (AJAX message)"
+
+#: Text in echo
+#: phpscanner.php:36
+msgid "email_importation_body"
+msgstr "You have been subscribed to the newsletters  of the #blog_name#, you should confirm your subscription by clicking <a href=\"#url_confirm#\">here</a>.</p><p>You can paste the address into a browser:<br>#url_confirm#</p>"
+
+#: Text in echo
+#: phpscanner.php:35
+msgid "email_importation_subject"
+msgstr "Newsletter sign up"
+
+msgid "deleted list"
+msgstr "deleted list"
+
+msgid "Total errors:"
+msgstr "Total errors:"
+
+msgid "User deleted"
+msgstr "User deleted"
+
+msgid "Edit this user"
+msgstr "Edit this user"
+
+msgid "Activate this user"
+msgstr "Activate this user"
+
+msgid "Activate"
+msgstr "Activate"
+
+msgid "Delete definitively this user"
+msgstr "Delete definitively this user"
+
+msgid "Block this user"
+msgstr "Block this user"
+
+msgid "Block"
+msgstr "Block"
+
+msgid "Batch actions"
+msgstr "Batch actions"
+
+msgid "Apply"
+msgstr "Apply"
+
+msgid "Rename"
+msgstr "Rename"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Only update"
+msgstr "Only update"
+
+msgid "Only delete"
+msgstr "Only delete"
+
+msgid "See fails"
+msgstr "See fails"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Progress"
+msgstr "Progress"
+
+msgid "Rename this list"
+msgstr "Rename this list"
+
+msgid "See this list users"
+msgstr "See this list users"
+
+msgid "Delete definitively this newsletter"
+msgstr "Delete definitively this newsletter"
+
+msgid "Edit this newsletter"
+msgstr "Edit this newsletter"
+
+msgid "Rename this newsletter"
+msgstr "Rename this newsletter"
+
+msgid "Open a preview in a new window"
+msgstr "Open a preview in a new window"
+
+msgid "Submit this newsletter"
+msgstr "Submit this newsletter"
+
+msgid "Change the priority"
+msgstr "Change the priority"
+
+msgid "Set the current date and time as start submit time"
+msgstr "Set the current date and time as start submit time"
+
+msgid "Pause this submit"
+msgstr "Pause this submit"
+
+msgid "Remove pause, continue submit"
+msgstr "Remove pause, continue submit"
+
+msgid "Start now"
+msgstr "Start now"
+
+msgid "See report fails by SMTP server"
+msgstr "See report fails by SMTP server"
+
+msgid "Stop and delete this submit now"
+msgstr "Stop and delete this submit now"
+
+msgid "Error: This newsletter does not exist"
+msgstr "Error: This newsletter does not exist"
+
+msgid "Do you really want to delete this module?"
+msgstr "Do you really want to delete this module?"
+
+msgid "Move module"
+msgstr "Move module"
+
+msgid "Delete module"
+msgstr "Delete module"
+
+msgid "Subject"
+msgstr "Subject"
+
+msgid "Posts"
+msgstr "Posts"
+
+msgid "Pages"
+msgstr "Pages"
+
+msgid "Reset all alerts"
+msgstr "Reset all alerts"
+
+msgid "Reset all messages to default values (all languages at once)"
+msgstr "Reset all messages to default values (all languages at once)"
+
+msgid "Knews will try to resend those messages which have reported error"
+msgstr "Knews will try to resend those messages which have reported error"
+
+msgid "Resubmit those which have reported error"
+msgstr "Resubmit those which have reported error"
+
+msgid "Retry"
+msgstr "Retry"
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "1. Select the users you want to export:"
+msgstr "1. Select the users you want to export:"
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "1.1. Select the lists to export:"
+msgstr "1.1. Select the lists to export:"
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "1.2. Select the languages to export:"
+msgstr "1.2. Select the languages to export:"
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "2. Format options:"
+msgstr "2. Format options:"
+
+#: Text in function
+#: knews_admin_export.php:143
+msgid "E-mail"
+msgstr "E-mail"
+
+#: Text in echo
+#: knews_admin_export.php:71
+#: knews_admin_export.php:195
+msgid "Export users"
+msgstr "Export users"
+
+#: Text in echo
+#: knews_admin_export.php:189
+msgid "Insert a header in the first row"
+msgstr "Insert a header in the first row"
+
+#: Text in function
+#: knews_admin_export.php:143
+msgid "No users match criteria"
+msgstr "No users match criteria"
+
+#: Text in function
+#: knews_admin_export.php:143
+msgid "Select at least one list and one language."
+msgstr "Select at least one list and one language."
+
+#: Text in function
+#: knews_admin_export.php:142
+msgid "To download the .CSV, click %s here"
+msgstr "To download the .CSV, click %s here"
+
+msgid "Export CSV"
+msgstr "Export CSV"
+
+msgid "Note: mark all lists and the desired language/s to filter by language, or all languages and desired lists to filter by list,"
+msgstr "Note: mark all lists and the desired language/s to filter by language, or all languages and desired lists to filter by list,"
+
+msgid "...or all lists and all languages to export all users."
+msgstr "...or all lists and all languages to export all users."
+
+msgid "%s users have been exported."
+msgstr "%s users have been exported."
+
+msgid "Lists"
+msgstr "Lists"
+
+msgid "Edit image"
+msgstr "Edit image"
+
+msgid "Insert post/page content"
+msgstr "Insert post/page content"
+
+msgid "Free text content"
+msgstr "Free text content"
+
+msgid "Resize toolbox"
+msgstr "Resize toolbox"
+
+msgid "Warning! IE 6/7 can't edit newsletters! The editor uses HTML5 properties, you need upgrade at least to IE8, or use an modern Firefox, Chrome or Safari."
+msgstr "Warning! IE 6/7 can't edit newsletters! The editor uses HTML5 properties, you need upgrade at least to IE8, or use an modern Firefox, Chrome or Safari."
+
+msgid "Warning! Opera can't edit newsletters. You must use a modern Firefox, Chrome, Safari or at least Internet Explorer 8."
+msgstr "Warning! Opera can't edit newsletters. You must use a modern Firefox, Chrome, Safari or at least Internet Explorer 8."
+
+msgid "Warning! You should activate JavaScript to edit newsletters!"
+msgstr "Warning! You should activate JavaScript to edit newsletters!"
+
+msgid "No submits yet. First go to Newsletters, create one, and then submit it."
+msgstr "No submits yet. First go to newsletters, create one, and then submit it."
+
+msgid "Error: I can't write the .CSV file."
+msgstr "Error: I can't write the .CSV file."
+
+msgid "User join date"
+msgstr "User join date"
+
+msgid "All: today"
+msgstr "All: today"
+
+msgid "See log"
+msgstr "See log"
+
+msgid "See the complete submit log"
+msgstr "See the complete submit log"
+
+msgid "Alerts and logs"
+msgstr "Alerts and logs"
+
+msgid "Write logs (in /wp-content/plugins/knews/tmp directory) in submits"
+msgstr "Write logs (in /wp-content/plugins/knews/tmp directory) in submits"
+
+msgid "Go to template page"
+msgstr "Go to template page"
+
+msgid "Redirecting to editor..."
+msgstr "Redirecting to editor..."
+
+msgid "The e-mails submited to any e-mail terminated with @knewstest.com (like testing001@knewstest.com or xxx@knewstest.com) will be submited to: %s for your testing purposes"
+msgstr "The e-mails submited to any e-mail terminated with @knewstest.com (like testing001@knewstest.com or xxx@knewstest.com) will be submited to: %s for your testing purposes"
+
+msgid "List deleted"
+msgstr "List deleted"
+
+msgid "Submit start time updated"
+msgstr "Submit start time updated"
+
+msgid "List name updated"
+msgstr "List name updated"
+
+msgid "Submit deleted"
+msgstr "Submit deleted"
+
+msgid "Submit priority updated"
+msgstr "Submit priority updated"
+
+msgid "Use WordPress's built-in CRON framework."
+msgstr "Use WordPress's built-in CRON framework."
+
+msgid "This option no requires configuration, but in less traffic sites can be slow to submit"
+msgstr "This option no requires configuration, but in less traffic sites can be slow to submit"
+
+msgid "Use the JavaScript CRON emulation."
+msgstr "Use the JavaScript CRON emulation."
+
+msgid "This option requires you to keep a window open during submission and does not allow deferred submits"
+msgstr "This option requires you to keep a window open during submission and does not allow deferred submits"
+
+msgid "Check all mailing lists"
+msgstr "Check all mailing lists"
+
+msgid "Uncheck all mailing lists"
+msgstr "Uncheck all mailing lists"
+
+msgid "Duplicate"
+msgstr "Duplicate"
+
+msgid "Duplicate this newsletter"
+msgstr "Duplicate this newsletter"
+
+msgid "Apply changes and refresh image"
+msgstr "Apply changes and refresh image"
+
+msgid "Undo image changes"
+msgstr "Undo image changes"
+
+msgid "Properties of image"
+msgstr "Properties of image"
+
+msgid "Select one or more lists"
+msgstr "Select one or more lists"
+
+msgid "No active users in the selected list, nothing programmed to send."
+msgstr "No active users in the selected list, nothing programmed to send."
+
+msgid "Configure CRON tutorial"
+msgstr "Configure CRON tutorial"
+
+msgid "You must add this line in your webserver CRONTAB:"
+msgstr "You must add this line in your webserver CRONTAB:"
+
+msgid "Configure SMTP tutorial"
+msgstr "Configure SMTP tutorial"
+
+msgid "The language can't be localized"
+msgstr "The language can't be localized"
+
+msgid "You are in image edition mode. You must press Apply or Undo image changes (or press ESC key) before doing anything."
+msgstr "You are in image edition mode. You must press Apply or Undo image changes (or press ESC key) before doing anything."
+
+msgid "Image alt:"
+msgstr "Image alt:"
+
+msgid "The alternate text is very important, because most mail clients block initial image load and show the alternate image text."
+msgstr "The alternate text is very important, because most mail clients block initial image load and show the alternate image text."
+
+msgid "Image link:"
+msgstr "Image link:"
+
+msgid "Put a url if you want to put link around the image, for example: http://www.mysite.com/mypage.html."
+msgstr "Put a url if you want to put link around the image, for example: http://www.mysite.com/mypage.html."
+
+msgid "Multilanguage"
+msgstr "Multilanguage"
+
+msgid "Make your own templates how-to"
+msgstr "Make your own templates how-to"
+
+msgid "From date:"
+msgstr "From date:"
+
+msgid "to date:"
+msgstr "to date:"
+
+msgid "last 7 days"
+msgstr "last 7 days"
+
+msgid "last 30 days"
+msgstr "last 30 days"
+
+msgid "last week"
+msgstr "last week"
+
+msgid "last month"
+msgstr "last month"
+
+msgid "The date range you have selected is not available."
+msgstr "The date range you have selected is not available."
+
+msgid "Current status of subscriptions"
+msgstr "Current status of subscriptions"
+
+msgid "Active users:"
+msgstr "Active users:"
+
+msgid "Not confirmed:"
+msgstr "Not confirmed:"
+
+msgid "Unsubscribed users:"
+msgstr "Unsubscribed users:"
+
+msgid "Total:"
+msgstr "Total:"
+
+msgid "Currently have no subscribers."
+msgstr "Currently have no subscribers."
+
+msgid "Accumulated sign ups and unsubscribes from date:"
+msgstr "Accumulated sign ups and unsubscribes from date:"
+
+msgid "You must select a right date range"
+msgstr "You must select a right date range"
+
+msgid "Sign ups"
+msgstr "Sign ups"
+
+msgid "Unsubscriptions"
+msgstr "Unsubscriptions"
+
+msgid "Sendings"
+msgstr "Sendings"
+
+msgid "Sendings OK"
+msgstr "Sendings OK"
+
+msgid "Sendings Error"
+msgstr "Sendings Error"
+
+msgid "Cant read"
+msgstr "Can't read"
+
+msgid "Total clicks"
+msgstr "Total clicks"
+
+msgid "Newsletters & clicks from date:"
+msgstr "Newsletters & clicks from date:"
+
+msgid "Link clicks"
+msgstr "Link clicks"
+
+msgid "Total submits"
+msgstr "Total submits"
+
+msgid "Error: make sure the directory %s exists and has write permissions (chmod 700)."
+msgstr "Error: make sure the directory %s exists and has write permissions (chmod 700)."
+
+msgid "Error: there is no image selected"
+msgstr "Error: there is no image selected"
+
+msgid "Knews updated the database successfully. Welcome to %s version."
+msgstr "Knews updated the database successfully. Welcome to %s version."
+
+msgid "Customize widget messages"
+msgstr "Customize widget messages"
+
+msgid "Sign up date user cant be understood"
+msgstr "Sign up date user can't be understood"
+
+msgid "SQL Error while inserting user"
+msgstr "SQL Error while inserting user"
+
+msgid "SQL Error while updating user"
+msgstr "SQL Error while updating user"
+
+msgid "Warning: the email has no subject! %s Edit it again before submit!"
+msgstr "Warning: the email has no subject! %s Edit it again before submit!"
+
+msgid "Warning: %sConfigure sender name before submit!"
+msgstr "Warning: %sConfigure sender name before submit!"
+
+msgid "text_direction"
+msgstr "ltr"
+
+msgid "cant_read_text_1"
+msgstr "If you can't read this email click"
+
+msgid "cant_read_text_link"
+msgstr "here"
+
+msgid "cant_read_text_2"
+msgstr ""
+
+msgid "unsubscribe_text_1"
+msgstr "If you wish to unsubscribe from our mailing list, click"
+
+msgid "unsubscribe_text_link"
+msgstr "here"
+
+msgid "unsubscribe_text_2"
+msgstr ""
+
+msgid "Sign Ups & Blocks"
+msgstr "Sign Ups & Blocks"
+
+msgid "Use the CRON server (recommended)"
+msgstr "Use the CRON server (recommended)"
+
+msgid "Text direction, Left To Right or Right To Left: put <span style=\"color:#e00\">ltr</span> or <span style=\"color:#e00\">rtl</span>"
+msgstr "Text direction, Left To Right or Right To Left: put <span style=\"color:#e00\">ltr</span> or <span style=\"color:#e00\">rtl</span>"
+
+msgid "Default alignment (<span style=\"color:#e00\">left</span> for left to right languages and <span style=\"color:#e00\">right</span> for right to left languages)"
+msgstr "Default alignment (<span style=\"color:#e00\">left</span> for left to right languages and <span style=\"color:#e00\">right</span> for right to left languages)"
+
+msgid "Inverse alignment (<span style=\"color:#e00\">right</span> for left to right languages and <span style=\"color:#e00\">left</span> for right to left languages)"
+msgstr "Inverse alignment (<span style=\"color:#e00\">right</span> for left to right languages and <span style=\"color:#e00\">left</span> for right to left languages)"
+
+msgid "Cant read text 1"
+msgstr "Can't read text 1"
+
+msgid "Cant read text link"
+msgstr "Can't read text link"
+
+msgid "Cant read text 2"
+msgstr "Can't read text 2"
+
+msgid "Unsubscribe text 1"
+msgstr "Unsubscribe text 1"
+
+msgid "Unsubscribe text link"
+msgstr "Unsubscribe text link"
+
+msgid "Unsubscribe text 2"
+msgstr "Unsubscribe text 2"
+
+msgid "default_alignment"
+msgstr "left"
+
+msgid "inverse_alignment"
+msgstr "right"
+
+msgid "The read more text link"
+msgstr "The read more text link"
+
+msgid "read_more_link"
+msgstr "continue reading"
+
+msgid "Image URL:"
+msgstr "Image URL:"
+
+msgid "Image align:"
+msgstr "Image align:"
+
+msgid "Apply changes"
+msgstr "Apply changes"
+
+msgid "Undo"
+msgstr "Undo"
+
+msgid "Fast selection:"
+msgstr "Fast selection:"
+
+msgid "You are downgraded the version of Knews, you can lose data, please update quickly"
+msgstr "You are downgraded the version of Knews, you can lose data, please update quickly"
+
+msgid "http://www.knewsplugin.com/tutorial/"
+msgstr "http://www.knewsplugin.com/tutorial/"
+
+msgid "http://www.knewsplugin.com/configure-smtp-submits/"
+msgstr "http://www.knewsplugin.com/configure-smtp-submits/"
+
+msgid "http://www.knewsplugin.com/configure-webserver-cron/"
+msgstr "http://www.knewsplugin.com/configure-webserver-cron/"
+
+msgid "Multisite detected. Only one instance of %s must be called for all websites."
+msgstr "Multisite detected. Only one instance of %s must be called for all websites."
+
+msgid "Cant create the automated submit"
+msgstr "Can't create the automated submit"
+
+msgid "Widget \"%s\" label form"
+msgstr "Widget \"%s\" label form"
+
+msgid "Auto-create"
+msgstr "Auto-create"
+
+msgid "Knews Post Options"
+msgstr "Knews Post Options"
+
+msgid "Add a subscription form into the sidebar"
+msgstr "Add a subscription form into the sidebar"
+
+msgid "Dont ask"
+msgstr "Don't ask"
+
+msgid "Not required"
+msgstr "Not required"
+
+msgid "Required"
+msgstr "Required"
+
+msgid "Automated process deleted"
+msgstr "Automated process deleted"
+
+msgid "Automated process activated"
+msgstr "Automated process activated"
+
+msgid "Automated process deactivated"
+msgstr "Automated process deactivated"
+
+msgid "Automated submit activated"
+msgstr "Automated submit activated"
+
+msgid "Manual submit activated"
+msgstr "Manual submit activated"
+
+msgid "Automated submit created"
+msgstr "Automated submit created"
+
+msgid "Error: the name cant be empty"
+msgstr "Error: the name can't be empty"
+
+msgid "Error: there is already an automated submit with this name"
+msgstr "Error: there is already an automated submit with this name"
+
+msgid "Auto-create Newsletters"
+msgstr "Auto-create Newsletters"
+
+msgid "Automated process name"
+msgstr "Automated process name"
+
+msgid "Target"
+msgstr "Target"
+
+msgid "Activated"
+msgstr "Activated"
+
+msgid "Automatic submit"
+msgstr "Automatic submit"
+
+msgid "Method"
+msgstr "Method"
+
+msgid "Last run"
+msgstr "Last run"
+
+msgid "Activate/deactivate the automated task"
+msgstr "Activate/deactivate the automated task"
+
+msgid "Deactivate"
+msgstr "Deactivate"
+
+msgid "Automatic/Manual submits of auto-created newsletters"
+msgstr "Automatic/Manual submits of auto-created newsletters"
+
+msgid "Delete definitively this automated task"
+msgstr "Delete definitively this automated task"
+
+msgid "Off"
+msgstr "Off"
+
+msgid "On"
+msgstr "On"
+
+msgid "Automated submit"
+msgstr "Automated submit"
+
+msgid "Manual submit"
+msgstr "Manual submit"
+
+msgid "Automated submits"
+msgstr "Automated submits"
+
+msgid "At the moment there is no automated task, you can create new ones"
+msgstr "At the moment there is no automated task, you can create new ones"
+
+msgid "New Auto-creation Process"
+msgstr "New Auto-creation Process"
+
+msgid "Auto-create Newsletters Tutorial"
+msgstr "Auto-create Newsletters Tutorial"
+
+msgid "Get posts from language:"
+msgstr "Get posts from language:"
+
+msgid "Use as template:"
+msgstr "Use as template:"
+
+msgid "You must first create a newsletter with insertable info (leave the %the_content%, %the_title% etc.)"
+msgstr "You must first create a newsletter with insertable info (leave the %the_content%, %the_title% etc.)"
+
+msgid "Create a newsletter every %s posts"
+msgstr "Create a newsletter every %s posts"
+
+msgid "Error: there are no mailing lists"
+msgstr "Error: there are no mailing lists"
+
+msgid "Advanced options"
+msgstr "Advanced options"
+
+msgid "Automated options"
+msgstr "Automated options"
+
+msgid "Include the posts in the automated newsletters (default value for the new created posts)"
+msgstr "Include the posts in the automated newsletters (default value for the new created posts)"
+
+msgid "Manual Newsletters"
+msgstr "Manual Newsletters"
+
+msgid "Auto-created Newsletters"
+msgstr "Auto-created Newsletters"
+
+msgid "There is no auto-created newsletter."
+msgstr "There is no auto-created newsletter."
+
+msgid "http://www.knewsplugin.com/automated-newsletter-creation/"
+msgstr "http://www.knewsplugin.com/automated-newsletter-creation/"
+
+msgid "widget_label_name"
+msgstr "Name:"
+
+msgid "widget_label_surname"
+msgstr "Surname:"
+
+msgid "General options"
+msgstr "General options"
+
+msgid "Include this post in the automated newsletters?"
+msgstr "Include this post in the automated newsletters?"
+
+msgid "This post has been included into:"
+msgstr "This post has been included into:"
+
+msgid "This post still not included into any automated newsletter."
+msgstr "This post still not included into any automated newsletter."
+
+msgid "Active process:"
+msgstr "Active process:"
+
+msgid "Newsletter creation options"
+msgstr "Newsletter creation options"
+
+msgid "Create a newsletter every x amount of time"
+msgstr "Create a newsletter every x amount of time"
+
+msgid "Newsletter submit options"
+msgstr "Newsletter submit options"
+
+msgid "Target for newsletter:"
+msgstr "Target for newsletter:"
+
+msgid "Submit method:"
+msgstr "Submit method:"
+
+msgid "Messages reset to defaults."
+msgstr "Messages reset to defaults."
+
+msgid "(high performance SMTP)"
+msgstr "(high performance SMTP)"
+
+msgid "All categories"
+msgstr "All categories"
+
+msgid "Error: Please, fill all the form"
+msgstr "Error: Please, fill all the form"
+
+msgid "Mantain current data and add new mailing lists"
+msgstr "Mantain current data and add new mailing lists"
+
+msgid "of"
+msgstr "of"
+
+msgid "SMTP Secure"
+msgstr "SMTP Secure"
+
+msgid "Step"
+msgstr "Step"
+
+msgid "Submit automatic"
+msgstr "Submit automatic"
+
+msgid "This template requires Knews version %s you must update Knews before use this template"
+msgstr "This template requires Knews version %s you must update Knews before use this template"
+
+msgid "This template requires the professional version of Knews. You can get it %s here"
+msgstr "This template requires the professional version of Knews. You can get it %s here"
+
+msgid "Compatibility options"
+msgstr "Compatibility options"
+
+msgid "<strong>Knews is now registered</strong>. Go to %s plugins administration %s and click on Knews 'Check for updates' link for upgrade. Thank you very much."
+msgstr "<strong>Knews is now registered</strong>. Go to %s plugins administration %s and click on Knews 'Check for updates' link for upgrade. Thank you very much."
+
+msgid "Knews runs every hour the automated newsletter creation jobs."
+msgstr "Knews runs every hour the automated newsletter creation jobs."
+
+msgid "You can manually trigger this task now (only recommended for testing purposes) %s Run Automated Creation Now"
+msgstr "You can manually trigger this task now (only recommended for testing purposes) %s Run Automated Creation Now"
+
+msgid "Knews submit runs every 10 minutes and sends a portion of the list."
+msgstr "Knews submit runs every 10 minutes and sends a portion of the list."
+
+msgid "You can manually trigger the JavaScript CRON if your newsletter is not being sent for any reason: %s Run JS-Cron Now"
+msgstr "You can manually trigger the JavaScript CRON if your newsletter is not being sent for any reason: %s Run JS-Cron Now"
+
+msgid "Widget subscription form title"
+msgstr "Widget subscription form title"
+
+msgid "Widget latest newsletters title"
+msgstr "Widget latest newsletters title"
+
+msgid "Mobile version text link"
+msgstr "Mobile version text link"
+
+msgid "Desktop version text link"
+msgstr "Desktop version text link"
+
+msgid "You are downgraded to the free version of Knews, you can lose data, please update quickly! You can get the professional version %s here"
+msgstr "You are downgraded to the free version of Knews, you can lose data, please update quickly! You can get the professional version %s here"
+
+msgid "Max number of newsletters: <br />(-1 for infinite):"
+msgstr "Max number of newsletters: <br />(-1 for infinite):"
+
+msgid "Hide not sent newsletters?"
+msgstr "Hide not sent newsletters?"
+
+msgid "Hide automated newsletters?"
+msgstr "Hide automated newsletters?"
+
+msgid "Customize widget title"
+msgstr "Customize widget title"
+
+msgid "Knews Pro options"
+msgstr "Knews Pro options"
+
+msgid "Your e-mail (used for the Knews Shop account):"
+msgstr "Your e-mail (used for the Knews Shop account):"
+
+msgid "Registration"
+msgstr "Registration"
+
+msgid "Serial Key:"
+msgstr "Serial Key:"
+
+msgid "(get it in our shop, login and click on \"My Downloads\" page)"
+msgstr "(get it in our shop, login and click on \"My Downloads\" page)"
+
+msgid "Save Serial"
+msgstr "Save Serial"
+
+msgid "Bounce configuration"
+msgstr "Bounce configuration"
+
+msgid "Bounce detection deactivated"
+msgstr "Bounce detection deactivated"
+
+msgid "Bounce detection activated"
+msgstr "Bounce detection activated"
+
+msgid "POP3 Mail host:"
+msgstr "POP3 Mail host:"
+
+msgid "POP3 Port:"
+msgstr "POP3 Port:"
+
+msgid "User account:"
+msgstr "User account:"
+
+msgid "User password"
+msgstr "User password"
+
+msgid "Secure connection:"
+msgstr "Secure connection:"
+
+msgid "Before enabling the Bounce detection, enter the values and click on TEST button"
+msgstr "Before enabling the Bounce detection, enter the values and click on TEST button"
+
+msgid "Test POP3 config"
+msgstr "Test POP3 config"
+
+msgid "Cant connect to POP3 mail server, please, check the configuration values"
+msgstr "Can't connect to POP3 mail server, please, check the configuration values"
+
+msgid "Bounce tutorial"
+msgstr "Bounce tutorial"
+
+msgid "Knews Pro includes a bounce email detection system, it needs an dedicated account like bounce@yourdomain.com. First, create the account, next, fill the configuation fields, then test the connection and if all works fine, activate & save."
+msgstr "Knews Pro includes a bounce email detection system, it needs an dedicated account like bounce@yourdomain.com. First, create the account, next, fill the configuation fields, then test the connection and if all works fine, activate & save."
+
+msgid "Use post edition date instead post creation date for the automated newsletters (older posts never included in automation, will be included if you edit it and activate this option)"
+msgstr "Use post edition date instead post creation date for the automated newsletters (older posts never included in automation, will be included if you edit it and activate this option)"
+
+msgid "Apply filter the_content in the newsletter post insertion (Deactivate for compatibility issues with some plugins like NextGen Gallery)"
+msgstr "Apply filter the_content in the newsletter post insertion (Deactivate for compatibility issues with some plugins like NextGen Gallery)"
+
+msgid "<strong>Note</strong>: if you are using <strong>qTranslate</strong> you cant deactivate this option, because it uses this filter to divide the post contents into different languages."
+msgstr "<strong>Note</strong>: if you are using <strong>qTranslate</strong> you can't deactivate this option, because it uses this filter to divide the post contents into different languages."
+
+msgid "Prevent bot registrations. Some Cache Plugins can need deactivate this option (Subscribe always fails \"wrong e-mail adress\" message)."
+msgstr "Prevent bot registrations. Some Cache Plugins can need deactivate this option (Subscribe always fails \"wrong e-mail adress\" message)."
+
+msgid "Premium options"
+msgstr "Premium options"
+
+msgid "Hide default templates (only works if at least one template is installed into (/wp-content/uploads/knewstemplates/)"
+msgstr "Hide default templates (only works if at least one template is installed into (/wp-content/uploads/knewstemplates/)"
+
+msgid "Hide Knews Shop Products offers"
+msgstr "Hide Knews Shop Products offers"
+
+msgid "WordPress user syncronization"
+msgstr "WordPress user syncronization"
+
+msgid "Subscribe new WordPress users to:"
+msgstr "Subscribe new WordPress users to:"
+
+msgid "None"
+msgstr "None"
+
+msgid "Newsletter deleted"
+msgstr "Newsletter deleted"
+
+msgid "Newsletter name updated"
+msgstr "Newsletter name updated"
+
+msgid "Newsletter duplicated"
+msgstr "Newsletter duplicated"
+
+msgid "Desktop and mobile versions"
+msgstr "Desktop and mobile versions"
+
+msgid "Desktop version only"
+msgstr "Desktop version only"
+
+msgid "Unconfirmed"
+msgstr "Unconfirmed"
+
+msgid "Bounce"
+msgstr "Bounce"
+
+msgid "Bounced"
+msgstr "Bounced"
+
+msgid "Mark as bounced email"
+msgstr "Mark as bounced email"
+
+msgid "Mark as activated"
+msgstr "Mark as activated"
+
+msgid "Mark as blocked"
+msgstr "Mark as blocked"
+
+msgid "Mark as bounced"
+msgstr "Mark as bounced"
+
+msgid "Subscribe to list"
+msgstr "Subscribe to list"
+
+msgid "Unsubscribe to list"
+msgstr "Unsubscribe to list"
+
+msgid "Choose one list"
+msgstr "Choose one list"
+
+msgid "You dont have any mobile template!"
+msgstr "You dont have any mobile template!"
+
+msgid "There is a videotutorial about Knews WYSIWYG Editor, %s view it in Youtube"
+msgstr "There is a videotutorial about Knews WYSIWYG Editor, %s view it in Youtube"
+
+msgid "SSL"
+msgstr "SSL"
+
+msgid "Sorry, this is a premium feature. Please, %s click here and see all the Knews Pro features."
+msgstr "Sorry, this is a premium feature. Please, %s click here and see all the Knews Pro features."
+
+msgid "Warning! You arent selected any mailing list, do you want to continue?"
+msgstr "Warning! You arent selected any mailing list, do you want to continue?"
+
+msgid "The field name cant be empty"
+msgstr "The field name can't be empty"
+
+msgid "Select the %s filtered subscribers to perform a massive action"
+msgstr "Select the %s filtered subscribers to perform a massive action"
+
+msgid "Select all your subscribers (%s) to perform a massive action"
+msgstr "Select all your subscribers (%s) to perform a massive action"
+
+msgid "Roles and capabilities saved."
+msgstr "Roles and capabilities saved."
+
+msgid "Roles and capabilities"
+msgstr "Roles and capabilities"
+
+msgid "Role name"
+msgstr "Role name"
+
+msgid "Can see Knews Stats"
+msgstr "Can see Knews Stats"
+
+msgid "Can manage newsletters"
+msgstr "Can manage newsletters"
+
+msgid "Can manage users"
+msgstr "Can manage users"
+
+msgid "Can configure Knews"
+msgstr "Can configure Knews"
+
+msgid "All subscribers"
+msgstr "All subscribers"
+
+msgid "Do WordPress user importation"
+msgstr "Do WordPress user importation"
+
+msgid "Import <strong>all</strong> the WordPress users and subscribe into the mailing list:"
+msgstr "Import <strong>all</strong> the WordPress users and subscribe into the mailing list:"
+
+msgid "Assign the language:"
+msgstr "Assign the language:"
+
+msgid "Import WP users into Knews"
+msgstr "Import WP users into Knews"
+
+msgid "Users imported: %s. Users found before (not re-imported): %s."
+msgstr "Users imported: %s. Users found before (not re-imported): %s."
+
+msgid "Errors submitting confirmation: %s"
+msgstr "Errors submitting confirmation: %s"
+
+msgid "Order"
+msgstr "Order"
+
+msgid "New Auto-create Newsletters Process"
+msgstr "New Auto-create Newsletters Process"
+
+msgid "Automated process name:"
+msgstr "Automated process name:"
+
+msgid "desktop_version_text_link"
+msgstr "desktop_version_text_link"
+
+msgid "Knews Pro is currently installed."
+msgstr "Knews Pro is currently installed."
+
+msgid "Only from the %s main blog dashboard %s the Knews upgrades can be managed. Maybe only the network administrator can do it."
+msgstr "Only from the %s main blog dashboard %s the Knews upgrades can be managed. Maybe only the network administrator can do it."
+
+msgid "Warning: if you haven't any mailing list opened, the subscription widget will not shown"
+msgstr "Warning: if you haven't any mailing list opened, the subscription widget will not shown"
+
+msgid "Warning: you haven't any mailing list opened for logged users, the subscription widget will not shown until you make log out"
+msgstr "Warning: you haven't any mailing list opened for logged users, the subscription widget will not shown until you make log out"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:164
+#: admin/knews_admin_lists.php:148
+msgid "Save changes"
+msgstr "Save changes"
+
+#: Text in function
+#: knews.php:520
+msgid "Subscribe me"
+msgstr "Subscribe me"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:154
+msgid "WARNING"
+msgstr "WARNING"
+
+#: Text in echo
+#: admin/knews_admin_config.php:149
+msgid "here"
+msgstr "here"
+
+msgid "Show/hide handlers"
+msgstr "Show/hide handlers"
+
+msgid "Alerts"
+msgstr "Alerts"
+
+msgid "You must call the main blog www.yourdomain.com/wp-admin/admin-ajax.php?action=knewsCron URL"
+msgstr "You must call the main blog www.yourdomain.com/wp-admin/admin-ajax.php?action=knewsCron URL"
+
+msgid "mobile_version_text_link"
+msgstr "mobile_version_text_link"
+
+msgid "Widget %s label form"
+msgstr ""
+
+msgid "http://www.knewsplugin.com/automated-bounced-email-handling"
+msgstr "http://www.knewsplugin.com/automated-bounced-email-handling"
+

@@ -1,0 +1,2522 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Knews\n"
+"Language: ca\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carles <mail@carlesrever.com>\n"
+"Language-Team: \n"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Schedule submit"
+msgstr "Programar enviament"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "(highest)"
+msgstr "(la major)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "(lowest)"
+msgstr "(la menor)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "(normal)"
+msgstr "(normal)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Batch submit process has been properly scheduled."
+msgstr "El procés d'enviament ha estat programat correctament."
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "Activate user directly (don't send e-mail confirmation)"
+msgstr "Activar l'usuari directament (no enviar e-mail de confirmació)"
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "Filter by state"
+msgstr "Filtrar per estat"
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "No users match the search criteria"
+msgstr "Cap usuari acompleix els criteris de cerca"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:142
+msgid "Active users"
+msgstr "Usuaris actius"
+
+#: Text in echo
+#: admin/knews_admin_users.php:162
+msgid "Add extra field"
+msgstr "Afegir camp extra"
+
+#: Text in echo
+#: admin/knews_admin_users.php:178
+msgid "Add field"
+msgstr "Afegir camp"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:214
+msgid "Add newsletter"
+msgstr "Afegir newsletter"
+
+#: Text in function
+#: admin/knews_admin_import.php:358
+#: admin/knews_admin_import.php:359
+#: admin/knews_admin_import.php:360
+#: admin/knews_admin_users.php:309
+msgid "All"
+msgstr "Tots"
+
+#: Text in function
+#: admin/knews_admin_import.php:362
+msgid "All in"
+msgstr "Tots a"
+
+#: Text in echo
+#: admin/knews_admin_import.php:668
+msgid "And have been blocked in this import:"
+msgstr "I han estat bloquejats en aquesta importació:"
+
+#: Text in echo
+#: admin/knews_admin_import.php:649
+msgid "And there have not been imported:"
+msgstr "I no han estat importats:"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:155
+msgid "At the moment there is no list, you can create new ones"
+msgstr "De moment no hi ha cap llista, pots crear-ne de noves"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:170
+msgid "At the moment there is no newsletter, you can create new ones"
+msgstr "De moment no hi ha cap newsletter, pots crear-ne de noves"
+
+#: Text in echo
+#: admin/knews_admin_import.php:658
+msgid "Automatically send confirmation e-mails:"
+msgstr "Envia automàticament e-mails de confirmació:"
+
+#: Text in echo
+#: admin/knews_admin_config.php:219
+msgid "Before enabling the sending SMTP, enter the values and your e-mail and then click on TEST button"
+msgstr "Abans d'establir l'enviament per SMTP, entra els valors, el teu e-mail i fes clic a TEST"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+msgid "Blocked"
+msgstr "Bloquejat"
+
+#: Text in echo
+#: admin/knews_admin_config.php:157
+msgid "CRON"
+msgstr "CRON"
+
+#: Text in function
+#: admin/knews_admin_config.php:172
+msgid "CRON has not yet been configured"
+msgstr "CRON encara no ha estat configurat"
+
+#: Text in function
+#: admin/knews_admin_config.php:172
+msgid "CRON has stopped working."
+msgstr "CRON ha deixat de funcionar."
+
+#: Text in echo
+#: admin/knews_admin_config.php:164
+msgid "CRON is properly configured"
+msgstr "CRON està correctament configurat"
+
+#: Text in echo
+#: admin/knews_admin_import.php:228
+msgid "CSV File"
+msgstr "Fitxer CSV"
+
+#: Text in echo
+#: admin/knews_admin_import.php:217
+msgid "CSV Upload"
+msgstr "Pujar CSV"
+
+#: Text in echo
+#: admin/knews_admin_import.php:644
+msgid "CSV total:"
+msgstr "Total CSV:"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:201
+msgid "I can't submit an e-mail to:"
+msgstr "No puc enviar un e-mail a:"
+
+#: Text in echo
+#: admin/knews_admin_config.php:216
+msgid "Pay attention: If your SMTP server is anonymous leave SMTP User and SMTP Password fields blank"
+msgstr "Atenció: Si el teu servidor SMTP es anònim, deixa els camps Usuari SMTP i Contrasenya SMTP buits"
+
+#: Text in echo
+#: admin/knews_admin_import.php:374
+msgid "Check dates"
+msgstr "Comprovar dates"
+
+#: Text in function
+#: direct/edit_news.php:49
+msgid "Check the directory permissions for"
+msgstr "Comprova els permisos del directori"
+
+#: Text in echo
+#: admin/knews_admin_import.php:356
+msgid "Select a column"
+msgstr "Selecciona una columna"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:179
+msgid "Choose a template"
+msgstr "Escull un Template"
+
+#: Text in function
+#: knews.php:520
+msgid "Configuration"
+msgstr "Configuració"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+msgid "Confirmed"
+msgstr "Confirmat"
+
+#: Text in echo
+#: admin/knews_admin_import.php:294
+msgid "Continue"
+msgstr "Continuar"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:164
+msgid "Create a mailing list"
+msgstr "Crear una llista de correu"
+
+#: Text in echo
+#: admin/knews_admin_users.php:421
+msgid "Create a subscriber manually"
+msgstr "Crear un subscriptor manualment"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:159
+msgid "Create new mailing list"
+msgstr "Crear una nova llista de correu"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:175
+msgid "Create new newsletter"
+msgstr "Crear una nova Newsletter"
+
+#: Text in echo
+#: admin/knews_admin_users.php:457
+msgid "Create a user"
+msgstr "Crear usuari"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:153
+msgid "Created"
+msgstr "Creat"
+
+#: Text in echo
+#: direct/knews_cron.php:135
+msgid "Cron-JS finished, you can close the window"
+msgstr "Cron-JS acabat, pots tancar la finestra"
+
+#: Text in echo
+#: direct/knews_cron.php:131
+msgid "Cron-JS in the process, don't close this window..."
+msgstr "Cron-JS en procés, no tanquis la finestra..."
+
+#: Text in echo
+#: admin/knews_admin_config.php:85
+#: admin/knews_admin_config.php:143
+msgid "Customised messages"
+msgstr "Missatges personalitzats"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:172
+msgid "Date (day/month/year)"
+msgstr "Data (dia/mes/any)"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:159
+#: admin/knews_admin_lists.php:143
+msgid "Delete"
+msgstr "Eliminar"
+
+#: Text in echo
+#: admin/knews_admin_import.php:686
+msgid "Do the import"
+msgstr "Realitzar la importació"
+
+#: Text in echo
+#: admin/knews_admin_config.php:209
+msgid "E-mails sent internally using WordPress (wp_mail() function)"
+msgstr "E-mails enviats internament usant la funció de WordPress wp_mail()"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:156
+#: admin/knews_admin_news_list.php:167
+#: admin/knews_admin_lists.php:141
+msgid "Edit"
+msgstr "Editar"
+
+#: Text in echo
+#: admin/knews_admin_news_edit.php:28
+msgid "Editing newsletter"
+msgstr "Editant Newsletter"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "E-mails sent at once"
+msgstr "E-mails enviats una vegada"
+
+#: Text in echo
+#: admin/knews_admin_import.php:74
+msgid "Enclosure"
+msgstr "Tancament"
+
+#: Text in echo
+#: admin/knews_admin_import.php:82
+msgid "Encoding"
+msgstr "Codificació"
+
+#: Text in function
+#: direct/edit_news.php:49
+#: admin/knews_admin_news_send.php:201
+#: admin/knews_admin_news_send.php:124
+#: admin/knews_admin_news_edit.php:22
+#: admin/knews_admin_users.php:464
+#: admin/knews_admin_users.php:246
+#: admin/knews_admin_users.php:460
+#: admin/knews_admin_news_list.php:1
+#: admin/knews_admin_lists.php:1
+msgid "Error"
+msgstr "Error"
+
+#: Text in echo
+#: direct/edit_news.php:50
+msgid "Error saving"
+msgstr "Error guardant"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "Error: can't move uploaded file."
+msgstr "Error: no puc moure el fitxer pujat."
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "Error: can't open the file"
+msgstr "Error: no puc obrir el fitxer"
+
+#: Text in echo
+#: admin/knews_admin_users.php:136
+#: admin/knews_admin_users.php:190
+msgid "Extra fields"
+msgstr "Camps extra"
+
+#: Text in echo
+#: admin/knews_admin_users.php:152
+#: admin/knews_admin_users.php:207
+#: admin/knews_admin_users.php:257
+msgid "Field"
+msgstr "Camp"
+
+#: Text in echo
+#: admin/knews_admin_import.php:219
+msgid "Fields assignement"
+msgstr "Assignació de camps"
+
+#: Text in echo
+#: admin/knews_admin_import.php:232
+msgid "File upload"
+msgstr "Pujar fitxer"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "File uploaded correctly"
+msgstr "Fitxer pujat correctament"
+
+#: Text in echo
+#: admin/knews_admin_users.php:315
+msgid "Filter"
+msgstr "Filtrar"
+
+#: Text in echo
+#: admin/knews_admin_users.php:308
+msgid "Filter by mailing list"
+msgstr "Filtrar per llista de correu"
+
+#: Text in echo
+#: admin/knews_admin_users.php:321
+msgid "Find"
+msgstr "Buscar"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Finished"
+msgstr "Acabat"
+
+#: Text in echo
+#: admin/knews_admin_import.php:218
+msgid "Formatting"
+msgstr "Formatant"
+
+#: Text in echo
+#: admin/knews_admin_import.php:401
+#: admin/knews_admin_import.php:686
+#: admin/knews_admin_users.php:260
+msgid "Go back"
+msgstr "Anar enrere"
+
+#: Text in echo
+#: admin/knews_admin_users.php:396
+#: admin/knews_admin_users.php:399
+msgid "Go to first page"
+msgstr "Anar a la primera pàgina"
+
+#: Text in echo
+#: admin/knews_admin_users.php:405
+#: admin/knews_admin_users.php:408
+msgid "Go to last page"
+msgstr "Anar a la última pàgina"
+
+#: Text in echo
+#: admin/knews_admin_users.php:404
+#: admin/knews_admin_users.php:407
+msgid "Go to next page"
+msgstr "Anar a la pàgina següent"
+
+#: Text in echo
+#: admin/knews_admin_users.php:397
+#: admin/knews_admin_users.php:400
+msgid "Go to previous page"
+msgstr "Anar a la pàgina anterior"
+
+#: Text in echo
+#: admin/knews_admin_config.php:212
+msgid "Host SMTP"
+msgstr "Host SMTP"
+
+#: Text in echo
+#: admin/knews_admin_import.php:397
+msgid "If a user already exists (matches e-mail)"
+msgstr "Si un usuari ja existeix (e-mail coincident)"
+
+#: Text in echo
+#: admin/knews_admin_import.php:287
+msgid "If you see the correct values, press \"Continue\""
+msgstr "Si veus els valors correctes, apreta \"Continuar\""
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "If you can read this e-mail, SMTP is correctly configured and you can activate it in Knews preferences"
+msgstr "Si pots llegir aquest e-mail, tens correctament configurat l'enviament per SMTP i pots activar-lo a les preferències de Knews"
+
+#: Text in echo
+#: admin/knews_admin_import.php:368
+msgid "If you choose a column, allowed values ​​are:"
+msgstr "Si esculls una columna, els valors permesos son:"
+
+#: Text in echo
+#: admin/knews_admin_import.php:229
+msgid "If you do not know what values ​​to put, leave these initially, later you can change it"
+msgstr "Si desconeixes els valors a posar, deixa aquests inicialment, després podràs canviar-los"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "If you enter a value manually, this will be the same for all users imported"
+msgstr "Si entres un valor manualment, aquest serà el mateix per a tots els usuaris importats"
+
+#: Text in echo
+#: admin/knews_admin_import.php:221
+msgid "Import"
+msgstr "Importar"
+
+#: Text in echo
+#: admin/knews_admin_import.php:214
+#: knews.php:520
+msgid "Import CSV"
+msgstr "Importar CSV"
+
+#: Text in echo
+#: admin/knews_admin_import.php:691
+msgid "Import finished"
+msgstr "Importació finalitzada"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Import preview (we have not made ​​any changes yet:"
+msgstr "Previsió d'importació (no hem realitzat cap canvi encara):"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Import results"
+msgstr "Resultats d'importació"
+
+#: Text in function
+#: admin/knews_admin_users.php:246
+msgid "Inactive language"
+msgstr "Idioma inactiu"
+
+#: Text in echo
+#: admin/knews_admin_config.php:180
+msgid "Instructions for setting up CRON"
+msgstr "Instruccions per a configurar CRON"
+
+#: Text in echo
+#: admin/knews_admin_import.php:362
+#: admin/knews_admin_users.php:246
+#: admin/knews_admin_users.php:326
+#: admin/knews_admin_users.php:460
+msgid "Language"
+msgstr "Idioma"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Leave empty"
+msgstr "Deixar buit"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:131
+msgid "List name"
+msgstr "Nom de la llista"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:162
+msgid "Mailing list"
+msgstr "Llista de correu"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "Mailing list created"
+msgstr "Llista de correu creada"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:78
+#: knews.php:520
+msgid "Mailing lists"
+msgstr "Llistes de correu"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "Mailing lists updated"
+msgstr "Llistes de correu actualitzades"
+
+#: Text in echo
+#: admin/knews_admin_users.php:152
+msgid "Main"
+msgstr "Principal"
+
+#: Text in echo
+#: admin/knews_admin_users.php:170
+msgid "Main field"
+msgstr "Camp principal"
+
+#: Text in echo
+#: admin/knews_admin_config.php:84
+#: admin/knews_admin_config.php:142
+msgid "Main options"
+msgstr "Opcions principals"
+
+#: Text in echo
+#: admin/knews_admin_import.php:398
+msgid "Maintain current data"
+msgstr "Mantenir la data actual"
+
+#: Text in echo
+#: admin/knews_admin_import.php:402
+msgid "Make preview"
+msgstr "Fer previsió"
+
+#: Text in echo
+#: admin/knews_admin_users.php:171
+msgid "Marking this box, this field will be visible in the users table. We recommend you don't mark more than 2 or 3 fields to avoid a confusing table"
+msgstr "Marcant la casella aquest camp serà visible a la taula d'usuaris. Et recomanem no marcar més de 2 ó 3 camps per no fer la taula confusa"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:154
+msgid "Modified"
+msgstr "Modificat"
+
+#: Text in echo
+#: admin/knews_admin_config.php:145
+msgid "Multilingual"
+msgstr "Multiidioma"
+
+#: Text in echo
+#: admin/knews_admin_users.php:165
+#: admin/knews_admin_news_list.php:178
+msgid "Name"
+msgstr "Nom"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:89
+msgid "Name list"
+msgstr "Nom de la llista"
+
+#: Text in echo
+#: admin/knews_admin_users.php:167
+msgid "Name of extra field"
+msgstr "Nom del camp extra"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:66
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "Failed to create the Newsletter"
+msgstr "La Newsletter no ha pogut crear-se"
+
+#: Text in function
+#: admin/knews_admin_news_edit.php:22
+msgid "Newsletter doesn't exists"
+msgstr "La Newsletter no existeix"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "Newsletter list updated"
+msgstr "La llista de newsletters ha estat actualitzada"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:152
+msgid "Newsletter name"
+msgstr "Nom de la newsletter"
+
+#: Text in echo
+#: direct/edit_news.php:51
+msgid "Newsletter saved"
+msgstr "Newsletter guardada"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:123
+#: admin/knews_admin_news_edit.php:21
+#: admin/knews_admin_news_list.php:111
+#: knews.php:520
+msgid "Newsletters"
+msgstr "Newsletters"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "No"
+msgstr "No"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "No delimiters"
+msgstr "Sense delimitadors"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+msgid "Not confirmed"
+msgstr "No confirmat"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:179
+msgid "Now you must click here, then a window that emulates CRON with JavaScript will open. You should leave it open till sending ends."
+msgstr "Ara has de clicar ací, s'obrirà una finestra que emularà CRON amb JavaScript, has de deixar-la oberta fins que l'enviament acabi."
+
+#: Text in echo
+#: admin/knews_admin_import.php:646
+msgid "Of which have been successfully imported:"
+msgstr "Dels quals s'han importat correctament:"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Ongoing"
+msgstr "Enviant"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:90
+#: admin/knews_admin_lists.php:132
+msgid "Open"
+msgstr "Oberta"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:91
+#: admin/knews_admin_lists.php:133
+msgid "Open for registered users"
+msgstr "Oberta per els usuaris registrats"
+
+#: Text in echo
+#: admin/knews_admin_import.php:399
+msgid "Overwrite"
+msgstr "Sobreescriure"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Paused"
+msgstr "Pausat"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Paused?"
+msgstr "Pausat?"
+
+#: Text in echo
+#: admin/knews_admin_import.php:361
+msgid "Permission"
+msgstr "Permís"
+
+#: Text in echo
+#: admin/knews_admin_config.php:213
+msgid "Port SMTP"
+msgstr "Port SMTP"
+
+#: Text in echo
+#: admin/knews_admin_import.php:220
+#: admin/knews_admin_news_list.php:157
+#: admin/knews_admin_news_list.php:167
+msgid "Preview"
+msgstr "Previsualitzar"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:67
+#: admin/knews_admin_news_send.php:173
+msgid "Priority"
+msgstr "Prioritat"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:71
+msgid "Progress / Results"
+msgstr "Progrés / Resultats"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "Properly tabulated"
+msgstr "Correctament tabulats"
+
+#: Text in echo
+#: admin/knews_admin_config.php:220
+msgid "Recipient"
+msgstr "Destinatari"
+
+#: Text in echo
+#: admin/knews_admin_config.php:215
+msgid "SMTP Password"
+msgstr "Contrasenya SMTP"
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "SMTP Submit e-mail test done"
+msgstr "Enviament de e-mail de prova per SMTP realitzat"
+
+#: Text in echo
+#: admin/knews_admin_config.php:214
+msgid "SMTP User"
+msgstr "Usuari SMTP"
+
+#: Text in echo
+#: direct/edit_news.php:73
+#: admin/knews_admin_config.php:116
+#: admin/knews_admin_config.php:228
+msgid "Save"
+msgstr "Guardar"
+
+#: Text in function
+#: admin/knews_admin_config.php:232
+msgid "Saved."
+msgstr "Guardat."
+
+#: Text in echo
+#: admin/knews_admin_import.php:279
+msgid "Scan CSV again"
+msgstr "Escanejar CSV de nou"
+
+#: Text in function
+#: admin/knews_admin_lists.php:152
+msgid "See users"
+msgstr "Veure usuaris"
+
+#: Text in echo
+#: direct/select_post.php:59
+msgid "Select the post to insert in the newsletter"
+msgstr "Seleccionar el post per a insertar a la Newsletter"
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "Send e-mail confirmation"
+msgstr "Enviar e-mail de confirmació"
+
+#: Text in echo
+#: admin/knews_admin_config.php:210
+msgid "Send e-mails using SMTP (recommended)"
+msgstr "Enviar e-mails per SMTP (recomanat)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:191
+msgid "Send the newsletter manually"
+msgstr "Enviar la newsletter manualment"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:131
+msgid "Send the newsletter to the following lists"
+msgstr "Enviar la newsletter a les llistes següents"
+
+#: Text in echo
+#: admin/knews_admin_config.php:187
+msgid "Sender"
+msgstr "Remitent"
+
+#: Text in echo
+#: admin/knews_admin_config.php:188
+msgid "Sender e-mail"
+msgstr "E-mail remitent"
+
+#: Text in echo
+#: admin/knews_admin_config.php:189
+msgid "Sender name"
+msgstr "Nom remitent"
+
+#: Text in echo
+#: admin/knews_admin_config.php:194
+msgid "Sending"
+msgstr "Enviant"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:179
+msgid "Sending SMTP is not enabled, the shipments are less reliable."
+msgstr "L'enviament per SMTP no està configurat, els enviaments son menys fiables."
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:130
+msgid "Sending newsletter"
+msgstr "Enviant newsletter"
+
+#: Text in echo
+#: admin/knews_admin_import.php:66
+msgid "Separator"
+msgstr "Separador"
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "Shipping done, check that the mail has arrived."
+msgstr "Enviament realitzat, comprova que has rebut l'e-mail."
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Special"
+msgstr "Especial"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:172
+msgid "Start (now or deferred)?"
+msgstr "Començar (ara o diferit)?"
+
+#: Text in echo
+#: admin/knews_admin_import.php:357
+#: admin/knews_admin_users.php:233
+#: admin/knews_admin_users.php:326
+msgid "State"
+msgstr "Estat"
+
+#: Text in function
+#: knews.php:520
+msgid "Stats"
+msgstr "Estadístiques"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:72
+msgid "Status"
+msgstr "Estat"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:69
+msgid "Submit end"
+msgstr "Fi d'enviament"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:158
+#: admin/knews_admin_news_list.php:167
+#: knews.php:517
+msgid "Submit"
+msgstr "Enviar"
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "Submit error."
+msgstr "Error al enviar."
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:197
+msgid "Submit newsletter"
+msgstr "Enviar newsletter"
+
+msgid "Continue editing"
+msgstr "Continuar editant"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:68
+msgid "Submit start"
+msgstr "Inici enviament"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:2
+#: knews.php:520
+msgid "Submits"
+msgstr "Enviaments"
+
+#: Text in echo
+#: admin/knews_admin_import.php:387
+msgid "Subscribe all users to the following mailing lists:"
+msgstr "Subscriure tots els usuaris a les següents llistes de correu:"
+
+#: Text in echo
+#: admin/knews_admin_users.php:136
+#: admin/knews_admin_users.php:190
+#: knews.php:520
+msgid "Subscribers"
+msgstr "Subscriptors"
+
+#: Text in echo
+#: admin/knews_admin_users.php:245
+#: admin/knews_admin_users.php:326
+msgid "Subscriptions"
+msgstr "Subscripcions"
+
+#: Text in echo
+#: admin/knews_admin_config.php:208
+msgid "Submit method"
+msgstr "Mètode d'enviament"
+
+#: Text in function
+#: knews.php:520
+msgid "Today, at"
+msgstr "Avui, a les"
+
+#: Text in function
+#: knews.php:520
+msgid "Tomorrow, at"
+msgstr "Demà, a les"
+
+#: Text in function
+#: knews.php:520
+msgid "at"
+msgstr "a les"
+
+#: Text in function
+#: knews.php:520
+msgid "Yesterday, at"
+msgstr "Ahir, a les"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:155
+msgid "Template"
+msgstr "Template"
+
+#: Text in echo
+#: admin/knews_admin_config.php:223
+msgid "Test SMTP config"
+msgstr "Provar configuració SMTP"
+
+#: Text in echo
+#: admin/knews_admin_config.php:148
+msgid "The WPML plugin was not detected, multilingual options are not functional"
+msgstr "El plugin WPML no ha estat detectat, les opcions multilingüe no son funcionals"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "The directory /wp-content/plugins/knews/tmp must be writable (chmod 700)"
+msgstr "El directori /wp-content/plugins/knews/tmp deu ser escribible (chmod 700)"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The field already exists"
+msgstr "El campo ja existia"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The field has been added"
+msgstr "El campo ha estat afegit"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The field name can't be empty"
+msgstr "El camp nom no pot estar buit"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The fields have been updated"
+msgstr "Els camps han estat actualitzats"
+
+#: Text in echo
+#: admin/knews_admin_import.php:90
+msgid "The first row is a header"
+msgstr "La primera fila és una capçalera"
+
+#: Text in echo
+#: admin/knews_admin_config.php:165
+#: admin/knews_admin_config.php:172
+msgid "The last execution was done"
+msgstr "La última execució va ser fa"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:124
+msgid "The newsletter doesn't exists"
+msgstr "La newsletter no existeix"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "The newsletter has been created successfully"
+msgstr "La newsletter ha estat creada correctament"
+
+#: Text in echo
+#: admin/knews_admin_users.php:176
+msgid "A token is used to insert a field in the newsletter. Should be located between %, with no spaces, for example: %name%"
+msgstr "Un token es usat per a insertar un camp a la newsletter, ha d'anar entre %, sense espais, per exemple: %nom%"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has been added and an e-mail confirmation has been sent"
+msgstr "L'usuari ha estat afegit i li hem enviat un e-mail de confirmació"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has been added and from now on he will receive the newsletters"
+msgstr "L'usuari ha estat afegit i des d'aquest moment rebrà les newsletters"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has been added but an error occurred in sending e-mail confirmation"
+msgstr "L'usuari ha estat afegit però hi ha hagut un error al enviar-li l'e-mail de confirmació"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has not been inserted"
+msgstr "L'usuari no ha estat afegit"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user was already introduced"
+msgstr "L'usuari ja estava introduït"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "There is already another newsletter with the same name!"
+msgstr "Ja hi ha una altra newsletter amb el mateix nom!"
+
+#: Text in echo
+#: admin/knews_admin_import.php:651
+msgid "There have been created:"
+msgstr "Han estat creats:"
+
+#: Text in echo
+#: admin/knews_admin_import.php:653
+msgid "There have been updated:"
+msgstr "Han estat actualitzats:"
+
+#: Text in echo
+#: admin/knews_admin_import.php:356
+msgid "This field is required to take it in some column"
+msgstr "Aquest camp es obligatori agafar-lo d'alguna columna"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:172
+msgid "Time"
+msgstr "Temps"
+
+#: Text in echo
+#: admin/knews_admin_users.php:152
+#: admin/knews_admin_users.php:174
+msgid "Token"
+msgstr "Token"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:201
+msgid "The single e-mail has been sent to:"
+msgstr "L'e-mail únic ha estat enviat a:"
+
+#: Text in function
+#: knews.php:1
+msgid "Unique language"
+msgstr "Idioma únic"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Unknown language"
+msgstr "Idioma desconegut"
+
+#: Text in echo
+#: admin/knews_admin_users.php:154
+msgid "Update fields"
+msgstr "Actualitzar camps"
+
+#: Text in echo
+#: admin/knews_admin_users.php:260
+msgid "Update user"
+msgstr "Actualitzar usuari"
+
+#: Text in echo
+#: admin/knews_admin_config.php:153
+msgid "Use the WPML defined languages to operate Knews in multilanguage mode"
+msgstr "Usar els idiomes definits a WPML per a operar Knews en mode multiidioma"
+
+msgid "Use the qTranslate defined languages to operate Knews in multilanguage mode"
+msgstr "Usar els idiomes definits a qTranslate per a operar Knews en mode multiidioma"
+
+msgid "Operate Knews as monolingual"
+msgstr "Usar Knews com a monoidioma"
+
+msgid "No mulilanguage plugins detected. Knews works with qTranslate and WPML plugins"
+msgstr "No s'han detectat plugins multiidioma. Knews pot funcionar amb els plugins qTranslate o WPML"
+
+msgid "qTranslate: free plugin"
+msgstr "qTranslate: plugin gratuït"
+
+msgid "WPML: commercial plugin"
+msgstr "WPML: plugin comercial"
+
+msgid "Note: Knews authors have no relationship with qTranslate or WMPL authors."
+msgstr "Nota: Els autors de Knews no tenen relació amb els autors de qTranslate o WPML"
+
+msgid "If you leave now this page, the Newsletter changes will be lost. Please, cancel and press the \"Save\" button (blue coloured)."
+msgstr "Si abandones ara aquesta pàgina, els canvis introduïts a la Newsletter es perdran. Sisplau, cancel·la i pitja \"Guardar\" (botó blau)."
+
+msgid "The multilanguage plugin has stopped working."
+msgstr "El plugin multiidioma ha deixat de funcionar."
+
+msgid "Welcome to Knews."
+msgstr "Benvingut a Knews."
+
+msgid "Please, go to %s configuration page"
+msgstr "Sisplau, vés a la %s pàgina de configuració"
+
+msgid "Don't show this message again [x]"
+msgstr "No tornis a mostrar-me aquest missatge [x]"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "The user already exists"
+msgstr "L'usuari ja existeix"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "User data updated"
+msgstr "La informació de l'usuario ha estat actualitzada"
+
+#: Text in function
+#: admin/knews_admin_users.php:263
+msgid "User not found"
+msgstr "Usuari no trobat"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:70
+msgid "Users"
+msgstr "Usuaris"
+
+#: Text in function
+#: admin/knews_admin_users.php:460
+msgid "There are not yet users"
+msgstr "Encara no hi ha usuaris"
+
+#: Text in echo
+#: admin/knews_admin_import.php:658
+msgid "Users unconfirmed (You should do confirmation manually):"
+msgstr "Usuaris no confirmats (hauràs de confirmar-los manualment):"
+
+#: Text in echo
+#: admin/knews_admin_import.php:361
+msgid "Send a confirmation e-mail to the unconfirmed users (not to the locked ones)"
+msgstr "Enviar un e-mail de confirmació als usuaris no confirmats (als bloquejats no)"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "Using special characters (accents) correctly coded"
+msgstr "Els caràcters especials (accents) correctament codificats"
+
+#: Text in echo
+#: admin/knews_admin_users.php:207
+#: admin/knews_admin_users.php:257
+msgid "Value"
+msgstr "Valor"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+#: admin/knews_admin_users.php:464
+msgid "Wrong e-mail"
+msgstr "E-mail incorrecte"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Wrong state"
+msgstr "Estado erroni"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Yes"
+msgstr "Sí"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:179
+msgid "You cannot schedule a delayed delivery. You must leave an auxiliary window open (JavaScript CRON Emulation) until the sending ends"
+msgstr "No pots programar un enviament diferit. hauràs d'usar una finestra auxiliar (emulació de CRON per JavaScript) fins que l'enviament acabi"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "You must choose a name for the new newsletter!"
+msgstr "Has d'escollir un nom per a la nova newsletter!"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "You must choose a template!"
+msgstr "Has d'escollir un template!"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "You must upload a file."
+msgstr "Has de pujar un fitxer."
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "You should be seeing the header and the four first lines of the CSV:"
+msgstr "Hauries d'estar veient la capçalera i les quatre primeres línies del CSV:"
+
+msgid "widget_title"
+msgstr "Subscriure'm"
+
+msgid "widget_label_email"
+msgstr "E-mail:"
+
+msgid "Widget submit button"
+msgstr "Botó d'enviament del widget"
+
+msgid "widget_button"
+msgstr "Enviar"
+
+msgid "You were already a subscriber (AJAX message)"
+msgstr "Ja estaves subscrit (missatge AJAX)"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription"
+msgstr "Acabem d'enviar-te un e-mail perquè confirmis la teva subscripció"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription_direct"
+msgstr "Has estat subscrit correctament."
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription_oops"
+msgstr "Ja estaves subscrit anteriorment."
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription_error"
+msgstr "Error al enviar e-mail de confirmació"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_wrong_email"
+msgstr "L' e-mail sembla incorrecte, sisplau, revisa'l"
+
+#: Text in function
+#: knews.php:1
+msgid "email_subscription_subject"
+msgstr "Alta newsletter"
+
+#: Text in function
+#: knews.php:1
+msgid "email_subscription_body"
+msgstr "<p>Has demanat ser subscrit al newsletter de #blog_name#, has de confirmar la teva inscripció fent clic <a href=\"#url_confirm#\">aqu&iacute;</a></p><p>Pots enganxar la direcció al navegador:<br>#url_confirm#</p>"
+
+#: Text in echo
+#: dialogs.php:28
+msgid "subscription_ok_title"
+msgstr "La teva subscripció ha estat confirmada"
+
+#: Text in echo
+#: dialogs.php:29
+msgid "subscription_ok_message"
+msgstr "A partir d'aquest moment començaràs a rebre la nostra newsletter.<br><br><strong>Moltes gràcies.</strong>"
+
+#: Text in echo
+#: dialogs.php:35
+msgid "subscription_error_title"
+msgstr "S'ha produït un error al subscriure't"
+
+#: Text in echo
+#: dialogs.php:50
+msgid "subscription_error_message"
+msgstr "Sisplau, torna a intentar-ho, si és necessari copia l'enllaç sencer de l'e-mail a la barra de direccions del tu navegador.<br><br><strong>Disculpa les molèsties</strong>"
+
+#: Text in echo
+#: dialogs.php:49
+msgid "subscription_stop_error_title"
+msgstr "La teva subscripció no ha pogut anul·lar-se"
+
+#: Text in echo
+#: dialogs.php:50
+msgid "subscription_stop_error_message"
+msgstr "Sisplau, torna a intentar-ho, si és necessari copia l'enllaç sencer de l'e-mail a la barra de direccions del tu navegador.<br><br><strong>Disculpa les molèsties</strong>"
+
+#: Text in echo
+#: dialogs.php:42
+msgid "subscription_stop_ok_title"
+msgstr "La teva subscripció ha estat anul·lada"
+
+#: Text in echo
+#: dialogs.php:43
+msgid "subscription_stop_ok_message"
+msgstr "A partir d'aquest moment deixaràs de rebre les nostres newsletters.<br><br><strong>Moltes gràcies.</strong>"
+
+#: Text in echo
+#: dialogs.php:52
+msgid "dialogs_close_button"
+msgstr "Tancar"
+
+#: Text in echo
+#: admin/knews_admin_import.php:373
+msgid "year-month-day"
+msgstr "any-mes-dia"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+#: admin/knews_admin_users.php:236
+msgid "blocked"
+msgstr "bloquejat"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "can't create the mailing list"
+msgstr "no pot crear-se la llista de correu"
+
+#: Text in function
+#: admin/knews_admin_import.php:359
+#: admin/knews_admin_users.php:235
+msgid "confirmed"
+msgstr "confirmat"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "deleted"
+msgstr "eliminat"
+
+#: Text in echo
+#: admin/knews_admin_import.php:371
+msgid "day-month-year"
+msgstr "dia-mes-any"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "If not, change the separator values and / or closing. Then press \"Scan CSV again\":"
+msgstr "Si no, canvia els valors de separador i/o tancament i pitja \"Escanejar CSV altre cop\":"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "introduce value"
+msgstr "introduïr valor"
+
+#: Text in echo
+#: admin/knews_admin_import.php:372
+msgid "month-day-year"
+msgstr "mes-dia-any"
+
+#: Text in echo
+#: admin/knews_admin_config.php:165
+#: admin/knews_admin_config.php:172
+msgid "minutes ago"
+msgstr "minuts"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:167
+msgid "never"
+msgstr "mai"
+
+#: Text in function
+#: admin/knews_admin_import.php:358
+#: admin/knews_admin_users.php:234
+msgid "not confirmed"
+msgstr "no confirmat"
+
+#: Text in function
+#: admin/knews_admin_users.php:246
+#: admin/knews_admin_users.php:460
+msgid "Language not detected!"
+msgstr "no ha estat detectat l'idioma!"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "test mode"
+msgstr "mode prova"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "there is already a list with this name!"
+msgstr "ja hi ha una llista amb aquest nom!"
+
+#: Text in echo
+#: admin/knews_admin_import.php:644
+#: admin/knews_admin_import.php:646
+#: admin/knews_admin_import.php:649
+#: admin/knews_admin_import.php:651
+#: admin/knews_admin_import.php:653
+#: admin/knews_admin_import.php:665
+#: admin/knews_admin_import.php:668
+#: admin/knews_admin_users.php:394
+msgid "users"
+msgstr "usuaris"
+
+#: Text in echo
+#: phpscanner.php:17
+msgid "E-mail on automatically import (body)"
+msgstr "E-mail al importar automàticament (cos)"
+
+#: Text in echo
+#: phpscanner.php:16
+msgid "E-mail on automatically import (title)"
+msgstr "E-mail al importar automàticament (assumpte)"
+
+#: Text in echo
+#: phpscanner.php:26
+msgid "Close Button Caption"
+msgstr "Text del botó tancar"
+
+#: Text in echo
+#: phpscanner.php:15
+msgid "Confirmation E-mail (body)"
+msgstr "E-mail de confirmació (cos)"
+
+#: Text in echo
+#: phpscanner.php:14
+msgid "Confirmation E-mail (subject)"
+msgstr "E-mail de confirmació (assumpte)"
+
+#: Text in echo
+#: phpscanner.php:21
+msgid "Subscription Error Dialog (Message)"
+msgstr "Diàleg de error al subscriure'm (missatge)"
+
+#: Text in echo
+#: phpscanner.php:20
+msgid "Subscription Error Dialog (Title)"
+msgstr "Diàleg d'error al subscriure's (títol)"
+
+#: Text in echo
+#: phpscanner.php:19
+msgid "Subscription OK Dialog (Message)"
+msgstr "Diàleg de confirmació al subscriure's (missatge)"
+
+#: Text in echo
+#: phpscanner.php:18
+msgid "Subscription OK Dialog (Title)"
+msgstr "Diàleg de confirmació al subscriure's (títol)"
+
+#: Text in echo
+#: phpscanner.php:11
+msgid "Subscription done, you were already subscribed (AJAX message)"
+msgstr "Subscripció realitzada, ja estaves subscrit (missatge AJAX)"
+
+#: Text in echo
+#: phpscanner.php:10
+msgid "We have sent you a confirmation e-mail (AJAX message)"
+msgstr "T'hem enviat un e-mail de confirmació (missatge AJAX)"
+
+#: Text in echo
+#: phpscanner.php:13
+msgid "Subscription error (AJAX message)"
+msgstr "Error de subscripció (missatge AJAX)"
+
+#: Text in echo
+#: phpscanner.php:23
+msgid "UnSubscribe Error Dialog (Message)"
+msgstr "Diàleg d'error al de-subscriure's (missatge)"
+
+#: Text in echo
+#: phpscanner.php:22
+msgid "UnSubscribe Error Dialog (Title)"
+msgstr "Diàleg d'error al de-subscriure's (títol)"
+
+#: Text in echo
+#: phpscanner.php:25
+msgid "UnSubscribe OK Dialog (Message)"
+msgstr "Diàleg de confirmació al de-subscriure's (missatge)"
+
+#: Text in echo
+#: phpscanner.php:24
+msgid "UnSubscribe OK Dialog (Title)"
+msgstr "Diàleg de confirmació al de-subscriure's (títol)"
+
+#: Text in echo
+#: phpscanner.php:9
+msgid "Wrong e-mail address, please check (AJAX message)"
+msgstr "E-mail incorrecte, sisplau, comprova'l (missatge AJAX)"
+
+#: Text in echo
+#: phpscanner.php:36
+msgid "email_importation_body"
+msgstr "<p>Has estat subscrit al newsletter de #blog_name#, has de confirmar la teva inscripció fent clic <a href=\"#url_confirm#\">aqu&iacute;</a></p><p>Pots enganxar la direcci&oacute; al navegador:<br>#url_confirm#</p>"
+
+#: Text in echo
+#: phpscanner.php:35
+msgid "email_importation_subject"
+msgstr "Alta newsletter"
+
+msgid "deleted list"
+msgstr "llista eliminada"
+
+msgid "Total errors:"
+msgstr "Total de errors:"
+
+msgid "User deleted"
+msgstr "Usuari eliminat"
+
+msgid "Edit this user"
+msgstr "Editar aquest usuari"
+
+msgid "Activate this user"
+msgstr "Activar aquest usuari"
+
+msgid "Activate"
+msgstr "Activar"
+
+msgid "Delete definitively this user"
+msgstr "Eliminar definitivament aquest usuari"
+
+msgid "Block this user"
+msgstr "Bloquejar aquest usuari"
+
+msgid "Block"
+msgstr "Bloquejar"
+
+msgid "Batch actions"
+msgstr "Accions en lot"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Rename"
+msgstr "Renombrar"
+
+msgid "Cancel"
+msgstr "Cancel·lar"
+
+msgid "Only update"
+msgstr "Només actualitzar"
+
+msgid "Only delete"
+msgstr "Només eliminar"
+
+msgid "See fails"
+msgstr "Veure errors"
+
+msgid "Pause"
+msgstr "Pausa"
+
+msgid "Progress"
+msgstr "Progrés"
+
+msgid "Rename this list"
+msgstr "Renombrar aquesta llista"
+
+msgid "See this list users"
+msgstr "Veure els usuaris d'aquesta llista"
+
+msgid "Delete definitively this newsletter"
+msgstr "Eliminar definitivament aquesta newsletter"
+
+msgid "Edit this newsletter"
+msgstr "Editar aquesta newsletter"
+
+msgid "Rename this newsletter"
+msgstr "Renombrar esta newsletter"
+
+msgid "Open a preview in a new window"
+msgstr "Obrir una previsualització en una altra finestra"
+
+msgid "Submit this newsletter"
+msgstr "Enviar aquesta newsletter"
+
+msgid "Change the priority"
+msgstr "Canviar la prioritat"
+
+msgid "Set the current date and time as start submit time"
+msgstr "Posar la data i la hora actuals com hora d'inici de l'enviament"
+
+msgid "Pause this submit"
+msgstr "Posar aquest enviament en pausa"
+
+msgid "Remove pause, continue submit"
+msgstr "Treure la pausa, continuar amb l'enviament"
+
+msgid "Start now"
+msgstr "Començar ara"
+
+msgid "See report fails by SMTP server"
+msgstr "Veure l'informe d'errades en el servidor SMTP"
+
+msgid "Stop and delete this submit now"
+msgstr "Parar i eliminar aquest enviament ara"
+
+msgid "Error: This newsletter does not exist"
+msgstr "Error: aquesta newsletter no existeix"
+
+msgid "Do you really want to delete this module?"
+msgstr "¿Realment vols eliminar aquest mòdul?"
+
+msgid "Move module"
+msgstr "Moure mòdul"
+
+msgid "Delete module"
+msgstr "Eliminar mòdul"
+
+msgid "Subject"
+msgstr "Assumpte"
+
+msgid "Posts"
+msgstr "Entrades"
+
+msgid "Pages"
+msgstr "Pàgines"
+
+msgid "Reset all alerts"
+msgstr "Resetejar totes les alertes"
+
+msgid "Reset all messages to default values (all languages at once)"
+msgstr "Resetejar tots els missatges als valors per defecte (tots els idiomes a la vegada)"
+
+msgid "Knews will try to resend those messages which have reported error"
+msgstr "Knews intentarà enviar altre cop aquells e-mails que han reportat error"
+
+msgid "Resubmit those which have reported error"
+msgstr "Re-enviar els que han reportat error"
+
+msgid "Retry"
+msgstr "Reintentar"
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "1. Select the users you want to export:"
+msgstr "1. Seleccioni els usuaris que vol exportar:"
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "1.1. Select the lists to export:"
+msgstr "1.1. Seleccioni les llistes a exportar:"
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "1.2. Select the languages to export:"
+msgstr "1.2. Seleccioni els idiomes a exportar"
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "2. Format options:"
+msgstr "2. Opcions de format:"
+
+#: Text in function
+#: knews_admin_export.php:143
+msgid "E-mail"
+msgstr "E-Mail"
+
+#: Text in echo
+#: knews_admin_export.php:71
+#: knews_admin_export.php:195
+msgid "Export users"
+msgstr "Exportar usuaris"
+
+#: Text in echo
+#: knews_admin_export.php:189
+msgid "Insert a header in the first row"
+msgstr "Insertar una capçalera en la primera fila"
+
+#: Text in function
+#: knews_admin_export.php:143
+msgid "No users match criteria"
+msgstr "No hi ha usuaris amb aquests criteris"
+
+#: Text in function
+#: knews_admin_export.php:143
+msgid "Select at least one list and one language."
+msgstr "Seleccioni com a mínim una llista i un idioma."
+
+#: Text in function
+#: knews_admin_export.php:142
+msgid "To download the .CSV, click %s here"
+msgstr "Per a descarregar el .CSV, faci clic %s ací"
+
+msgid "Export CSV"
+msgstr "Exportar CSV"
+
+msgid "Note: mark all lists and the desired language/s to filter by language, or all languages and desired lists to filter by list,"
+msgstr "Nota: marqui totes les llistes i els idiomes desitjats per a filtrar per idioma, o tots els idiomes i les llistes desitjades per a filtrar per llista,"
+
+msgid "...or all lists and all languages to export all users."
+msgstr "...o totes les llistes i tots els idiomes per a exportar tots els usuaris."
+
+msgid "%s users have been exported."
+msgstr "S'han exportat %s usuaris."
+
+msgid "Lists"
+msgstr "Llistes"
+
+msgid "Edit image"
+msgstr "Editar imatge"
+
+msgid "Insert post/page content"
+msgstr "Insertar contingut de post/pàgina"
+
+msgid "Free text content"
+msgstr "Contingut lliure"
+
+msgid "Resize toolbox"
+msgstr "Reescalar caixa d'eines"
+
+msgid "Warning! IE 6/7 can't edit newsletters! The editor uses HTML5 properties, you need upgrade at least to IE8, or use an modern Firefox, Chrome or Safari."
+msgstr "Atenció! IE6/7 no pot editar newsletters! L'editor usa propietats d'HTML5, necessitaràs actualitzar como a mínim a IE8, o usar un Firefox, Chrome o Safari moderns."
+
+msgid "Warning! Opera can't edit newsletters. You must use a modern Firefox, Chrome, Safari or at least Internet Explorer 8."
+msgstr "Atenció! Opera no pot editar newsletters! Hauràs d'usar un Firefox, Chrome o Safari moderns, o com a mínim Internet Explorer 8."
+
+msgid "Warning! You should activate JavaScript to edit newsletters!"
+msgstr "Atenció! Has d'activar JavaScript per a editar newsletters!"
+
+msgid "No submits yet. First go to Newsletters, create one, and then submit it."
+msgstr "No hi ha enviaments encara. Primer vés a newsletters, crea'n una, i llavors envia-la."
+
+msgid "Error: I can't write the .CSV file."
+msgstr "Error: no puc escriure el fitxer .CSV."
+
+msgid "User join date"
+msgstr "Data alta usuari"
+
+msgid "All: today"
+msgstr "Tots: avui"
+
+msgid "See log"
+msgstr "Veure log"
+
+msgid "See the complete submit log"
+msgstr "Veure el log (informe) complert de l'enviament"
+
+msgid "Alerts and logs"
+msgstr "Alertes i logs (informes)"
+
+msgid "Write logs (in /wp-content/plugins/knews/tmp directory) in submits"
+msgstr "Escriure logs (en el directori /wp-content/plugins/knews/tmp) en els enviaments"
+
+msgid "Go to template page"
+msgstr "Anar a la pàgina del template"
+
+msgid "Redirecting to editor..."
+msgstr "Redirigint a l'editor..."
+
+msgid "The e-mails submited to any e-mail terminated with @knewstest.com (like testing001@knewstest.com or xxx@knewstest.com) will be submited to: %s for your testing purposes"
+msgstr "Els e-mails enviats a qualsevol bústia acabada en @knewstest.com (com proves001@knewstest.com o xxx@knewstest.com) serà enviat a: %s per a que puguis fer proves"
+
+msgid "List deleted"
+msgstr "Llista eliminada"
+
+msgid "Submit start time updated"
+msgstr "Actualitzada la hora de l'enviament"
+
+msgid "List name updated"
+msgstr "Nom de llista actualitzat"
+
+msgid "Submit deleted"
+msgstr "Enviament eliminat"
+
+msgid "Submit priority updated"
+msgstr "Prioritat d'enviament actualitzada"
+
+msgid "Use WordPress's built-in CRON framework."
+msgstr "Usar la funció CRON interna de WordPress"
+
+msgid "This option no requires configuration, but in less traffic sites can be slow to submit"
+msgstr "Aquesta opció no necessita configuració, però en llocs amb poc tràfec els enviaments poden ralentitzar-se"
+
+msgid "Use the JavaScript CRON emulation."
+msgstr "Usar la emulació de CRON per JavaScript."
+
+msgid "This option requires you to keep a window open during submission and does not allow deferred submits"
+msgstr "Aquesta opció requereix mantenir una finestra oberta mentre es realitza l'enviament i no permet programar enviaments diferits"
+
+msgid "Check all mailing lists"
+msgstr "Marcar totes les llistes de correu"
+
+msgid "Uncheck all mailing lists"
+msgstr "Desmarcar totes les llistes de correu"
+
+msgid "Duplicate"
+msgstr "Duplicar"
+
+msgid "Duplicate this newsletter"
+msgstr "Duplicar aquesta newsletter"
+
+msgid "Apply changes and refresh image"
+msgstr "Aplicar canvis i refrescar la imatge"
+
+msgid "Undo image changes"
+msgstr "Desfer els canvis d'imatge"
+
+msgid "Properties of image"
+msgstr "Propietats de la imatge"
+
+msgid "Select one or more lists"
+msgstr "Selecciona una o més llistes"
+
+msgid "No active users in the selected list, nothing programmed to send."
+msgstr "No hi ha usuaris actius a la llista seleccionada, no s'ha programat cap enviament."
+
+msgid "Configure CRON tutorial"
+msgstr "Tutorial per a configurar CRON"
+
+msgid "You must add this line in your webserver CRONTAB:"
+msgstr "Has d'afegir aquesta línia al CRONTAB del teu servidor web:"
+
+msgid "Configure SMTP tutorial"
+msgstr "Tutorial per a configurar l'SMTP"
+
+msgid "The language can't be localized"
+msgstr "L'idioma no pot ser localitzat"
+
+msgid "You are in image edition mode. You must press Apply or Undo image changes (or press ESC key) before doing anything."
+msgstr "Ets al mode d'edició d'imatge. Has d'apretar Aplicar o Desfer els canvis de imatge (o apretar la tecla ESC) abans de fer cap altre cosa."
+
+msgid "Image alt:"
+msgstr "Texte alternatiu:"
+
+msgid "The alternate text is very important, because most mail clients block initial image load and show the alternate image text."
+msgstr "El text alternatiu es molt important, perquè molts clients de correu bloquegen la càrrega inicial i ensenyen el text alternatiu a la imatge."
+
+msgid "Image link:"
+msgstr "Enllaç de la imatge:"
+
+msgid "Put a url if you want to put link around the image, for example: http://www.mysite.com/mypage.html."
+msgstr "Posa una url si tu vols posar un link al voltant de la imatge, per exemple: http://www.elmeulloc.com/lamevaplana.html."
+
+msgid "Multilanguage"
+msgstr "Multiidioma"
+
+msgid "Make your own templates how-to"
+msgstr "Tutorial per fer els teus propis templates"
+
+msgid "From date:"
+msgstr "Desde la data:"
+
+msgid "to date:"
+msgstr "fins a la data:"
+
+msgid "last 7 days"
+msgstr "últims 7 dies"
+
+msgid "last 30 days"
+msgstr "últims 30 dies"
+
+msgid "last week"
+msgstr "última setmana"
+
+msgid "last month"
+msgstr "últim mes"
+
+msgid "The date range you have selected is not available."
+msgstr "El rang de dates que has seleccionat no és disponible."
+
+msgid "Current status of subscriptions"
+msgstr "Estat actual de les subscripcions"
+
+msgid "Active users:"
+msgstr "Usuaris actius:"
+
+msgid "Not confirmed:"
+msgstr "No confirmats:"
+
+msgid "Unsubscribed users:"
+msgstr "Usuaris dats de baixa:"
+
+msgid "Total:"
+msgstr "Total:"
+
+msgid "Currently have no subscribers."
+msgstr "Actualment no hi ha subscriptors."
+
+msgid "Accumulated sign ups and unsubscribes from date:"
+msgstr "Subscripcions i baixes acumulades desde la data:"
+
+msgid "You must select a right date range"
+msgstr "Has de seleccionar un rang de dates correcte"
+
+msgid "Sign ups"
+msgstr "Subscripcions"
+
+msgid "Unsubscriptions"
+msgstr "Baixes"
+
+msgid "Sendings"
+msgstr "Enviaments"
+
+msgid "Sendings OK"
+msgstr "Enviaments correctes"
+
+msgid "Sendings Error"
+msgstr "Enviaments erronis"
+
+msgid "Cant read"
+msgstr "No s'han pogut llegir"
+
+msgid "Total clicks"
+msgstr "Clics totals"
+
+msgid "Newsletters & clicks from date:"
+msgstr "Newsletters i clics desde la data:"
+
+msgid "Link clicks"
+msgstr "Clics als links"
+
+msgid "Total submits"
+msgstr "Enviaments totals"
+
+msgid "Error: make sure the directory %s exists and has write permissions (chmod 700)."
+msgstr "Error: assegura't que el directori %s existeix i té permís d'escriptura (chmod 700)."
+
+msgid "Error: there is no image selected"
+msgstr "Error: no hi ha cap imatge seleccionada"
+
+msgid "Knews updated the database successfully. Welcome to %s version."
+msgstr "Knews ha actualitzat la base de dades correctament. Benvingut a la versió %s."
+
+msgid "Customize widget messages"
+msgstr "Personalitza els missatges del widget"
+
+msgid "Sign up date user cant be understood"
+msgstr "La data d'alta de l'usuari no es pot interpretar"
+
+msgid "SQL Error while inserting user"
+msgstr "Error SQL al insertar usuari"
+
+msgid "SQL Error while updating user"
+msgstr "Error SQL al actualitzar usuari"
+
+msgid "Warning: the email has no subject! %s Edit it again before submit!"
+msgstr "Atenció: l'email no té assumpte! %s Edita'l altre cop abans d'enviar!"
+
+msgid "Warning: %sConfigure sender name before submit!"
+msgstr "Atenció: %sConfigura el nom del remitent abans d'enviar!"
+
+msgid "text_direction"
+msgstr "ltr"
+
+msgid "cant_read_text_1"
+msgstr "Si no pots llegir aquest correu, fes clic"
+
+msgid "cant_read_text_link"
+msgstr "aquí"
+
+msgid "cant_read_text_2"
+msgstr ""
+
+msgid "unsubscribe_text_1"
+msgstr "Si no vols seguir llegint els nostres correus, fes clic"
+
+msgid "unsubscribe_text_link"
+msgstr "aquí"
+
+msgid "unsubscribe_text_2"
+msgstr ""
+
+msgid "Sign Ups & Blocks"
+msgstr "Subscripcions i baixes"
+
+msgid "Use the CRON server (recommended)"
+msgstr "Usar CRON del servidor web (recomanat)"
+
+msgid "Text direction, Left To Right or Right To Left: put <span style=\"color:#e00\">ltr</span> or <span style=\"color:#e00\">rtl</span>"
+msgstr "Direcció del text, Left To Right o Right To Left: posa <span style=\"color:#e00\">ltr</span> o <span style=\"color:#e00\">rtl</span>"
+
+msgid "Default alignment (<span style=\"color:#e00\">left</span> for left to right languages and <span style=\"color:#e00\">right</span> for right to left languages)"
+msgstr "Aliniació per defecte (<span style=\"color:#e00\">left</span> per a idiomes left to right i <span style=\"color:#e00\">right</span> per a idiomes right to left)"
+
+msgid "Inverse alignment (<span style=\"color:#e00\">right</span> for left to right languages and <span style=\"color:#e00\">left</span> for right to left languages)"
+msgstr "Aliniació inversa (<span style=\"color:#e00\">right</span> per a idiomes left to right i <span style=\"color:#e00\">left</span> per a idiomes right to left)"
+
+msgid "Cant read text 1"
+msgstr "Si no pots llegir (text 1)"
+
+msgid "Cant read text link"
+msgstr "Si no pots llegir (enllaç)"
+
+msgid "Cant read text 2"
+msgstr "Si no pots llegir (text 2)"
+
+msgid "Unsubscribe text 1"
+msgstr "Dar-me de baixa (text 1)"
+
+msgid "Unsubscribe text link"
+msgstr "Dar-me de baixa (enllaç)"
+
+msgid "Unsubscribe text 2"
+msgstr "Dar-me de baixa (text 2)"
+
+msgid "default_alignment"
+msgstr "left"
+
+msgid "inverse_alignment"
+msgstr "right"
+
+msgid "The read more text link"
+msgstr "Text de l'enllaç seguir llegint"
+
+msgid "read_more_link"
+msgstr "seguir llegint"
+
+msgid "Image URL:"
+msgstr "URL de la imatge:"
+
+msgid "Image align:"
+msgstr "Aliniació de la imatge:"
+
+msgid "Apply changes"
+msgstr "Aplicar canvis"
+
+msgid "Undo"
+msgstr "Desfer"
+
+msgid "Fast selection:"
+msgstr "Selecció ràpida:"
+
+msgid "You are downgraded the version of Knews, you can lose data, please update quickly"
+msgstr "La versió actual de Knews es inferior a la instal·lada anteriorment, pots perdre informació: si us plau, actualitza inmediatament"
+
+msgid "http://www.knewsplugin.com/tutorial/"
+msgstr "http://www.knewsplugin.com/ca/tutorial/"
+
+msgid "http://www.knewsplugin.com/configure-smtp-submits/"
+msgstr "http://www.knewsplugin.com/ca/configurar-els-enviaments-per-smtp/"
+
+msgid "http://www.knewsplugin.com/configure-webserver-cron/"
+msgstr "http://www.knewsplugin.com/ca/configurar-cron-al-servidor/"
+
+msgid "Multisite detected. Only one instance of %s must be called for all websites."
+msgstr "Detectat multisite. Només una instancia de %s ha de ser cridada per a tots els webs."
+
+msgid "Cant create the automated submit"
+msgstr "No puc crear l'enviament automatitzat"
+
+msgid "Widget \"%s\" label form"
+msgstr "Etiqueta \"%s\" per al formulari del widget"
+
+msgid "Auto-create"
+msgstr "Creació automatitzada"
+
+msgid "Knews Post Options"
+msgstr "Opcions Post de Knews"
+
+msgid "Add a subscription form into the sidebar"
+msgstr "Afegeix un formulari de subscripció al sidebar"
+
+msgid "Dont ask"
+msgstr "No ho demanis"
+
+msgid "Not required"
+msgstr "No és obligatori"
+
+msgid "Required"
+msgstr "Obligatori"
+
+msgid "Automated process deleted"
+msgstr "Procés automàtic eliminat"
+
+msgid "Automated process activated"
+msgstr "Procés automàtic activat"
+
+msgid "Automated process deactivated"
+msgstr "Procés automàtic desactivat"
+
+msgid "Automated submit activated"
+msgstr "Procés automàtic activat"
+
+msgid "Manual submit activated"
+msgstr "Enviament automàtic activat"
+
+msgid "Automated submit created"
+msgstr "Enviament automàtic creat"
+
+msgid "Error: the name cant be empty"
+msgstr "Error: el nom no pot estar buit"
+
+msgid "Error: there is already an automated submit with this name"
+msgstr "Error: ja hi ha un enviament automatitzat amb aquest nom"
+
+msgid "Auto-create Newsletters"
+msgstr "Creació automàtica de Newsletters"
+
+msgid "Automated process name"
+msgstr "Nom del procés automatitzat"
+
+msgid "Target"
+msgstr "Target"
+
+msgid "Activated"
+msgstr "Activat"
+
+msgid "Automatic submit"
+msgstr "Enviament automàtic"
+
+msgid "Method"
+msgstr "Mètode"
+
+msgid "Last run"
+msgstr "Última execució"
+
+msgid "Activate/deactivate the automated task"
+msgstr "Activar/desactivar la tasca automatitzada"
+
+msgid "Deactivate"
+msgstr "Desactivar"
+
+msgid "Automatic/Manual submits of auto-created newsletters"
+msgstr "Enviaments automàtics/manuals de les newsletters creades automàticament"
+
+msgid "Delete definitively this automated task"
+msgstr "Eliminar definitivament aquesta tasca automatitzada"
+
+msgid "Off"
+msgstr "Parat"
+
+msgid "On"
+msgstr "En marxa"
+
+msgid "Automated submit"
+msgstr "Enviament automatitzat"
+
+msgid "Manual submit"
+msgstr "Enviament manual"
+
+msgid "Automated submits"
+msgstr "Enviaments automatitzats"
+
+msgid "At the moment there is no automated task, you can create new ones"
+msgstr "En aquest moment no hi ha tasques automatitzades, tu en pots crear de noves"
+
+msgid "New Auto-creation Process"
+msgstr "Nou procés de creació automàtica"
+
+msgid "Auto-create Newsletters Tutorial"
+msgstr "Tutorial de creació automatitzada de newsletters"
+
+msgid "Get posts from language:"
+msgstr "Agafar els posts del idioma:"
+
+msgid "Use as template:"
+msgstr "Usa com a template:"
+
+msgid "You must first create a newsletter with insertable info (leave the %the_content%, %the_title% etc.)"
+msgstr "Has de crear primer una newsletter amb informació insertable (deixa els %the_content%, %the_title% etc.)"
+
+msgid "Create a newsletter every %s posts"
+msgstr "Crear una newsletter cada % posts"
+
+msgid "Error: there are no mailing lists"
+msgstr "Error: no hi ha llistes de correu"
+
+msgid "Advanced options"
+msgstr "Opcions avançades"
+
+msgid "Automated options"
+msgstr "Opcions d'automatització"
+
+msgid "Include the posts in the automated newsletters (default value for the new created posts)"
+msgstr "Incloure els posts a les newsletters automatitzades (valor per defecte per als posts nous)"
+
+msgid "Manual Newsletters"
+msgstr "Newsletters manuals"
+
+msgid "Auto-created Newsletters"
+msgstr "Newsletters creades automàticament"
+
+msgid "There is no auto-created newsletter."
+msgstr "Encara no hi ha cap newsletter creada automàticament."
+
+msgid "http://www.knewsplugin.com/automated-newsletter-creation/"
+msgstr "http://www.knewsplugin.com/ca/creacio-automatica-de-newsletters/"
+
+msgid "widget_label_name"
+msgstr "Nom:"
+
+msgid "widget_label_surname"
+msgstr "Cognom:"
+
+msgid "General options"
+msgstr "Opcions generals"
+
+msgid "Include this post in the automated newsletters?"
+msgstr "Incloure aquest post als newsletters generats automàticament?"
+
+msgid "This post has been included into:"
+msgstr "Aquest post ha estat inclòs a:"
+
+msgid "This post still not included into any automated newsletter."
+msgstr "Aquest post encara no ha estat inclòs a cap newsletter creada automàticament."
+
+msgid "Active process:"
+msgstr "Procès actiu:"
+
+msgid "Newsletter creation options"
+msgstr "Opcions de creació de newsletters"
+
+msgid "Create a newsletter every x amount of time"
+msgstr "Crear una newsletter cada cert període de temps"
+
+msgid "Newsletter submit options"
+msgstr "Opcions d'enviament de newsletters"
+
+msgid "Target for newsletter:"
+msgstr "Target per a la newsletter:"
+
+msgid "Submit method:"
+msgstr "Mètode d'enviament:"
+
+msgid "Messages reset to defaults."
+msgstr "Reestablir els missatges per defecte."
+
+msgid "(high performance SMTP)"
+msgstr "(SMTP d'alta capacitat)"
+
+msgid "All categories"
+msgstr "Totes les categories"
+
+msgid "Error: Please, fill all the form"
+msgstr "Error: siusplau, omple tot el formulari"
+
+msgid "Mantain current data and add new mailing lists"
+msgstr "Mantenir la informació actual i afegir a les noves llistes de correu"
+
+msgid "of"
+msgstr "de"
+
+msgid "SMTP Secure"
+msgstr "SMTP Segur"
+
+msgid "Step"
+msgstr "Pas"
+
+msgid "Submit automatic"
+msgstr "Enviament automàtic"
+
+msgid "This template requires Knews version %s you must update Knews before use this template"
+msgstr "Aquest template requereix Knews versió %s tu has d'actualitzar Knews abans de poder usar aquest template"
+
+msgid "This template requires the professional version of Knews. You can get it %s here"
+msgstr "Aquest template necessita la versió professional de Knews. Tu pots obtindre'l %s aquí"
+
+msgid "Compatibility options"
+msgstr "Opcions de compatibilitat"
+
+msgid "<strong>Knews is now registered</strong>. Go to %s plugins administration %s and click on Knews 'Check for updates' link for upgrade. Thank you very much."
+msgstr "<strong>Knews està registrat</strong>. Vés a %s l'administració dels plugins %s i apreta a Knews el link 'Comprobar les actualitzacions' per actualitzar. Moltes gràcies."
+
+msgid "Knews runs every hour the automated newsletter creation jobs."
+msgstr "Knews executa cada hora el procés de creació automàtica de newsletters."
+
+msgid "You can manually trigger this task now (only recommended for testing purposes) %s Run Automated Creation Now"
+msgstr "Tu pots executar manualment aquesta tasca ara (solament recomanat per proves) %s Executar el procés ara"
+
+msgid "Knews submit runs every 10 minutes and sends a portion of the list."
+msgstr "Els enviaments de Knews s'executen cada 10 minuts i envien una porció de la llista."
+
+msgid "You can manually trigger the JavaScript CRON if your newsletter is not being sent for any reason: %s Run JS-Cron Now"
+msgstr "Tu pots executar manualment el CRON de JavaScript si la teva newsletter no està sent enviada per alguna raó: %s Executar JS-Cron Ara"
+
+msgid "Widget subscription form title"
+msgstr "Títol del widget de subscripció"
+
+msgid "Widget latest newsletters title"
+msgstr "Títol del widget d'últimes newsletters"
+
+msgid "Mobile version text link"
+msgstr "Text enllaç versió mòbil"
+
+msgid "Desktop version text link"
+msgstr "Link versió sobretaula"
+
+msgid "You are downgraded to the free version of Knews, you can lose data, please update quickly! You can get the professional version %s here"
+msgstr "Has passat a la versió gratuïta de Knews, pots perdre informació, siusplau, actualitza ràpidament! Pots obtindre la versió professional %s aquí"
+
+msgid "Max number of newsletters: <br />(-1 for infinite):"
+msgstr "Nombre màxim de newsletters: <br />(-1 per infinites):"
+
+msgid "Hide not sent newsletters?"
+msgstr "Amagar les newsletters no enviades?"
+
+msgid "Hide automated newsletters?"
+msgstr "Amagar les newsletters automàtiques?"
+
+msgid "Customize widget title"
+msgstr "Personalitzar el títol del widget"
+
+msgid "Knews Pro options"
+msgstr "Opcions de Knews Pro"
+
+msgid "Your e-mail (used for the Knews Shop account):"
+msgstr "El teu e-mail (usat al compte de la tenda de Knews):"
+
+msgid "Registration"
+msgstr "Registre"
+
+msgid "Serial Key:"
+msgstr "Número de sèrie"
+
+msgid "(get it in our shop, login and click on \"My Downloads\" page)"
+msgstr "(aconsegueixe'l a la nostra tenda, fes login i clica a \"Les meves descàrregues\")"
+
+msgid "Save Serial"
+msgstr "Guardar número de sèrie"
+
+msgid "Bounce configuration"
+msgstr "Configuració de retornats"
+
+msgid "Bounce detection deactivated"
+msgstr "Detecció de emails retornats desactivada"
+
+msgid "Bounce detection activated"
+msgstr "Detecció de emails retornats activada"
+
+msgid "POP3 Mail host:"
+msgstr "Servidor de correu POP3:"
+
+msgid "POP3 Port:"
+msgstr "Port POP3:"
+
+msgid "User account:"
+msgstr "Compte usuari:"
+
+msgid "User password"
+msgstr "Contrassenya usuari:"
+
+msgid "Secure connection:"
+msgstr "Connexió segura:"
+
+msgid "Before enabling the Bounce detection, enter the values and click on TEST button"
+msgstr "Abans d'activar la detecció de emails rebutjats, entra els valors i fes click al botó de PROVA"
+
+msgid "Test POP3 config"
+msgstr "PROVA configuració POP3"
+
+msgid "Cant connect to POP3 mail server, please, check the configuration values"
+msgstr "No puc connectar al servidor de correu POP3, siusplau, comprova els valors de configuració"
+
+msgid "Bounce tutorial"
+msgstr "Tutorial emails retornats"
+
+msgid "Knews Pro includes a bounce email detection system, it needs an dedicated account like bounce@yourdomain.com. First, create the account, next, fill the configuation fields, then test the connection and if all works fine, activate & save."
+msgstr "Knews Pro inclou un sistema de detecció d'emails retornats, necessita un compte de correu dedicat com bounce@elteudomini.com. Primer, crea el compte, després, omple els camps de configuració,"
+
+msgid "Use post edition date instead post creation date for the automated newsletters (older posts never included in automation, will be included if you edit it and activate this option)"
+msgstr "Fer ús la data d'edició del post en comptes de la data de creació per a la automatització de newsletters (els posts antics mai seràn inclosos a la automatització, seràn inclosos si actives aquesta opció i els edites)"
+
+msgid "Apply filter the_content in the newsletter post insertion (Deactivate for compatibility issues with some plugins like NextGen Gallery)"
+msgstr "Aplicar el filtre the_content a la inserció de posts al newsletter (Desacitivar per problemes de compatibilitat amb alguns plugins com NextGen Gallery)"
+
+msgid "<strong>Note</strong>: if you are using <strong>qTranslate</strong> you cant deactivate this option, because it uses this filter to divide the post contents into different languages."
+msgstr "<strong>Nota</strong>: si tu estàs usant <strong>qTranslate</strong> no pots desactivar aquesta opció, perquè usa aquest filtre per dividir el contingut dels posts en els diferents llenguatges."
+
+msgid "Prevent bot registrations. Some Cache Plugins can need deactivate this option (Subscribe always fails \"wrong e-mail adress\" message)."
+msgstr "Prevenir registres de robots. Alguns plugins de memòria cau poden necessitar desactivar aquesa opció (Les subscripcions sempre fallen amb el missatge \"adreça d'email incorrecta\")."
+
+msgid "Premium options"
+msgstr "Opcions premium"
+
+msgid "Hide default templates (only works if at least one template is installed into (/wp-content/uploads/knewstemplates/)"
+msgstr "Amaga els templates per defecte (solament funcionarà si com a mínim hi ha un template a /wp-content/uploads/knewstemplates/)"
+
+msgid "Hide Knews Shop Products offers"
+msgstr "Amaga les ofertes de la tenda de Knews"
+
+msgid "WordPress user syncronization"
+msgstr "Sincronització amb els usuaris de WordPress"
+
+msgid "Subscribe new WordPress users to:"
+msgstr "Subscriure els nous usuaris de WordPress a:"
+
+msgid "None"
+msgstr "Cap"
+
+msgid "Newsletter deleted"
+msgstr "Newsletter eliminada"
+
+msgid "Newsletter name updated"
+msgstr "Nom de la newsletter actualitzat"
+
+msgid "Newsletter duplicated"
+msgstr "Newsletter duplicada"
+
+msgid "Desktop and mobile versions"
+msgstr "Versions mòbil i sobretaula"
+
+msgid "Desktop version only"
+msgstr "Només versió sobretaula"
+
+msgid "Unconfirmed"
+msgstr "No confirmat"
+
+msgid "Bounce"
+msgstr "Retornat"
+
+msgid "Bounced"
+msgstr "Retornat"
+
+msgid "Mark as bounced email"
+msgstr "Marcar l'email com a retornat"
+
+msgid "Mark as activated"
+msgstr "Marcar com a activat"
+
+msgid "Mark as blocked"
+msgstr "Marcar com a blocat"
+
+msgid "Mark as bounced"
+msgstr "Marcar com a retornat"
+
+msgid "Subscribe to list"
+msgstr "Subscriure a la llista"
+
+msgid "Unsubscribe to list"
+msgstr "Desubscriure a la llista"
+
+msgid "Choose one list"
+msgstr "Selecciona una llista"
+
+msgid "You dont have any mobile template!"
+msgstr "No disposes de cap template per a mòbil!"
+
+msgid "There is a videotutorial about Knews WYSIWYG Editor, %s view it in Youtube"
+msgstr "Hi ha un videotutorial sobre l'editor WYSIWYG de Knews, %s mira'l a Youtube"
+
+msgid "SSL"
+msgstr "SSL"
+
+msgid "Sorry, this is a premium feature. Please, %s click here and see all the Knews Pro features."
+msgstr "Ens sap greu, aquesta és una característica Premium. Siusplau, fes click aquí i informa't de totes les característiques de Knews Pro."
+
+msgid "Warning! You arent selected any mailing list, do you want to continue?"
+msgstr "Atenció! No has sel·leccionat cap llista de correu, segur que vols continuar?"
+
+msgid "The field name cant be empty"
+msgstr "El camp nom no pot estar buid"
+
+msgid "Select the %s filtered subscribers to perform a massive action"
+msgstr "Selecciona als %s subscriptors filtrats per a realitzar una acció massiva"
+
+msgid "Select all your subscribers (%s) to perform a massive action"
+msgstr "Selecciona tots els teus subscriptors (%s) per a realitzar una acció massiva"
+
+msgid "Roles and capabilities saved."
+msgstr "Rols i capacitats guardades."
+
+msgid "Roles and capabilities"
+msgstr "Rols i capacitats"
+
+msgid "Role name"
+msgstr "Nom de rol"
+
+msgid "Can see Knews Stats"
+msgstr "Pot veure les estadístiques de Knews"
+
+msgid "Can manage newsletters"
+msgstr "Pot crear i editar Newsletters"
+
+msgid "Can manage users"
+msgstr "Pot administrar usuaris"
+
+msgid "Can configure Knews"
+msgstr "Pot configurar Knews"
+
+msgid "All subscribers"
+msgstr "Tots els subscriptors"
+
+msgid "Do WordPress user importation"
+msgstr "Importar usuaris de WordPress"
+
+msgid "Import <strong>all</strong> the WordPress users and subscribe into the mailing list:"
+msgstr "Importar <strong>tots</strong> els usuaris de WordPress i subscriure'ls a la llista de correu:"
+
+msgid "Assign the language:"
+msgstr "Assignar-los l'idioma:"
+
+msgid "Import WP users into Knews"
+msgstr "Importar els usuaris de WP a Knews"
+
+msgid "Users imported: %s. Users found before (not re-imported): %s."
+msgstr "Usuaris importats: %s. Usuaris ja existents (no re-importats): %s."
+
+msgid "Errors submitting confirmation: %s"
+msgstr "Errors enviant confirmacions: %s"
+
+msgid "Order"
+msgstr "Ordre"
+
+msgid "New Auto-create Newsletters Process"
+msgstr "Nou procés d'autocreació de newsletters"
+
+msgid "Automated process name:"
+msgstr "Nom del procés automatitzat:"
+
+msgid "desktop_version_text_link"
+msgstr "Versió sobretaula"
+
+msgid "Knews Pro is currently installed."
+msgstr "Knews pro està actualment instal·lat."
+
+msgid "Only from the %s main blog dashboard %s the Knews upgrades can be managed. Maybe only the network administrator can do it."
+msgstr "Només desde l'%escriptori del blog principal %s es poden administrar les actualitzacions de Knews. Pot ser que només l'administrador de la xarxa pugui fer aixó."
+
+msgid "Warning: if you haven't any mailing list opened, the subscription widget will not shown"
+msgstr "Atenció: si no tens cap llista de correu oberta, el widget de subscripció no es mostrarà"
+
+msgid "Warning: you haven't any mailing list opened for logged users, the subscription widget will not shown until you make log out"
+msgstr "Atenció: no tens cap llista de correu oberta per als usuaris registrats, el widget de subscripció no serà mostrat fins que facis log out"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:164
+#: admin/knews_admin_lists.php:148
+msgid "Save changes"
+msgstr "Guardar canvis"
+
+#: Text in function
+#: knews.php:520
+msgid "Subscribe me"
+msgstr "Subscriure'm"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:154
+msgid "WARNING"
+msgstr "ATENCIÓ"
+
+#: Text in echo
+#: admin/knews_admin_config.php:149
+msgid "here"
+msgstr "aquí"
+
+msgid "Show/hide handlers"
+msgstr ""
+
+msgid "Alerts"
+msgstr "Alertes"
+
+msgid "You must call the main blog www.yourdomain.com/wp-admin/admin-ajax.php?action=knewsCron URL"
+msgstr "Has de cridar la URL del blog principal www.yourdomain.com/wp-admin/admin-ajax.php?action=knewsCron"
+
+msgid "mobile_version_text_link"
+msgstr "Versió mòbil"
+
+msgid "Widget %s label form"
+msgstr ""
+
+msgid "http://www.knewsplugin.com/automated-bounced-email-handling"
+msgstr ""
+

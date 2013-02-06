@@ -1,0 +1,164 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+  "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Jasmine Spec Runner</title>
+ <meta charset="utf-8">
+<link rel="shortcut icon" type="image/png"
+	href="lib/jasmine-1.2.0/jasmine_favicon.png">
+<link rel="stylesheet" type="text/css"
+	href="lib/jasmine-1.2.0/jasmine.css">
+<script type="text/javascript" src="lib/jasmine-1.2.0/jasmine.js"></script>
+<script type="text/javascript" src="lib/jasmine-1.2.0/jasmine-html.js"></script>
+
+<script type="text/javascript" src="lib/jasmine-1.2.0/jasmine-jquery.js"></script>
+
+<script type="text/javascript">
+	var ai1ec_requirejs = {
+		"select_one_option" : "Select at least one user group \/ page to subscribe",
+		"error_no_response" : "An unexpected error occurred, try reloading the page",
+		"no_more_subscription" : "No subscriptions yet.",
+		"no_more_than_ten" : "Please select no more than ten users \/ groups \/ pages at a time to avoid overloading Facebook Requests",
+		"duplicate_feed_message" : "This feed is already being imported.",
+		"invalid_url_message" : "Please enter a valid iCalendar URL.",
+		"now" : "1340120197",
+		"date_format" : "def",
+		"month_names" : "January,February,March,April,May,June,July,August,September,October,November,December",
+		"day_names" : "S,M,T,W,T,F,S",
+		"week_start_day" : "1",
+		"twentyfour_hour" : "1",
+		"region" : "",
+		"disable_autocompletion" : "",
+		"error_message_not_valid_lat" : "Please enter a valid latitude. A valid latitude is comprised between +90 and -90.",
+		"error_message_not_valid_long" : "Please enter a valid longitude. A valid longitude is comprised between +180 and -180.",
+		"error_message_not_entered_lat" : "When the \"Input coordinates\" checkbox is checked, \"Latitude\" is a required field.",
+		"error_message_not_entered_long" : "When the \"Input coordinates\" checkbox is checked, \"Longitude\" is a required field.",
+		"gmaps_language" : "en",
+		"page" : '',
+	};
+	var ai1ec_calendar = {
+		"ajaxurl" : "http:\/\/localhost\/wordpress\/wp-admin\/admin-ajax.php",
+		"default_hash" : "#action=ai1ec_month&ai1ec_month_offset=0",
+		"export_url" : "webcal:\/\/localhost\/wordpress\/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&cb=26510",
+		"body_class" : "ai1ec-calendar ai1ec-action-month"
+	};
+</script>
+<!-- include source files here... -->
+<script type="text/javascript" data-main="../main.js"
+	src="../require.js"></script>
+<script type="text/javascript">
+
+	define(
+			'ai1ec_config',
+			{
+				"select_one_option" : "Select at least one user group \/ page to subscribe",
+				"error_no_response" : "An unexpected error occurred, try reloading the page",
+				"no_more_subscription" : "No subscriptions yet.",
+				"no_more_than_ten" : "Please select no more than ten users \/ groups \/ pages at a time to avoid overloading Facebook Requests",
+				"duplicate_feed_message" : "This feed is already being imported.",
+				"invalid_url_message" : "Please enter a valid iCalendar URL.",
+				"now" : "1340120197",
+				"date_format" : "def",
+				"month_names" : "January,February,March,April,May,June,July,August,September,October,November,December",
+				"day_names" : "S,M,T,W,T,F,S",
+				"week_start_day" : "1",
+				"twentyfour_hour" : "1",
+				"region" : "",
+				"disable_autocompletion" : "",
+				"error_message_not_valid_lat" : "Please enter a valid latitude. A valid latitude is comprised between +90 and -90.",
+				"error_message_not_valid_long" : "Please enter a valid longitude. A valid longitude is comprised between +180 and -180.",
+				"error_message_not_entered_lat" : "When the \"Input coordinates\" checkbox is checked, \"Latitude\" is a required field.",
+				"error_message_not_entered_long" : "When the \"Input coordinates\" checkbox is checked, \"Longitude\" is a required field.",
+				"gmaps_language" : "en",
+				"page" : ''
+			});
+	define(
+			'ai1ec_calendar',
+			{
+				"ajaxurl" : "http:\/\/localhost\/wordpress\/wp-admin\/admin-ajax.php",
+				"default_hash" : "#action=ai1ec_month&ai1ec_month_offset=0",
+				"export_url" : "webcal:\/\/localhost\/wordpress\/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&cb=26510",
+				"body_class" : "ai1ec-calendar ai1ec-action-month"
+			});
+</script>
+<script type="text/javascript">
+	requirejs.config({
+		"baseUrl" : "../",
+		"paths" : {
+			"jquery" : "require_jquery"
+		}
+	});
+	jasmine.JQuery.matchersClass.toHaveCss = function(css) {
+		var colorToHex = function(color) {
+			if (color.substr(0, 1) === '#') {
+				return color;
+			}
+			var digits = /(.*?)rgb\((\d+), (\d+), (\d+)\)/.exec(color);
+
+			var red = parseInt(digits[2]);
+			var green = parseInt(digits[3]);
+			var blue = parseInt(digits[4]);
+
+			var rgb = blue | (green << 8) | (red << 16);
+			return digits[1] + '#' + rgb.toString(16);
+		};
+		var convertToHexIfRgb = function(value_to_check) {
+			if (value_to_check.substr(0, 4) === 'rgb(') {
+				return colorToHex(value_to_check);
+			}
+			return value_to_check;
+		};
+		for ( var prop in css) {
+			var actual_prop = convertToHexIfRgb(this.actual.css(prop))
+					.toUpperCase();
+			var expected_prop = convertToHexIfRgb(css[prop]).toUpperCase();
+			if (actual_prop !== expected_prop) {
+				return false;
+			}
+		}
+		return true;
+	}
+</script>
+
+<script type="text/javascript" src="spec/icsSpec.js"></script>
+<script type="text/javascript" src="spec/facebookSpec.js"></script>
+<script type="text/javascript" src="spec/addNewEventSpec.js"></script>
+<script type="text/javascript" src="spec/eventSpec.js"></script>
+<script type="text/javascript" src="spec/calendarSpec.js"></script>
+
+<script type="text/javascript">
+	(function() {
+
+		var jasmineEnv = jasmine.getEnv();
+		jasmineEnv.updateInterval = 1000;
+		jasmine.getFixtures().fixturesPath = 'spec/fixtures';
+
+		var htmlReporter = new jasmine.HtmlReporter();
+
+		jasmineEnv.addReporter(htmlReporter);
+
+		jasmineEnv.specFilter = function(spec) {
+			return htmlReporter.specFilter(spec);
+		};
+
+		var currentWindowOnload = window.onload;
+
+		window.onload = function() {
+			if (currentWindowOnload) {
+				currentWindowOnload();
+			}
+			execJasmine();
+		};
+
+		function execJasmine() {
+			jasmineEnv.execute();
+		}
+
+	})();
+</script>
+
+</head>
+
+<body>
+</body>
+</html>

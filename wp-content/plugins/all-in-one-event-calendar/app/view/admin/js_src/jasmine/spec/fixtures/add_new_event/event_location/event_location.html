@@ -1,0 +1,53 @@
+<h4 class="ai1ec-section-title">Event location details</h4>
+<div id="ai1ec-inside-wrapper">
+	<table class="ai1ec-form ai1ec-location-form">
+		<tbody>
+			<tr>
+				<td class="ai1ec-first"><label for="ai1ec_venue"> Venue
+						name: </label></td>
+				<td><input type="text" value="" id="ai1ec_venue"
+					name="ai1ec_venue"></td>
+			</tr>
+			<tr>
+				<td><label for="ai1ec_address"> Address: </label></td>
+				<td><input type="text" value="" id="ai1ec_address"
+					name="ai1ec_address" autocomplete="off" class="ac_input"></td>
+			</tr>
+			<tr>
+				<td><label for="ai1ec_google_map"> Show Google Map: </label></td>
+				<td><input type="checkbox" id="ai1ec_google_map"
+					name="ai1ec_google_map" value="1"></td>
+			</tr>
+			<tr>
+				<td><label for="ai1ec_input_coordinates"> Input
+						Coordinates: </label></td>
+				<td><input type="checkbox" id="ai1ec_input_coordinates"
+					name="ai1ec_input_coordinates" value="1"></td>
+			</tr>
+		</tbody>
+	</table>
+	<table class="ai1ec-form ai1ec-location-form"
+		id="ai1ec_table_coordinates" style="visibility: hidden;">
+		<tbody>
+			<tr>
+				<td class="ai1ec-first"><label for="ai1ec_longitude">
+						Longitude: </label></td>
+				<td><input type="text" value="" id="ai1ec_longitude"
+					name="ai1ec_longitude" class="longitude coordinates"></td>
+			</tr>
+			<tr>
+				<td><label for="ai1ec_latitude"> Latitude: </label></td>
+				<td><input type="text" value="" id="ai1ec_latitude"
+					name="ai1ec_latitude" class="latitude coordinates"></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="ai1ec_box_map ">
+	<div id="ai1ec_map_canvas" style="height: 264px; width: 264px;"></div>
+</div>
+<input type="hidden" value="" id="ai1ec_city" name="ai1ec_city">
+<input type="hidden" value="" id="ai1ec_province" name="ai1ec_province">
+<input type="hidden" value="" id="ai1ec_postal_code"
+	name="ai1ec_postal_code">
+<input type="hidden" value="" id="ai1ec_country" name="ai1ec_country">

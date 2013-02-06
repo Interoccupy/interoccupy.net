@@ -1,0 +1,2522 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Knews\n"
+"Language: fi\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carles <mail@carlesrever.com>\n"
+"Language-Team: \n"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Schedule submit"
+msgstr "Ajasta postitus"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "(highest)"
+msgstr "(korkein)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "(lowest)"
+msgstr "(matalin)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "(normal)"
+msgstr "(normaali)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Batch submit process has been properly scheduled."
+msgstr "Joukkopostitus on ajastettu oikein."
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "Activate user directly (don't send e-mail confirmation)"
+msgstr "Aktivoi tilaaja suoraan (ei e-mail-ilmoitusta)"
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "Filter by state"
+msgstr "Suodata tilan mukaan"
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "No users match the search criteria"
+msgstr "Ei kriteerit t&auml;ytt&auml;vi&auml; tilaajia"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:142
+msgid "Active users"
+msgstr "Aktiiviset tilaajat"
+
+#: Text in echo
+#: admin/knews_admin_users.php:162
+msgid "Add extra field"
+msgstr "Lis&auml;&auml; lis&auml;kentt&auml;"
+
+#: Text in echo
+#: admin/knews_admin_users.php:178
+msgid "Add field"
+msgstr "Lis&auml;&auml; kentt&auml;"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:214
+msgid "Add newsletter"
+msgstr "Lis&auml;&auml; uutiskirje"
+
+#: Text in function
+#: admin/knews_admin_import.php:358
+#: admin/knews_admin_import.php:359
+#: admin/knews_admin_import.php:360
+#: admin/knews_admin_users.php:309
+msgid "All"
+msgstr "Kaikki"
+
+#: Text in function
+#: admin/knews_admin_import.php:362
+msgid "All in"
+msgstr "Kaikki "
+
+#: Text in echo
+#: admin/knews_admin_import.php:668
+msgid "And have been blocked in this import:"
+msgstr "Ja on estetty t&auml;ss&auml; tuonnissa:"
+
+#: Text in echo
+#: admin/knews_admin_import.php:649
+msgid "And there have not been imported:"
+msgstr "Ja ei ole tuotu:"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:155
+msgid "At the moment there is no list, you can create new ones"
+msgstr "T&auml;ll&auml; hetkell&auml; ei ole listaa, voit luoda uusia"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:170
+msgid "At the moment there is no newsletter, you can create new ones"
+msgstr "T&auml;ll&auml; hetkell&auml; ei ole uutiskirjeit&auml;, voit luoda uusia"
+
+#: Text in echo
+#: admin/knews_admin_import.php:658
+msgid "Automatically send confirmation e-mails:"
+msgstr "L&auml;het&auml; vahvistus-e-mail automaattisesti:"
+
+#: Text in echo
+#: admin/knews_admin_config.php:219
+msgid "Before enabling the sending SMTP, enter the values and your e-mail and then click on TEST button"
+msgstr "Ennen SMTP:n k&auml;yttoonottoa, anna tiedot ja e-mail-osoitteesi ja klikkaa TEST -nappia"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+msgid "Blocked"
+msgstr "Estetty"
+
+#: Text in echo
+#: admin/knews_admin_config.php:157
+msgid "CRON"
+msgstr "CRON"
+
+#: Text in function
+#: admin/knews_admin_config.php:172
+msgid "CRON has not yet been configured"
+msgstr "CRON ei ole konfiguroitu"
+
+#: Text in function
+#: admin/knews_admin_config.php:172
+msgid "CRON has stopped working."
+msgstr "CRON lopetti toimimisen."
+
+#: Text in echo
+#: admin/knews_admin_config.php:164
+msgid "CRON is properly configured"
+msgstr "CRON on konfiguroitu oikein"
+
+#: Text in echo
+#: admin/knews_admin_import.php:228
+msgid "CSV File"
+msgstr "CSV-tiedosto"
+
+#: Text in echo
+#: admin/knews_admin_import.php:217
+msgid "CSV Upload"
+msgstr "CSV tuonti"
+
+#: Text in echo
+#: admin/knews_admin_import.php:644
+msgid "CSV total:"
+msgstr "CSV yhteens&auml;:"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:201
+msgid "I can't submit an e-mail to:"
+msgstr "En voi postittaa:"
+
+#: Text in echo
+#: admin/knews_admin_config.php:216
+msgid "Pay attention: If your SMTP server is anonymous leave SMTP User and SMTP Password fields blank"
+msgstr "Huomaa: Jos SMTP:si ei tarvitse tunnuksia, j&auml;t&auml; SMTP-k&auml;yttj ja salasana -kent&auml;t tyhj&auml;ksi"
+
+#: Text in echo
+#: admin/knews_admin_import.php:374
+msgid "Check dates"
+msgstr "Tarkista p&auml;iv&auml;t"
+
+#: Text in function
+#: direct/edit_news.php:49
+msgid "Check the directory permissions for"
+msgstr "Tarkista hakemiston oikeudet "
+
+#: Text in echo
+#: admin/knews_admin_import.php:356
+msgid "Select a column"
+msgstr "Valitse sarake"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:179
+msgid "Choose a template"
+msgstr "Valitse malli"
+
+#: Text in function
+#: knews.php:520
+msgid "Configuration"
+msgstr "Asetukset"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+msgid "Confirmed"
+msgstr "Varmistettu"
+
+#: Text in echo
+#: admin/knews_admin_import.php:294
+msgid "Continue"
+msgstr "Jatka"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:164
+msgid "Create a mailing list"
+msgstr "Luo postituslista"
+
+#: Text in echo
+#: admin/knews_admin_users.php:421
+msgid "Create a subscriber manually"
+msgstr "Luo tilaaja manuaalisesti"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:159
+msgid "Create new mailing list"
+msgstr "Luo uusi postituslista"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:175
+msgid "Create new newsletter"
+msgstr "Luo uusi uutiskirje"
+
+#: Text in echo
+#: admin/knews_admin_users.php:457
+msgid "Create a user"
+msgstr "Luo tilaaja"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:153
+msgid "Created"
+msgstr "Luotu"
+
+#: Text in echo
+#: direct/knews_cron.php:135
+msgid "Cron-JS finished, you can close the window"
+msgstr "Cron-JS valmis, voit sulkea ikkunan"
+
+#: Text in echo
+#: direct/knews_cron.php:131
+msgid "Cron-JS in the process, don't close this window..."
+msgstr "Cron-JS k&auml;sittelee, &auml;l&auml; sulje t&auml;t&auml; ikkunaa..."
+
+#: Text in echo
+#: admin/knews_admin_config.php:85
+#: admin/knews_admin_config.php:143
+msgid "Customised messages"
+msgstr "Muokatut viestit"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:172
+msgid "Date (day/month/year)"
+msgstr "P&auml;iv&auml; (pv&auml;/kk/vuosi)"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:159
+#: admin/knews_admin_lists.php:143
+msgid "Delete"
+msgstr "Poista"
+
+#: Text in echo
+#: admin/knews_admin_import.php:686
+msgid "Do the import"
+msgstr "Tuo"
+
+#: Text in echo
+#: admin/knews_admin_config.php:209
+msgid "E-mails sent internally using WordPress (wp_mail() function)"
+msgstr "L&auml;het&auml; e-mailit k&auml;ytt&auml;en WordPressin (wp_mail() funktiota)"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:156
+#: admin/knews_admin_news_list.php:167
+#: admin/knews_admin_lists.php:141
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: Text in echo
+#: admin/knews_admin_news_edit.php:28
+msgid "Editing newsletter"
+msgstr "Muokkaa uutiskirjett&auml;"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "E-mails sent at once"
+msgstr "Postitettu v&auml;litt&ouml;m&auml;sti"
+
+#: Text in echo
+#: admin/knews_admin_import.php:74
+msgid "Enclosure"
+msgstr "Liite"
+
+#: Text in echo
+#: admin/knews_admin_import.php:82
+msgid "Encoding"
+msgstr "Merkist&ouml;koodaus"
+
+#: Text in function
+#: direct/edit_news.php:49
+#: admin/knews_admin_news_send.php:201
+#: admin/knews_admin_news_send.php:124
+#: admin/knews_admin_news_edit.php:22
+#: admin/knews_admin_users.php:464
+#: admin/knews_admin_users.php:246
+#: admin/knews_admin_users.php:460
+#: admin/knews_admin_news_list.php:1
+#: admin/knews_admin_lists.php:1
+msgid "Error"
+msgstr "Virhe"
+
+#: Text in echo
+#: direct/edit_news.php:50
+msgid "Error saving"
+msgstr "Virhe tallennuksessa"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "Error: can't move uploaded file."
+msgstr "Virhe: Ei voi siirt&auml;&auml; tiedostoa"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "Error: can't open the file"
+msgstr "Virhe: tiedostoa ei voi avata"
+
+#: Text in echo
+#: admin/knews_admin_users.php:136
+#: admin/knews_admin_users.php:190
+msgid "Extra fields"
+msgstr "Lis&auml;kent&auml;t"
+
+#: Text in echo
+#: admin/knews_admin_users.php:152
+#: admin/knews_admin_users.php:207
+#: admin/knews_admin_users.php:257
+msgid "Field"
+msgstr "Kentt&auml;"
+
+#: Text in echo
+#: admin/knews_admin_import.php:219
+msgid "Fields assignement"
+msgstr "Liit&auml; kenttiin"
+
+#: Text in echo
+#: admin/knews_admin_import.php:232
+msgid "File upload"
+msgstr "Siirr&auml; tiedosto"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "File uploaded correctly"
+msgstr "Tiedosto siirretty oikein"
+
+#: Text in echo
+#: admin/knews_admin_users.php:315
+msgid "Filter"
+msgstr "Suodata"
+
+#: Text in echo
+#: admin/knews_admin_users.php:308
+msgid "Filter by mailing list"
+msgstr "Suodata postituslistan perusteella"
+
+#: Text in echo
+#: admin/knews_admin_users.php:321
+msgid "Find"
+msgstr "Etsi"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Finished"
+msgstr "P&auml;&auml;ttynyt"
+
+#: Text in echo
+#: admin/knews_admin_import.php:218
+msgid "Formatting"
+msgstr "Muoto"
+
+#: Text in echo
+#: admin/knews_admin_import.php:401
+#: admin/knews_admin_import.php:686
+#: admin/knews_admin_users.php:260
+msgid "Go back"
+msgstr "Takaisin"
+
+#: Text in echo
+#: admin/knews_admin_users.php:396
+#: admin/knews_admin_users.php:399
+msgid "Go to first page"
+msgstr "Siirry ensimm&auml;iselle sivulle"
+
+#: Text in echo
+#: admin/knews_admin_users.php:405
+#: admin/knews_admin_users.php:408
+msgid "Go to last page"
+msgstr "Siirry viimeiselle sivulle"
+
+#: Text in echo
+#: admin/knews_admin_users.php:404
+#: admin/knews_admin_users.php:407
+msgid "Go to next page"
+msgstr "Siirry seuraavalle sivulle"
+
+#: Text in echo
+#: admin/knews_admin_users.php:397
+#: admin/knews_admin_users.php:400
+msgid "Go to previous page"
+msgstr "Siirry edelliselle sivulle"
+
+#: Text in echo
+#: admin/knews_admin_config.php:212
+msgid "Host SMTP"
+msgstr "Palveluntarjoajan SMTP"
+
+#: Text in echo
+#: admin/knews_admin_import.php:397
+msgid "If a user already exists (matches e-mail)"
+msgstr "Jos tilaaja on jo olemassa (sama e-mail)"
+
+#: Text in echo
+#: admin/knews_admin_import.php:287
+msgid "If you see the correct values, press \"Continue\""
+msgstr "Jos tiedot ovat oikein, paina \"Jatka\""
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "If you can read this e-mail, SMTP is correctly configured and you can activate it in Knews preferences"
+msgstr "Jos voit lukea t&auml;m&auml;n postin, SMTP:n asetukset ovat oikeat ja voit aktivoida sen Knewsin asetuksissa"
+
+#: Text in echo
+#: admin/knews_admin_import.php:368
+msgid "If you choose a column, allowed values ​​are:"
+msgstr "Jos valitset sarakkeen, sallitut arvot ovat:"
+
+#: Text in echo
+#: admin/knews_admin_import.php:229
+msgid "If you do not know what values ​​to put, leave these initially, later you can change it"
+msgstr "Jos et tied&auml; mit&auml; laittaa, j&auml;t&auml; tyhj&auml;ksi, voit muuttaa my&ouml;hemmin"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "If you enter a value manually, this will be the same for all users imported"
+msgstr "Jos annat arvon manuaalisesti, t&auml;m&auml; p&auml;tee kaikkiin tuotuihin tilaajiin"
+
+#: Text in echo
+#: admin/knews_admin_import.php:221
+msgid "Import"
+msgstr "Tuo"
+
+#: Text in echo
+#: admin/knews_admin_import.php:214
+#: knews.php:520
+msgid "Import CSV"
+msgstr "Tuo CSV"
+
+#: Text in echo
+#: admin/knews_admin_import.php:691
+msgid "Import finished"
+msgstr "Tuonti suoritettu"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Import preview (we have not made ​​any changes yet:"
+msgstr "Tuonnin esikatselu (muutoksia ei ole tehty):"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Import results"
+msgstr "Tuonnin tulokset"
+
+#: Text in function
+#: admin/knews_admin_users.php:246
+msgid "Inactive language"
+msgstr "Kieli ei aktiivinen"
+
+#: Text in echo
+#: admin/knews_admin_config.php:180
+msgid "Instructions for setting up CRON"
+msgstr "Ohjeet  CRON:in asettamiseksi"
+
+#: Text in echo
+#: admin/knews_admin_import.php:362
+#: admin/knews_admin_users.php:246
+#: admin/knews_admin_users.php:326
+#: admin/knews_admin_users.php:460
+msgid "Language"
+msgstr "Kieli"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Leave empty"
+msgstr "J&auml;t&auml; tyhj&auml;ksi"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:131
+msgid "List name"
+msgstr "Listan nimi"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:162
+msgid "Mailing list"
+msgstr "Postituslista"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "Mailing list created"
+msgstr "Postituslista luotu"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:78
+#: knews.php:520
+msgid "Mailing lists"
+msgstr "Postituslistat"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "Mailing lists updated"
+msgstr "Postituslistat p&auml;ivitetty"
+
+#: Text in echo
+#: admin/knews_admin_users.php:152
+msgid "Main"
+msgstr "P&auml;&auml;n&auml;kym&auml;"
+
+#: Text in echo
+#: admin/knews_admin_users.php:170
+msgid "Main field"
+msgstr "P&auml;&auml;kentt&auml;"
+
+#: Text in echo
+#: admin/knews_admin_config.php:84
+#: admin/knews_admin_config.php:142
+msgid "Main options"
+msgstr "Asetukset"
+
+#: Text in echo
+#: admin/knews_admin_import.php:398
+msgid "Maintain current data"
+msgstr "Pid&auml; nykyinen data"
+
+#: Text in echo
+#: admin/knews_admin_import.php:402
+msgid "Make preview"
+msgstr "Luo esikatselu"
+
+#: Text in echo
+#: admin/knews_admin_users.php:171
+msgid "Marking this box, this field will be visible in the users table. We recommend you don't mark more than 2 or 3 fields to avoid a confusing table"
+msgstr "Merkkaamalla t&auml;m&auml;n valinnan, t&auml;m&auml; kentt&auml; n&auml;kyy tilaajat-taulussa. Suosittelemme merkkaamaan vain 2-3 kentt&auml;&auml; "
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:154
+msgid "Modified"
+msgstr "Muokattu"
+
+#: Text in echo
+#: admin/knews_admin_config.php:145
+msgid "Multilingual"
+msgstr "Monikielisyys"
+
+#: Text in echo
+#: admin/knews_admin_users.php:165
+#: admin/knews_admin_news_list.php:178
+msgid "Name"
+msgstr "Nimi"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:89
+msgid "Name list"
+msgstr "Nime&auml; lista"
+
+#: Text in echo
+#: admin/knews_admin_users.php:167
+msgid "Name of extra field"
+msgstr "Lis&auml;kent&auml;n nimi"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:66
+msgid "Newsletter"
+msgstr "Uutiskirje"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "Failed to create the Newsletter"
+msgstr "Uutiskirjeen luominen ep&auml;onnistui"
+
+#: Text in function
+#: admin/knews_admin_news_edit.php:22
+msgid "Newsletter doesn't exists"
+msgstr "Uutiskirjett&auml; ei ole olemassa"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "Newsletter list updated"
+msgstr "Uutiskirjeiden luettelo p&auml;ivitetty"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:152
+msgid "Newsletter name"
+msgstr "Uutiskirjeen nimi"
+
+#: Text in echo
+#: direct/edit_news.php:51
+msgid "Newsletter saved"
+msgstr "Uutiskirje tallennettu"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:123
+#: admin/knews_admin_news_edit.php:21
+#: admin/knews_admin_news_list.php:111
+#: knews.php:520
+msgid "Newsletters"
+msgstr "Uutiskirjeet"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "No"
+msgstr "Ei"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "No delimiters"
+msgstr "Ei rajoittimia"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+msgid "Not confirmed"
+msgstr "Ei varmistettu"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:179
+msgid "Now you must click here, then a window that emulates CRON with JavaScript will open. You should leave it open till sending ends."
+msgstr "Nyt klikkaa t&auml;st&auml;, JavaScript CRON-emulaattori-ikkuna avutuu. J&auml;t&auml; ikkuna aktiiviseksi kunnes postitus p&auml;&auml;ttyy."
+
+#: Text in echo
+#: admin/knews_admin_import.php:646
+msgid "Of which have been successfully imported:"
+msgstr "Jotka on onnistuneesti tuotu:"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Ongoing"
+msgstr "K&auml;ynniss&auml;"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:90
+#: admin/knews_admin_lists.php:132
+msgid "Open"
+msgstr "Avoin"
+
+#: Text in echo
+#: admin/knews_admin_lists.php:91
+#: admin/knews_admin_lists.php:133
+msgid "Open for registered users"
+msgstr "Avoin rekister&ouml;ityneille tilaajille"
+
+#: Text in echo
+#: admin/knews_admin_import.php:399
+msgid "Overwrite"
+msgstr "Ylikirjoita"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Paused"
+msgstr "Tauolla"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Paused?"
+msgstr "Tauolla?"
+
+#: Text in echo
+#: admin/knews_admin_import.php:361
+msgid "Permission"
+msgstr "K&auml;ytt&ouml;oikeus"
+
+#: Text in echo
+#: admin/knews_admin_config.php:213
+msgid "Port SMTP"
+msgstr "SMTP portti"
+
+#: Text in echo
+#: admin/knews_admin_import.php:220
+#: admin/knews_admin_news_list.php:157
+#: admin/knews_admin_news_list.php:167
+msgid "Preview"
+msgstr "Esikatselu"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:67
+#: admin/knews_admin_news_send.php:173
+msgid "Priority"
+msgstr "T&auml;rkeys"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:71
+msgid "Progress / Results"
+msgstr "Edistys / Tulokset"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "Properly tabulated"
+msgstr "Oikein taulukoitu"
+
+#: Text in echo
+#: admin/knews_admin_config.php:220
+msgid "Recipient"
+msgstr "Vastaanottaja"
+
+#: Text in echo
+#: admin/knews_admin_config.php:215
+msgid "SMTP Password"
+msgstr "SMTP Salasana"
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "SMTP Submit e-mail test done"
+msgstr "SMTP e-mail l&auml;hetystesti valmis"
+
+#: Text in echo
+#: admin/knews_admin_config.php:214
+msgid "SMTP User"
+msgstr "SMTP K&auml;ytt&auml;j&auml;"
+
+#: Text in echo
+#: direct/edit_news.php:73
+#: admin/knews_admin_config.php:116
+#: admin/knews_admin_config.php:228
+msgid "Save"
+msgstr "Tallenna"
+
+#: Text in function
+#: admin/knews_admin_config.php:232
+msgid "Saved."
+msgstr "Tallennettu."
+
+#: Text in echo
+#: admin/knews_admin_import.php:279
+msgid "Scan CSV again"
+msgstr "Tutki CSV uudestaan"
+
+#: Text in function
+#: admin/knews_admin_lists.php:152
+msgid "See users"
+msgstr "Katso tilaajat"
+
+#: Text in echo
+#: direct/select_post.php:59
+msgid "Select the post to insert in the newsletter"
+msgstr "Valitse artikkeli liitett&auml;v&auml;ksi uutiskirjeeseen"
+
+#: Text in echo
+#: admin/knews_admin_users.php:455
+msgid "Send e-mail confirmation"
+msgstr "L&auml;het&auml; e-mail vahvistus"
+
+#: Text in echo
+#: admin/knews_admin_config.php:210
+msgid "Send e-mails using SMTP (recommended)"
+msgstr "L&auml;het&auml; e-mailit k&auml;ytt&auml;en SMTP:t&auml; (suositus)"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:191
+msgid "Send the newsletter manually"
+msgstr "L&auml;het&auml; uutiskirje manuaalisesti"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:131
+msgid "Send the newsletter to the following lists"
+msgstr "L&auml;het&auml; uutiskirje seuraaville listoille"
+
+#: Text in echo
+#: admin/knews_admin_config.php:187
+msgid "Sender"
+msgstr "L&auml;hett&auml;j&auml;"
+
+#: Text in echo
+#: admin/knews_admin_config.php:188
+msgid "Sender e-mail"
+msgstr "L&auml;hett&auml;j&auml;n e-mailosoite"
+
+#: Text in echo
+#: admin/knews_admin_config.php:189
+msgid "Sender name"
+msgstr "L&auml;hett&auml;j&auml;n nimi"
+
+#: Text in echo
+#: admin/knews_admin_config.php:194
+msgid "Sending"
+msgstr "L&auml;hetet&auml;&auml;n"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:179
+msgid "Sending SMTP is not enabled, the shipments are less reliable."
+msgstr "SMTP ei ole k&auml;yt&ouml;ss&auml;, postitus ei ole luotettava."
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:130
+msgid "Sending newsletter"
+msgstr "Uutiskirjett&auml; l&auml;hetet&auml;&auml;n"
+
+#: Text in echo
+#: admin/knews_admin_import.php:66
+msgid "Separator"
+msgstr "Erotin"
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "Shipping done, check that the mail has arrived."
+msgstr "Postitus valmis, tarkista ett&auml; meili on saapunut."
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "Special"
+msgstr "Erityinen"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:172
+msgid "Start (now or deferred)?"
+msgstr "K&auml;ynnist&auml; (nyt tai viiv&auml;stetty)?"
+
+#: Text in echo
+#: admin/knews_admin_import.php:357
+#: admin/knews_admin_users.php:233
+#: admin/knews_admin_users.php:326
+msgid "State"
+msgstr "Tila"
+
+#: Text in function
+#: knews.php:520
+msgid "Stats"
+msgstr "Tilastot"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:72
+msgid "Status"
+msgstr "Tila"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:69
+msgid "Submit end"
+msgstr "Postitus p&auml;&auml;ttyy"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:158
+#: admin/knews_admin_news_list.php:167
+#: knews.php:517
+msgid "Submit"
+msgstr "L&auml;het&auml;"
+
+#: Text in function
+#: direct/test_smtp.php:1
+msgid "Submit error."
+msgstr "Virhe postituksessa."
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:197
+msgid "Submit newsletter"
+msgstr "Postita uutiskirje"
+
+msgid "Continue editing"
+msgstr "Jatka muokkaamista"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:68
+msgid "Submit start"
+msgstr "Postitus alkaa"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:2
+#: knews.php:520
+msgid "Submits"
+msgstr "Postitukset"
+
+#: Text in echo
+#: admin/knews_admin_import.php:387
+msgid "Subscribe all users to the following mailing lists:"
+msgstr "Aseta kaikki tilaajat seuraaviin postituslistoihin:"
+
+#: Text in echo
+#: admin/knews_admin_users.php:136
+#: admin/knews_admin_users.php:190
+#: knews.php:520
+msgid "Subscribers"
+msgstr "Tilaajat"
+
+#: Text in echo
+#: admin/knews_admin_users.php:245
+#: admin/knews_admin_users.php:326
+msgid "Subscriptions"
+msgstr "Tilaukset"
+
+#: Text in echo
+#: admin/knews_admin_config.php:208
+msgid "Submit method"
+msgstr "L&auml;hetystapa"
+
+#: Text in function
+#: knews.php:520
+msgid "Today, at"
+msgstr "T&auml;n&auml;&auml;n, "
+
+#: Text in function
+#: knews.php:520
+msgid "Tomorrow, at"
+msgstr "Huomenna, "
+
+#: Text in function
+#: knews.php:520
+msgid "at"
+msgstr "klo."
+
+#: Text in function
+#: knews.php:520
+msgid "Yesterday, at"
+msgstr "Eilen, "
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:155
+msgid "Template"
+msgstr "Sivun malli"
+
+#: Text in echo
+#: admin/knews_admin_config.php:223
+msgid "Test SMTP config"
+msgstr "Testaa SMTP:n asetukset"
+
+#: Text in echo
+#: admin/knews_admin_config.php:148
+msgid "The WPML plugin was not detected, multilingual options are not functional"
+msgstr "WPML plugia ei havaittu, monikielisyys ei ole toiminnassa"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "The directory /wp-content/plugins/knews/tmp must be writable (chmod 700)"
+msgstr "Hakemisto /wp-content/plugins/knews/tmp t&auml;ytyy olla kirjoitettavissa (chmod 700)"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The field already exists"
+msgstr "Kentt&auml; on jo olemassa"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The field has been added"
+msgstr "Kentt&auml; lis&auml;tty"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The field name can't be empty"
+msgstr "Kent&auml;n nimi ei voi olla tyhj&auml;"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The fields have been updated"
+msgstr "Kent&auml;t on p&auml;ivitetty"
+
+#: Text in echo
+#: admin/knews_admin_import.php:90
+msgid "The first row is a header"
+msgstr "Ensimm&auml;inen rivi on otsikko"
+
+#: Text in echo
+#: admin/knews_admin_config.php:165
+#: admin/knews_admin_config.php:172
+msgid "The last execution was done"
+msgstr "Viime toimenpide tehty"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:124
+msgid "The newsletter doesn't exists"
+msgstr "Uutiskirjett&auml; ei ole olemassa"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "The newsletter has been created successfully"
+msgstr "Uutiskirje luotu onnistuneesti"
+
+#: Text in echo
+#: admin/knews_admin_users.php:176
+msgid "A token is used to insert a field in the newsletter. Should be located between %, with no spaces, for example: %name%"
+msgstr "Tunnistetta k&auml;ytet&auml;&auml;n kent&auml;n lis&auml;&auml;miseen.Sen tulisi sijaita % -merkkien v&auml;liss&auml;,ilman v&auml;lily&ouml;ntej&auml;, esim: %nimi%"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has been added and an e-mail confirmation has been sent"
+msgstr "Tilaaja on lis&auml;tty ja vahvistus-e-mail on l&auml;hetetty"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has been added and from now on he will receive the newsletters"
+msgstr "Tilaaja on lis&auml;tty ja h&auml;n saa uutiskirjeet"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has been added but an error occurred in sending e-mail confirmation"
+msgstr "Tilaaja on lis&auml;tty mutta tapahtui virhe vahvistusmeilin l&auml;hetyksess&auml;"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user has not been inserted"
+msgstr "Tilaajaa ei ole lis&auml;tty"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "The user was already introduced"
+msgstr "Tilaaja on jo olemassa"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "There is already another newsletter with the same name!"
+msgstr "Samanniminen uutiskirje on jo olemassa!"
+
+#: Text in echo
+#: admin/knews_admin_import.php:651
+msgid "There have been created:"
+msgstr "Luotu:"
+
+#: Text in echo
+#: admin/knews_admin_import.php:653
+msgid "There have been updated:"
+msgstr "P&auml;ivitettiin:"
+
+#: Text in echo
+#: admin/knews_admin_import.php:356
+msgid "This field is required to take it in some column"
+msgstr "T&auml;m&auml; on pakollinen kentt&auml; sarakkeeseen lis&auml;tt&auml;v&auml;ksi"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:172
+msgid "Time"
+msgstr "Aika"
+
+#: Text in echo
+#: admin/knews_admin_users.php:152
+#: admin/knews_admin_users.php:174
+msgid "Token"
+msgstr "Tunniste"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:201
+msgid "The single e-mail has been sent to:"
+msgstr "Yksitt&auml;inen meili on postitettu osoitteeseen:"
+
+#: Text in function
+#: knews.php:1
+msgid "Unique language"
+msgstr "Uniikki kieli"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Unknown language"
+msgstr "Tuntematon kieli"
+
+#: Text in echo
+#: admin/knews_admin_users.php:154
+msgid "Update fields"
+msgstr "P&auml;ivit&auml; kent&auml;t"
+
+#: Text in echo
+#: admin/knews_admin_users.php:260
+msgid "Update user"
+msgstr "P&auml;ivit&auml; k&auml;ytt&auml;j&auml;"
+
+#: Text in echo
+#: admin/knews_admin_config.php:153
+msgid "Use the WPML defined languages to operate Knews in multilanguage mode"
+msgstr "K&auml;yt&auml; WPML: m&auml;&auml;ritt&auml;mi&auml; kieli&auml; k&auml;ytt&auml;&auml;ksesi Knewsia monikielisen&auml;"
+
+msgid "Use the qTranslate defined languages to operate Knews in multilanguage mode"
+msgstr "K&auml;yt&auml; qTranslaten asetuksissa m&auml;&auml;ritettyj&auml; kieli&auml; k&auml;ytt&auml;&auml;ksesi Knewsia monikielisen&auml;"
+
+msgid "Operate Knews as monolingual"
+msgstr "K&auml;yt&auml; Knewsia yksikielisen&auml;"
+
+msgid "No mulilanguage plugins detected. Knews works with qTranslate and WPML plugins"
+msgstr "Ei monikielisyysplugeja havaittu.  Knews toimii qTranslate ja WPML -plugien kanssa"
+
+msgid "qTranslate: free plugin"
+msgstr "qTranslate: maksuton lis&auml;osa"
+
+msgid "WPML: commercial plugin"
+msgstr "WPML: maksullinen lis&auml;osa"
+
+msgid "Note: Knews authors have no relationship with qTranslate or WMPL authors."
+msgstr "Huomaa: Knewsin tekij&auml;t eiv&auml;t ole miss&auml;&auml;n suhteessa qTranslate:n tai WMPL:n tekij&ouml;ihin."
+
+msgid "If you leave now this page, the Newsletter changes will be lost. Please, cancel and press the \"Save\" button (blue coloured)."
+msgstr "Jos poistut tältä sivulta, uutiskirjeeseen tekem&auml;si muutokset katoavat. Klikka Peruuta ja tallenna klikkaamalla sinist&auml; \"Tallenna\" nappia."
+
+msgid "The multilanguage plugin has stopped working."
+msgstr "Monikielisyysplugi lakkasi toimimasta."
+
+msgid "Welcome to Knews."
+msgstr "Tervetuloa Knews:iin."
+
+msgid "Please, go to %s configuration page"
+msgstr "Vieraile %s asetukset-sivulla"
+
+msgid "Don't show this message again [x]"
+msgstr "&Auml;l&auml; n&auml;yt&auml; t&auml;t&auml; viesti&auml; uudelleen [x]"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "The user already exists"
+msgstr "Tilaaja on jo olemassa"
+
+#: Text in function
+#: admin/knews_admin_users.php:464
+msgid "User data updated"
+msgstr "Tilaajan tiedot p&auml;ivitetty"
+
+#: Text in function
+#: admin/knews_admin_users.php:263
+msgid "User not found"
+msgstr "Tilaajaa ei l&ouml;ydy"
+
+#: Text in echo
+#: admin/knews_admin_submits.php:70
+msgid "Users"
+msgstr "Tilaajat"
+
+#: Text in function
+#: admin/knews_admin_users.php:460
+msgid "There are not yet users"
+msgstr "Ei tilaajia, viel&auml;"
+
+#: Text in echo
+#: admin/knews_admin_import.php:658
+msgid "Users unconfirmed (You should do confirmation manually):"
+msgstr "Vahvistamattomat tilaajat (Tee vahvistukset manuaalisesti):"
+
+#: Text in echo
+#: admin/knews_admin_import.php:361
+msgid "Send a confirmation e-mail to the unconfirmed users (not to the locked ones)"
+msgstr "L&auml;het&auml; vahvistus-e-mailit vahvistamattomille tilaajille (ei lukituille)"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "Using special characters (accents) correctly coded"
+msgstr "K&auml;ytet&auml;&auml;n erikoismerkkej&auml; (esim. aksentteja) oikein koodattuna"
+
+#: Text in echo
+#: admin/knews_admin_users.php:207
+#: admin/knews_admin_users.php:257
+msgid "Value"
+msgstr "Arvo"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+#: admin/knews_admin_users.php:464
+msgid "Wrong e-mail"
+msgstr "V&auml;&auml;r&auml; emailosoite"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "Wrong state"
+msgstr "V&auml;&auml;r&auml; tila"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "Yes"
+msgstr "Kyll&auml;"
+
+#: Text in function
+#: admin/knews_admin_news_send.php:179
+msgid "You cannot schedule a delayed delivery. You must leave an auxiliary window open (JavaScript CRON Emulation) until the sending ends"
+msgstr "Et voi ajastaa viiv&auml;stetty&auml; postitusta. JavaScript CRON-emulaation apuikkunan tulee olla avoinna kunnes postitus p&auml;&auml;ttyy"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "You must choose a name for the new newsletter!"
+msgstr "Anna uutiskirjeelle nimi!"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:1
+msgid "You must choose a template!"
+msgstr "Valitse uutiskirjeen malli!"
+
+#: Text in function
+#: admin/knews_admin_import.php:203
+msgid "You must upload a file."
+msgstr "Tuo tiedosto."
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "You should be seeing the header and the four first lines of the CSV:"
+msgstr "Sinun pit&auml;isi n&auml;hd&auml; CSV:n otsikko ja nelj&auml; ensimm&auml;ist&auml; rivi&auml;:"
+
+msgid "widget_title"
+msgstr "Tilaa uutiskirje"
+
+msgid "widget_label_email"
+msgstr "E-mail:"
+
+msgid "Widget submit button"
+msgstr "Vimpaimen l&auml;het&auml;-nappi"
+
+msgid "widget_button"
+msgstr "Tilaa"
+
+msgid "You were already a subscriber (AJAX message)"
+msgstr "Olet jo tilaaja (AJAX message)"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription"
+msgstr "Saat vahvistuksen tilauksestasi s&auml;hk&ouml;postiisi"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription_direct"
+msgstr "Olet liittynyt postituslistalle"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription_oops"
+msgstr "Olet jo tilaaja"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_subscription_error"
+msgstr "Tapahtui virhe vahvistus-e-mailin l&auml;hetyksess&auml;"
+
+#: Text in function
+#: knews.php:1
+msgid "ajax_wrong_email"
+msgstr "E-mail osoitteessasi on virhe. Tarkista"
+
+#: Text in function
+#: knews.php:1
+msgid "email_subscription_subject"
+msgstr "Uutiskirjeen tilaus"
+
+#: Text in function
+#: knews.php:1
+msgid "email_subscription_body"
+msgstr "<p>Olet tilannut uutiskirjeen: #blog_name#, vahvista tilauksesi klikkaamalla <a href=\"#url_confirm#\">t&auml;st&auml;</a>.</p><p>Voit kopioida ja liitt&auml;&auml; osoitteen selaimen osoiteriville:<br>#url_confirm#</p>"
+
+#: Text in echo
+#: dialogs.php:28
+msgid "subscription_ok_title"
+msgstr "Tilauksesi on vahvistettu"
+
+#: Text in echo
+#: dialogs.php:29
+msgid "subscription_ok_message"
+msgstr "Saat uutiskirjeemme s&auml;hk&ouml;postiisi.<br><br><strong>. Kiitos.</strong>"
+
+#: Text in echo
+#: dialogs.php:35
+msgid "subscription_error_title"
+msgstr "Virhe tilauksessa"
+
+#: Text in echo
+#: dialogs.php:50
+msgid "subscription_error_message"
+msgstr "Kokeile uudestaan, kiitos. Kopioi linkki selaimesi osoiteriville.<br><br><strong>Pahoittelemme ylim&auml;&auml;r&auml;ist&auml; vaivaa</strong>"
+
+#: Text in echo
+#: dialogs.php:49
+msgid "subscription_stop_error_title"
+msgstr "Tilauksesi peruuttaminen ep&auml;onnistui"
+
+#: Text in echo
+#: dialogs.php:50
+msgid "subscription_stop_error_message"
+msgstr "Yrit&auml; uudestaan, kiitos. Kokeile kopioida koko e-mail-linkki selaimesi osoiteriville.  Pahoittelemme ylim&auml;&auml;r&auml;ist&auml; vaivaa."
+
+#: Text in echo
+#: dialogs.php:42
+msgid "subscription_stop_ok_title"
+msgstr "Tilauksesi on peruttu"
+
+#: Text in echo
+#: dialogs.php:43
+msgid "subscription_stop_ok_message"
+msgstr "T&auml;st&auml; l&auml;htien et saa uutiskirjeit&auml;mme s&auml;hk&ouml;postiisi. Kiitos."
+
+#: Text in echo
+#: dialogs.php:52
+msgid "dialogs_close_button"
+msgstr "Sulje"
+
+#: Text in echo
+#: admin/knews_admin_import.php:373
+msgid "year-month-day"
+msgstr "vuosi-kuukausi-p&auml;iv&auml;"
+
+#: Text in function
+#: admin/knews_admin_import.php:360
+#: admin/knews_admin_users.php:236
+msgid "blocked"
+msgstr "estetty"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "can't create the mailing list"
+msgstr "ei voi luoda postituslistaa"
+
+#: Text in function
+#: admin/knews_admin_import.php:359
+#: admin/knews_admin_users.php:235
+msgid "confirmed"
+msgstr "varmistettu"
+
+#: Text in function
+#: admin/knews_admin_submits.php:16
+msgid "deleted"
+msgstr "poistettu"
+
+#: Text in echo
+#: admin/knews_admin_import.php:371
+msgid "day-month-year"
+msgstr "p&auml;iv&auml;-kuukausi-vuosi"
+
+#: Text in function
+#: admin/knews_admin_import.php:405
+msgid "If not, change the separator values and / or closing. Then press \"Scan CSV again\":"
+msgstr "Jos ei, vaihda erotinta ja / tai rivinvaihtoa. Sitten klikka \"Scan CSV again\":"
+
+#: Text in function
+#: admin/knews_admin_import.php:437
+msgid "introduce value"
+msgstr "esittele arvo"
+
+#: Text in echo
+#: admin/knews_admin_import.php:372
+msgid "month-day-year"
+msgstr "kuukausi-p&auml;iv&auml;-vuosi"
+
+#: Text in echo
+#: admin/knews_admin_config.php:165
+#: admin/knews_admin_config.php:172
+msgid "minutes ago"
+msgstr "minuuttia sitten"
+
+#: Text in function
+#: admin/knews_admin_news_list.php:167
+msgid "never"
+msgstr "ei koskaan"
+
+#: Text in function
+#: admin/knews_admin_import.php:358
+#: admin/knews_admin_users.php:234
+msgid "not confirmed"
+msgstr "ei varmistettu"
+
+#: Text in function
+#: admin/knews_admin_users.php:246
+#: admin/knews_admin_users.php:460
+msgid "Language not detected!"
+msgstr "Kieli ei tunnistettu!"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:173
+msgid "test mode"
+msgstr "testausmoodi"
+
+#: Text in function
+#: admin/knews_admin_lists.php:1
+msgid "there is already a list with this name!"
+msgstr "t&auml;m&auml;nniminen lista on jo olemassa!"
+
+#: Text in echo
+#: admin/knews_admin_import.php:644
+#: admin/knews_admin_import.php:646
+#: admin/knews_admin_import.php:649
+#: admin/knews_admin_import.php:651
+#: admin/knews_admin_import.php:653
+#: admin/knews_admin_import.php:665
+#: admin/knews_admin_import.php:668
+#: admin/knews_admin_users.php:394
+msgid "users"
+msgstr "tilaajat"
+
+#: Text in echo
+#: phpscanner.php:17
+msgid "E-mail on automatically import (body)"
+msgstr "E-mail automaattisessa tuonnissa (sis&auml;lt&ouml;)"
+
+#: Text in echo
+#: phpscanner.php:16
+msgid "E-mail on automatically import (title)"
+msgstr "E-mail automaattisessa tuonnissa (otsikko)"
+
+#: Text in echo
+#: phpscanner.php:26
+msgid "Close Button Caption"
+msgstr "Sulje-painikkeen teksti"
+
+#: Text in echo
+#: phpscanner.php:15
+msgid "Confirmation E-mail (body)"
+msgstr "Varmistus e-mail (sis&auml;lt&ouml;)"
+
+#: Text in echo
+#: phpscanner.php:14
+msgid "Confirmation E-mail (subject)"
+msgstr "Varmistus e-mail (aihe)"
+
+#: Text in echo
+#: phpscanner.php:21
+msgid "Subscription Error Dialog (Message)"
+msgstr "Tilausvirhe (Viesti)"
+
+#: Text in echo
+#: phpscanner.php:20
+msgid "Subscription Error Dialog (Title)"
+msgstr "Tilausvirhe (Otsikko)"
+
+#: Text in echo
+#: phpscanner.php:19
+msgid "Subscription OK Dialog (Message)"
+msgstr "Tilaus OK (Viesti)"
+
+#: Text in echo
+#: phpscanner.php:18
+msgid "Subscription OK Dialog (Title)"
+msgstr "Tilaus OK (Otsikko)"
+
+#: Text in echo
+#: phpscanner.php:11
+msgid "Subscription done, you were already subscribed (AJAX message)"
+msgstr "Tilaus valmis, olit jo tilaaja (AJAX-viesti)"
+
+#: Text in echo
+#: phpscanner.php:10
+msgid "We have sent you a confirmation e-mail (AJAX message)"
+msgstr "L&auml;hetimme sinulle vahvistuss&auml;hk&ouml;postin (AJAX-viesti)"
+
+#: Text in echo
+#: phpscanner.php:13
+msgid "Subscription error (AJAX message)"
+msgstr "Tilausvirhe (AJAX-viesti)"
+
+#: Text in echo
+#: phpscanner.php:23
+msgid "UnSubscribe Error Dialog (Message)"
+msgstr "Tilauksen peruutus virhe (Viesti)"
+
+#: Text in echo
+#: phpscanner.php:22
+msgid "UnSubscribe Error Dialog (Title)"
+msgstr "Tilauksen peruutus virhe (Otsikko)"
+
+#: Text in echo
+#: phpscanner.php:25
+msgid "UnSubscribe OK Dialog (Message)"
+msgstr "Tilaus peruutettu OK (Viesti)"
+
+#: Text in echo
+#: phpscanner.php:24
+msgid "UnSubscribe OK Dialog (Title)"
+msgstr "Tilaus peruutettu OK (Otsikko)"
+
+#: Text in echo
+#: phpscanner.php:9
+msgid "Wrong e-mail address, please check (AJAX message)"
+msgstr "V&auml;&auml;r&auml; e-mail-osoite, tarkista (AJAX-viesti)"
+
+#: Text in echo
+#: phpscanner.php:36
+msgid "email_importation_body"
+msgstr "Olet tilannut #blog_name#:n uutiskirjeen, varmista tilauksesi klikkaamalla <a href=\"#url_confirm#\">t&auml;st&auml;</a>.</p><p>Voit my&ouml;s kopioida ja liitt&auml;&auml; osoitteen selaimesi osoiteriville:<br>#url_confirm#</p>"
+
+#: Text in echo
+#: phpscanner.php:35
+msgid "email_importation_subject"
+msgstr "Uutiskirjeen tilaus"
+
+msgid "deleted list"
+msgstr "poistettu lista"
+
+msgid "Total errors:"
+msgstr "Virheit&auml; yhteens&auml;:"
+
+msgid "User deleted"
+msgstr "Tilaaja poistettu"
+
+msgid "Edit this user"
+msgstr "Muokkaa t&auml;t&auml; tilaajaa"
+
+msgid "Activate this user"
+msgstr "Aktivoi t&auml;m&auml; tilaaja"
+
+msgid "Activate"
+msgstr "Aktivoi"
+
+msgid "Delete definitively this user"
+msgstr "Poista t&auml;m&auml; tilaaja lopullisesti"
+
+msgid "Block this user"
+msgstr "Est&auml; t&auml;m&auml; tilaaja"
+
+msgid "Block"
+msgstr "Est&auml;"
+
+msgid "Batch actions"
+msgstr "Joukkotoiminnot"
+
+msgid "Apply"
+msgstr "K&auml;yt&auml;"
+
+msgid "Rename"
+msgstr "Nime&auml; uudelleen"
+
+msgid "Cancel"
+msgstr "Peruuta"
+
+msgid "Only update"
+msgstr "Vain p&auml;ivitys"
+
+msgid "Only delete"
+msgstr "Vain poisto"
+
+msgid "See fails"
+msgstr "Katso ep&auml;onnistuneet"
+
+msgid "Pause"
+msgstr "Keskeyt&auml;"
+
+msgid "Progress"
+msgstr "Edistys"
+
+msgid "Rename this list"
+msgstr "Nime&auml; t&auml;m&auml; lista uudelleen"
+
+msgid "See this list users"
+msgstr "Katso t&auml;m&auml;n listan tilaajat"
+
+msgid "Delete definitively this newsletter"
+msgstr "Poista t&auml;m&auml; uutiskirje lopullisesti"
+
+msgid "Edit this newsletter"
+msgstr "Muokkaa uutiskirjett&auml;"
+
+msgid "Rename this newsletter"
+msgstr "Anna uusi nimi"
+
+msgid "Open a preview in a new window"
+msgstr "Avaa esikatselu uudessa ikkunassa"
+
+msgid "Submit this newsletter"
+msgstr "Postita t&auml;m&auml; uutiskirje"
+
+msgid "Change the priority"
+msgstr "Vaihda t&auml;rkeysj&auml;rjestyst&auml;"
+
+msgid "Set the current date and time as start submit time"
+msgstr "Aseta t&auml;m&auml;nhetkinen p&auml;iv&auml;ys ja aika postituksen alkamisajaksi"
+
+msgid "Pause this submit"
+msgstr "Tauota t&auml;m&auml; postitus"
+
+msgid "Remove pause, continue submit"
+msgstr "Poistu tauolta ja jatka postitusta"
+
+msgid "Start now"
+msgstr "Aloita nyt"
+
+msgid "See report fails by SMTP server"
+msgstr "Katso SMTP-palvelimen virheraportti"
+
+msgid "Stop and delete this submit now"
+msgstr "Pys&auml;yt&auml; ja poista t&auml;m&auml; postitus nyt"
+
+msgid "Error: This newsletter does not exist"
+msgstr "Virhe: Uutiskirjett&auml; ei ole olemassa"
+
+msgid "Do you really want to delete this module?"
+msgstr "Haluatko todella poistaa t&auml;m&auml;n modulin?"
+
+msgid "Move module"
+msgstr "Siirr&auml; modulia"
+
+msgid "Delete module"
+msgstr "Poista moduli"
+
+msgid "Subject"
+msgstr "Aihe"
+
+msgid "Posts"
+msgstr "Artikkelit"
+
+msgid "Pages"
+msgstr "Sivut"
+
+msgid "Reset all alerts"
+msgstr "Nollaa kaikki virheilmoitukset"
+
+msgid "Reset all messages to default values (all languages at once)"
+msgstr "Nollaa kaikki viestit oletusasetuksiin (kaikki kielet samalla)"
+
+msgid "Knews will try to resend those messages which have reported error"
+msgstr "Knews yritt&auml;&auml; l&auml;hett&auml;&auml; uudelleen viestit, joissa virheit&auml;"
+
+msgid "Resubmit those which have reported error"
+msgstr "Uudelleenl&auml;het&auml; ne joissa virheit&auml;"
+
+msgid "Retry"
+msgstr "Yrit&auml; uudelleen"
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "1. Select the users you want to export:"
+msgstr "1. Valitse viet&auml;v&auml;t tilaajat:"
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "1.1. Select the lists to export:"
+msgstr "1.1. Valitse listat vienti&auml; varten:"
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "1.2. Select the languages to export:"
+msgstr "1.2. Valitse viet&auml;v&auml;t kielet:"
+
+#: Text in echo
+#: knews_admin_export.php:152
+msgid "2. Format options:"
+msgstr "2. Muodon asetukset:"
+
+#: Text in function
+#: knews_admin_export.php:143
+msgid "E-mail"
+msgstr "Email"
+
+#: Text in echo
+#: knews_admin_export.php:71
+#: knews_admin_export.php:195
+msgid "Export users"
+msgstr "Vie tilaajat"
+
+#: Text in echo
+#: knews_admin_export.php:189
+msgid "Insert a header in the first row"
+msgstr "Otsikoi ensimm&auml;inen rivi"
+
+#: Text in function
+#: knews_admin_export.php:143
+msgid "No users match criteria"
+msgstr "Ei kriteerit t&auml;ytt&auml;vi&auml; tilaajia"
+
+#: Text in function
+#: knews_admin_export.php:143
+msgid "Select at least one list and one language."
+msgstr "Valitse v&auml;hint&auml;&auml;n yksi lista ja kieli."
+
+#: Text in function
+#: knews_admin_export.php:142
+msgid "To download the .CSV, click %s here"
+msgstr "Tallentaaksesi .CSV-tiedoston, klikkaa %s t&auml;st&auml;"
+
+msgid "Export CSV"
+msgstr "Vie CSV"
+
+msgid "Note: mark all lists and the desired language/s to filter by language, or all languages and desired lists to filter by list,"
+msgstr "Huom: merkkaa kaikki listat ja halutut kielet suodatettavaksi kielen mukaan, tai kaikki kielet ja halutut listat suodattaaksesi listan mukaan,"
+
+msgid "...or all lists and all languages to export all users."
+msgstr "...tai kaikki listat ja kaikki kielet vied&auml;ksesi kaikki tilaajat."
+
+msgid "%s users have been exported."
+msgstr "%s tilaajaa viety."
+
+msgid "Lists"
+msgstr "Listat"
+
+msgid "Edit image"
+msgstr "Muokkaa kuvaa"
+
+msgid "Insert post/page content"
+msgstr "K&auml;yt&auml; sivun/artikkelin sis&auml;lt&ouml;&auml;"
+
+msgid "Free text content"
+msgstr "Vapaa muokkaus"
+
+msgid "Resize toolbox"
+msgstr "Muuta ty&ouml;kalulaatikon kokoa"
+
+msgid "Warning! IE 6/7 can't edit newsletters! The editor uses HTML5 properties, you need upgrade at least to IE8, or use an modern Firefox, Chrome or Safari."
+msgstr "Varoitus! IE 6/7 ei pysty muokkaamaan uutiskirjeit&auml;! Editori k&auml;ytt&auml;&auml; HTML5:sta, p&auml;iivit&auml; selain v&auml;hint&auml;&auml; IE8:aan, tai k&auml;yt&auml; modernia selainta: Firefox, Chrome tai Safari."
+
+msgid "Warning! Opera can't edit newsletters. You must use a modern Firefox, Chrome, Safari or at least Internet Explorer 8."
+msgstr "Varoitus! Opera ei pysty muokkaamaan uutiskirjeit&auml;! K&auml;yt&auml; modernia selainta: Firefox, Chrome, Safari tai v&auml;hint&auml;&auml;n IE8."
+
+msgid "Warning! You should activate JavaScript to edit newsletters!"
+msgstr "Varoitus! Sinun tulisi sallia JavaScript selaimessa muokataksesi uutiskirjeit&auml;!"
+
+msgid "No submits yet. First go to Newsletters, create one, and then submit it."
+msgstr "Ei postituksia, viel&auml;. Valitse ensin Uutiskirjeet, luo uusi ja sitten postita."
+
+msgid "Error: I can't write the .CSV file."
+msgstr "Virhe: Ei voi kirjoittaa .CSV-tiedostoon."
+
+msgid "User join date"
+msgstr "Liittymisp&auml;v&auml;"
+
+msgid "All: today"
+msgstr "Kaikki: t&auml;n&auml;&auml;n"
+
+msgid "See log"
+msgstr "Katso logi"
+
+msgid "See the complete submit log"
+msgstr "Katso t&auml;ydellinen postituslogi"
+
+msgid "Alerts and logs"
+msgstr "Virheet ja logit"
+
+msgid "Write logs (in /wp-content/plugins/knews/tmp directory) in submits"
+msgstr "Tallenna logi (sijainti: /wp-content/plugins/knews/tmp directory) l&auml;hetysten yhteydess&auml;"
+
+msgid "Go to template page"
+msgstr "Katso uutiskirjepohjan esittely"
+
+msgid "Redirecting to editor..."
+msgstr "Siirryt&auml;&auml;n editoriin..."
+
+msgid "The e-mails submited to any e-mail terminated with @knewstest.com (like testing001@knewstest.com or xxx@knewstest.com) will be submited to: %s for your testing purposes"
+msgstr "Kaikki e-mailit jotka l&auml;hetet&auml;&auml;n @knewstest.com -p&auml;&auml;tteisiin osoitteisiin (kuten testing001@knewstest.com tai xxx@knewstest.com) l&auml;hetet&auml;&auml;n osoitteeseen: %s , testaustarkoituksessa"
+
+msgid "List deleted"
+msgstr "Lista poistettu"
+
+msgid "Submit start time updated"
+msgstr "Postituksen alkamisaika p&auml;ivitetty"
+
+msgid "List name updated"
+msgstr "Listan nimi p&auml;ivitetty"
+
+msgid "Submit deleted"
+msgstr "Postitus poistettu"
+
+msgid "Submit priority updated"
+msgstr "Postituksen t&auml;rkeysaste p&auml;ivitetty"
+
+msgid "Use WordPress's built-in CRON framework."
+msgstr "K&auml;yt&auml; WordPressin CRON:ia."
+
+msgid "This option no requires configuration, but in less traffic sites can be slow to submit"
+msgstr "T&auml;m&auml; vaihtoehto ei tarvitse asetuksia, mutta v&auml;hemm&auml;nliikenn&ouml;idyill&auml; sivustoilla l&auml;hetys voi olla hidasta"
+
+msgid "Use the JavaScript CRON emulation."
+msgstr "K&auml;yt&auml; JavaScript CRON -emulaatiota."
+
+msgid "This option requires you to keep a window open during submission and does not allow deferred submits"
+msgstr "T&auml;m&auml; vaihtoehto edellytt&auml;&auml; ikkunan aukipit&auml;mist&auml; postituksen aikana, eik&auml; salli viiv&auml;stettyj&auml; postituksia"
+
+msgid "Check all mailing lists"
+msgstr "Valitse kaikki listat"
+
+msgid "Uncheck all mailing lists"
+msgstr "Poista valinta kaikista listoista"
+
+msgid "Duplicate"
+msgstr "Monista"
+
+msgid "Duplicate this newsletter"
+msgstr "Monista t&auml;m&auml; uutiskirje"
+
+msgid "Apply changes and refresh image"
+msgstr "Hyv&auml;ksy muutokset ja p&auml;ivit&auml; kuva"
+
+msgid "Undo image changes"
+msgstr "Peruuta kuvan muutokset"
+
+msgid "Properties of image"
+msgstr "Kuvan tiedot"
+
+msgid "Select one or more lists"
+msgstr "Valitse yksi tai useampia listoja"
+
+msgid "No active users in the selected list, nothing programmed to send."
+msgstr "Valitulla listalla ei ole aktiivisia tilaajia, mit&auml;&auml;n ei postiteta."
+
+msgid "Configure CRON tutorial"
+msgstr "CRON:in asetukset -ohjeet"
+
+msgid "You must add this line in your webserver CRONTAB:"
+msgstr "Lisää seuraava rivi palvelimesi crontab -tiedostoon:"
+
+msgid "Configure SMTP tutorial"
+msgstr "SMTP:n asetukset -ohjeet"
+
+msgid "The language can't be localized"
+msgstr "Kielt&auml; ei voida lokalisoida"
+
+msgid "You are in image edition mode. You must press Apply or Undo image changes (or press ESC key) before doing anything."
+msgstr "Olet kuvan muokkaustilassa.  Klikkaa Hyv&auml;ksy muutokset tai keskeyt&auml; (tai paina ESC) ennen muita valintoja."
+
+msgid "Image alt:"
+msgstr "Kuvan vaihtoehtoinen teksti:"
+
+msgid "The alternate text is very important, because most mail clients block initial image load and show the alternate image text."
+msgstr "Vaihtoehtoinen kuvateksti on t&auml;rke&auml;, koska useimmat s&auml;hk&ouml;postiohjelmat eiv&auml;t n&auml;yt&auml; kuvia oletuksena."
+
+msgid "Image link:"
+msgstr "Kuvan linkki:"
+
+msgid "Put a url if you want to put link around the image, for example: http://www.mysite.com/mypage.html."
+msgstr "Anna linkin URL, jos haluat kuvaan linkin, esim.: http://www.omaosoite.com/sivu.html."
+
+msgid "Multilanguage"
+msgstr "Monikielinen"
+
+msgid "Make your own templates how-to"
+msgstr "Tee itse oma uutiskirjesivupohja -opas"
+
+msgid "From date:"
+msgstr "Alku pvm:"
+
+msgid "to date:"
+msgstr "loppu pvm."
+
+msgid "last 7 days"
+msgstr "viime 7 p&auml;iv&auml;&auml;"
+
+msgid "last 30 days"
+msgstr "viimeiset 30 p&auml;iv&auml;&auml;"
+
+msgid "last week"
+msgstr "viime viikko"
+
+msgid "last month"
+msgstr "viime kuukausi"
+
+msgid "The date range you have selected is not available."
+msgstr "Valitsemasi aikav&auml;li ei ole saatavilla."
+
+msgid "Current status of subscriptions"
+msgstr "Tilaajien t&auml;m&auml;nhetkinen tila"
+
+msgid "Active users:"
+msgstr "Aktiivisia tilaajia:"
+
+msgid "Not confirmed:"
+msgstr "Ei varmistettu:"
+
+msgid "Unsubscribed users:"
+msgstr "Tilauksen keskeytt&auml;neet:"
+
+msgid "Total:"
+msgstr "Yhteens&auml;:"
+
+msgid "Currently have no subscribers."
+msgstr "Ei tilaajia juuri nyt."
+
+msgid "Accumulated sign ups and unsubscribes from date:"
+msgstr "Koonti tilauksista ja estoista alkaen pvm:"
+
+msgid "You must select a right date range"
+msgstr "Valitse oikea aikav&auml;li"
+
+msgid "Sign ups"
+msgstr "Tilaukset"
+
+msgid "Unsubscriptions"
+msgstr "Keskeytetyt tilaukset"
+
+msgid "Sendings"
+msgstr "Postitukset"
+
+msgid "Sendings OK"
+msgstr "Postitukset OK"
+
+msgid "Sendings Error"
+msgstr "Postitusvirheet"
+
+msgid "Cant read"
+msgstr "En voi lukea"
+
+msgid "Total clicks"
+msgstr "Klikkaukset yht."
+
+msgid "Newsletters & clicks from date:"
+msgstr "Uutiskirjeet ja klikkaukset alkaen pvm.:"
+
+msgid "Link clicks"
+msgstr "Linkkien klikkaukset"
+
+msgid "Total submits"
+msgstr "Postitukset yhteens&auml;"
+
+msgid "Error: make sure the directory %s exists and has write permissions (chmod 700)."
+msgstr "Virhe: varmista ett&auml; hakemisto %s on olemassa ja kirjoitettavissa (chmod 700)."
+
+msgid "Error: there is no image selected"
+msgstr "Virhe: kuvaa ei ole valittu"
+
+msgid "Knews updated the database successfully. Welcome to %s version."
+msgstr "Knewsin tietokanta p&auml;ivitetty onnistuneesti. Tervetuloa versioon %s."
+
+msgid "Customize widget messages"
+msgstr "Muokkaa vimpaimen tekstej&auml;"
+
+msgid "Sign up date user cant be understood"
+msgstr "Tilauspvm./tilaaja epselv&auml;"
+
+msgid "SQL Error while inserting user"
+msgstr "Tietokantavirhe tilaajan lis&auml;yksess&auml;"
+
+msgid "SQL Error while updating user"
+msgstr "Tietokanta tilaajan p&auml;ivityksess&auml;"
+
+msgid "Warning: the email has no subject! %s Edit it again before submit!"
+msgstr "Varoitus: Uutiskirjeell&auml; ei ole otsikkoa!  %sMuokkaa ennen postitusta!"
+
+msgid "Warning: %sConfigure sender name before submit!"
+msgstr "Varoitus: %sAseta l&auml;hett&auml;j&auml;n nimi ennen postitusta!"
+
+msgid "text_direction"
+msgstr "ltr"
+
+msgid "cant_read_text_1"
+msgstr "Etk&ouml; voi lukea uutiskirjett&auml;? Klikkaa"
+
+msgid "cant_read_text_link"
+msgstr "t&auml;st&auml;"
+
+msgid "cant_read_text_2"
+msgstr ""
+
+msgid "unsubscribe_text_1"
+msgstr "Peruuta tilaus"
+
+msgid "unsubscribe_text_link"
+msgstr "t&auml;st&auml; "
+
+msgid "unsubscribe_text_2"
+msgstr ""
+
+msgid "Sign Ups & Blocks"
+msgstr "Tilaukset ja estot"
+
+msgid "Use the CRON server (recommended)"
+msgstr "K&auml;yt&auml; CRON-palvelinta (suositeltu)"
+
+msgid "Text direction, Left To Right or Right To Left: put <span style=\"color:#e00\">ltr</span> or <span style=\"color:#e00\">rtl</span>"
+msgstr "Tekstin suunta, vasemmalta oikealla tai oikealta vasemmalle: <span style=\"color:#e00\">ltr</span> tai <span style=\"color:#e00\">rtl</span>"
+
+msgid "Default alignment (<span style=\"color:#e00\">left</span> for left to right languages and <span style=\"color:#e00\">right</span> for right to left languages)"
+msgstr "Oletusasemointi  (<span style=\"color:#e00\">vasen</span> vasemmalta oikealle -kielille <span style=\"color:#e00\">oikea</span>oikealta vasemmalle -kielille)"
+
+msgid "Inverse alignment (<span style=\"color:#e00\">right</span> for left to right languages and <span style=\"color:#e00\">left</span> for right to left languages)"
+msgstr "K&auml;&auml;nteinen asemointi  (<span style=\"color:#e00\">oikea</span> vasemmalta oikealle -kielille <span style=\"color:#e00\">vasen</span>oikealta vasemmalle -kielille)"
+
+msgid "Cant read text 1"
+msgstr "Etk&ouml; voi lukea -teksti 1"
+
+msgid "Cant read text link"
+msgstr "Etk&ouml; voi lukea -linkin teksti"
+
+msgid "Cant read text 2"
+msgstr "Etk&ouml; voi lukea -teksti 2"
+
+msgid "Unsubscribe text 1"
+msgstr "Peruuta tilaus -teksti 1"
+
+msgid "Unsubscribe text link"
+msgstr "Peruuta tilaus -linkin teksti"
+
+msgid "Unsubscribe text 2"
+msgstr "Peruuta tilaus -teksti 2"
+
+msgid "default_alignment"
+msgstr "left"
+
+msgid "inverse_alignment"
+msgstr "right"
+
+msgid "The read more text link"
+msgstr "Lue lis&auml;&auml; -linkin teksti"
+
+msgid "read_more_link"
+msgstr "Lue lis&auml;&auml;"
+
+msgid "Image URL:"
+msgstr "Kuvan URL:"
+
+msgid "Image align:"
+msgstr "Kuvan asettelu:"
+
+msgid "Apply changes"
+msgstr "Tallenna muutokset"
+
+msgid "Undo"
+msgstr "Peruuta"
+
+msgid "Fast selection:"
+msgstr "Nopea valinta:"
+
+msgid "You are downgraded the version of Knews, you can lose data, please update quickly"
+msgstr "Knewsin versio on muuttunut vanhempaan, voit menett&auml;&auml; tietoa, p&auml;ivit&auml; pian uusimpaan"
+
+msgid "http://www.knewsplugin.com/tutorial/"
+msgstr "http://www.knewsplugin.com/tutorial/"
+
+msgid "http://www.knewsplugin.com/configure-smtp-submits/"
+msgstr "http://www.knewsplugin.com/configure-smtp-submits/"
+
+msgid "http://www.knewsplugin.com/configure-webserver-cron/"
+msgstr "http://www.knewsplugin.com/configure-webserver-cron/"
+
+msgid "Multisite detected. Only one instance of %s must be called for all websites."
+msgstr "Multisite havaittu.  Aktivoi vain yksi %s kaikille saiteille Verkon asetuksista."
+
+msgid "Cant create the automated submit"
+msgstr "Ei voitu luoda automaattista postitusta"
+
+msgid "Widget \"%s\" label form"
+msgstr "Vimpaimen \"%s\" otsikko"
+
+msgid "Auto-create"
+msgstr "Luo automaattisesti"
+
+msgid "Knews Post Options"
+msgstr "Knews postituksen asetukset"
+
+msgid "Add a subscription form into the sidebar"
+msgstr "Lis&auml;&auml; liittymislomake sivupalkkiin"
+
+msgid "Dont ask"
+msgstr "&Auml;l&auml; kysy"
+
+msgid "Not required"
+msgstr "Ei pakollinen"
+
+msgid "Required"
+msgstr "Pakollinen"
+
+msgid "Automated process deleted"
+msgstr "Automatisoitu prosessi poistettu"
+
+msgid "Automated process activated"
+msgstr "Automatisoitu prosessi aktivoitu"
+
+msgid "Automated process deactivated"
+msgstr "Automatisoitu prosessi deaktivoitu"
+
+msgid "Automated submit activated"
+msgstr "Automatisoitu postitus aktivoitu"
+
+msgid "Manual submit activated"
+msgstr "Manuaalinen postitus aktivoitu"
+
+msgid "Automated submit created"
+msgstr "Automatisoitu postitus luotu"
+
+msgid "Error: the name cant be empty"
+msgstr "Virhe: Nimi ei voi olla tyhj&auml;"
+
+msgid "Error: there is already an automated submit with this name"
+msgstr "Virhe: samanniminen automatisoitu postitus on jo olemassa"
+
+msgid "Auto-create Newsletters"
+msgstr "Luo Uutiskirjeitä automaattisesti"
+
+msgid "Automated process name"
+msgstr "Automatisoidun prosessin nimi"
+
+msgid "Target"
+msgstr "Kohde"
+
+msgid "Activated"
+msgstr "Aktivoitu"
+
+msgid "Automatic submit"
+msgstr "Automaattinen postitus"
+
+msgid "Method"
+msgstr "Metodi"
+
+msgid "Last run"
+msgstr "Viimeksi toiminnassa"
+
+msgid "Activate/deactivate the automated task"
+msgstr "Aktivoi/deaktivoi automatisoitu prosessi"
+
+msgid "Deactivate"
+msgstr "Deaktivoi"
+
+msgid "Automatic/Manual submits of auto-created newsletters"
+msgstr "Automaattisesti luotujen uutiskirjeiden Automaattiset/Manuaaliset postitukset"
+
+msgid "Delete definitively this automated task"
+msgstr "Poista t&auml;m&auml; automatisoitu prosessi lopullisesti"
+
+msgid "Off"
+msgstr "Pois"
+
+msgid "On"
+msgstr "P&auml;&auml;ll&auml;"
+
+msgid "Automated submit"
+msgstr "Automatisoitu postitus"
+
+msgid "Manual submit"
+msgstr "Manuaalinen postitus"
+
+msgid "Automated submits"
+msgstr "Automatisoidut postitukset"
+
+msgid "At the moment there is no automated task, you can create new ones"
+msgstr "T&auml;ll&auml; hetkell&auml; ei ole automatisoituja postituksia, voit luoda uusia"
+
+msgid "New Auto-creation Process"
+msgstr "Uusi automaattinen luontiprosessi"
+
+msgid "Auto-create Newsletters Tutorial"
+msgstr "Opas uutiskirjeiden automaattiseen luomiseen "
+
+msgid "Get posts from language:"
+msgstr "Hae artikkelit kielest&auml;:"
+
+msgid "Use as template:"
+msgstr "K&auml;yt&auml; pohjana:"
+
+msgid "You must first create a newsletter with insertable info (leave the %the_content%, %the_title% etc.)"
+msgstr "SInun t&auml;ytyy ensin luoda uutiskirje jossa insertoitava info (j&auml;t&auml; %the_content%, %the_title% yms.)"
+
+msgid "Create a newsletter every %s posts"
+msgstr "Luo uutiskirje joka %s:lle artikkelille"
+
+msgid "Error: there are no mailing lists"
+msgstr "Virhe: Ei postituslistoja"
+
+msgid "Advanced options"
+msgstr "Edistyneet asetukset"
+
+msgid "Automated options"
+msgstr "Automatisoinnin asetukset"
+
+msgid "Include the posts in the automated newsletters (default value for the new created posts)"
+msgstr "Sis&auml;llyt&auml; artikkelit automatisoituihin uutiskirjeisiin (uusien artikkelien oletus)"
+
+msgid "Manual Newsletters"
+msgstr "Manuaaliset uutiskirjeet"
+
+msgid "Auto-created Newsletters"
+msgstr "Automaattisesti luodut uutiskirjeet"
+
+msgid "There is no auto-created newsletter."
+msgstr "Ei automaattisesti luotuja uutiskirjeit&auml;"
+
+msgid "http://www.knewsplugin.com/automated-newsletter-creation/"
+msgstr "http://www.knewsplugin.com/automated-newsletter-creation/"
+
+msgid "widget_label_name"
+msgstr "Name:"
+
+msgid "widget_label_surname"
+msgstr "Surname:"
+
+msgid "General options"
+msgstr "Yleiset asetukset"
+
+msgid "Include this post in the automated newsletters?"
+msgstr "Liit&auml; t&auml;m&auml; artikkeli automatisoituihin uutiskirjeisiin?"
+
+msgid "This post has been included into:"
+msgstr "T&auml;m&auml; artikkeli on liitetty:"
+
+msgid "This post still not included into any automated newsletter."
+msgstr "T&auml;m&auml; artikkeli ei ole liitetty automatisoituihin uutiskirjeisiin."
+
+msgid "Active process:"
+msgstr "Aktiivinen prosessi:"
+
+msgid "Newsletter creation options"
+msgstr "Uutiskirjeen luomisen asetukset"
+
+msgid "Create a newsletter every x amount of time"
+msgstr "Luo uutiskirje s&auml;&auml;nn&ouml;llisin v&auml;liajoin"
+
+msgid "Newsletter submit options"
+msgstr "Uutiskirjeiden postituksen asetukset"
+
+msgid "Target for newsletter:"
+msgstr "Uutiskirjeen kohde:"
+
+msgid "Submit method:"
+msgstr "Postitustapa:"
+
+msgid "Messages reset to defaults."
+msgstr "Viestit resetoitu oletuksiin."
+
+msgid "(high performance SMTP)"
+msgstr "(tehokas SMTP)"
+
+msgid "All categories"
+msgstr "Kaikki kategoriat"
+
+msgid "Error: Please, fill all the form"
+msgstr "Virhe: T&auml;yt&auml; kaikki kent&auml;t"
+
+msgid "Mantain current data and add new mailing lists"
+msgstr "S&auml;ilyt&auml; olemassaoleva data ja lis&auml;&auml; uusia postituslistoja"
+
+msgid "of"
+msgstr "/"
+
+msgid "SMTP Secure"
+msgstr "Varmistettu SMTP"
+
+msgid "Step"
+msgstr "Vaihe"
+
+msgid "Submit automatic"
+msgstr "Postita automaattisesti"
+
+msgid "This template requires Knews version %s you must update Knews before use this template"
+msgstr "T&auml;m&auml;n mallin k&auml;yttoauml; vaatii Knews %s -version.  P&auml;ivit&auml; Knews."
+
+msgid "This template requires the professional version of Knews. You can get it %s here"
+msgstr "T&auml;m&auml;n mallin k&auml;yttoauml; vaatii Knews Pro -version.  Hanki se %s t&auml;&auml;lt&auml;"
+
+msgid "Compatibility options"
+msgstr "Yhteensopivuuden valinnat"
+
+msgid "<strong>Knews is now registered</strong>. Go to %s plugins administration %s and click on Knews 'Check for updates' link for upgrade. Thank you very much."
+msgstr "<strong>Knews on rekister&ouml;ity</strong>.  Vieraile %s lis&auml;osien hallintasivulla %s, klikkaa Knews 'Check for updates' -linkki&auml; p&auml;ivitt&auml;&auml;ksesi.  Kiitos oikein paljon."
+
+msgid "Knews runs every hour the automated newsletter creation jobs."
+msgstr "Knews suorittaa automaatisoidun uutiskirjeen luomisen tunnin v&auml;lein"
+
+msgid "You can manually trigger this task now (only recommended for testing purposes) %s Run Automated Creation Now"
+msgstr "Voit ajaa t&auml;m&auml;n teht&auml;v&auml;n manuaalisesti nyt (suositellaan vain testaukseen) %s Suorita automaattinen luonti nyt"
+
+msgid "Knews submit runs every 10 minutes and sends a portion of the list."
+msgstr "Knewsin postitus ajetaan 10 min. v&auml;lein ja l&auml;hett&auml;&auml; osan listasta."
+
+msgid "You can manually trigger the JavaScript CRON if your newsletter is not being sent for any reason: %s Run JS-Cron Now"
+msgstr "Voit ajaa JavaScript CRON -emulaation manuaalisesti jos uutiskirjeesi postitus ei jostain syyst&auml; toimi: %s K&auml;ynnist&auml; JS-Cron nyt"
+
+msgid "Widget subscription form title"
+msgstr "Tilaa uutiskirje -vimpaimen otsikko"
+
+msgid "Widget latest newsletters title"
+msgstr "Uusimmat uutiskirjeet -vimpaimen otsikko"
+
+msgid "Mobile version text link"
+msgstr "Mobiiliversion linkkiteksti"
+
+msgid "Desktop version text link"
+msgstr "Ty&ouml;p&ouml;yt&auml;version linkkiteksti"
+
+msgid "You are downgraded to the free version of Knews, you can lose data, please update quickly! You can get the professional version %s here"
+msgstr "Olet p&auml;ivitt&auml;nyt Knewsin ilmaisversioon, voit menett&auml;&auml; tietoa, p&auml;ivit&auml; pikaisesti! Hanki Pro-versio %s t&auml;&auml;lt&auml;"
+
+msgid "Max number of newsletters: <br />(-1 for infinite):"
+msgstr "Uutiskirjeiden maksimim&auml;&auml;r&auml;: <br />(-1 on rajoittamaton)"
+
+msgid "Hide not sent newsletters?"
+msgstr "Piilota ei-l&auml;hetetyt uutiskirjeet?"
+
+msgid "Hide automated newsletters?"
+msgstr "Piilota automaattiset uutiskirjeet?"
+
+msgid "Customize widget title"
+msgstr "Muokkaa vimpaimen otsikkoa"
+
+msgid "Knews Pro options"
+msgstr "Knews Pro asetukset"
+
+msgid "Your e-mail (used for the Knews Shop account):"
+msgstr "Email-osoitteesi (k&auml;ytet&auml;&auml;n Knews-kaupan k&auml;ytt&auml;j&auml;tiliss&auml;):"
+
+msgid "Registration"
+msgstr "Rekister&ouml;ityminen"
+
+msgid "Serial Key:"
+msgstr "Sarjanumero:"
+
+msgid "(get it in our shop, login and click on \"My Downloads\" page)"
+msgstr "(hanki se kaupastamme, kirjaudu sis&auml;&auml;n ja klikkaa \"My Downloads\" -sivulle)"
+
+msgid "Save Serial"
+msgstr "Tallenna sarjanumero"
+
+msgid "Bounce configuration"
+msgstr "Palautumisenhavaitsemisen asetukset"
+
+msgid "Bounce detection deactivated"
+msgstr "Palautumisenhavaitseminen pois k&auml;yt&ouml;st&auml;"
+
+msgid "Bounce detection activated"
+msgstr "Palautumisenhavaitseminen otettu k&auml;ytt&ouml;&ouml;n"
+
+msgid "POP3 Mail host:"
+msgstr "POP3 palveluntarjoaja:"
+
+msgid "POP3 Port:"
+msgstr "POP3 portti:"
+
+msgid "User account:"
+msgstr "K&auml;ytt&auml;j&auml;tili:"
+
+msgid "User password"
+msgstr "K&auml;ytt&auml;j&auml;n salasana"
+
+msgid "Secure connection:"
+msgstr "Suojattu yhteys:"
+
+msgid "Before enabling the Bounce detection, enter the values and click on TEST button"
+msgstr "Ennen palautumisenhavaitsemisen k&auml;ytt&ouml;&ouml;nottoa, anna tiedot ja klikkaa TEST nappia"
+
+msgid "Test POP3 config"
+msgstr "Testaa POP3 asetukset"
+
+msgid "Cant connect to POP3 mail server, please, check the configuration values"
+msgstr "Ei voi yhdist&auml;&auml; POP3-postipalvelimeen, tarkista asetukset, kiitos."
+
+msgid "Bounce tutorial"
+msgstr "Palautuneet postit (Bounce) ohjeet"
+
+msgid "Knews Pro includes a bounce email detection system, it needs an dedicated account like bounce@yourdomain.com. First, create the account, next, fill the configuation fields, then test the connection and if all works fine, activate & save."
+msgstr "Knews Pro sis&auml;lt&auml;&auml; palautuneiden emailien havaitsemismekanismin. Tarvitset erillisen osoitteen, esim. bounce@sinundomain.com. Luo osoite, t&auml;yt&auml; asetuskent&auml;t, testaa yhteys, aktivoi ja tallenna."
+
+msgid "Use post edition date instead post creation date for the automated newsletters (older posts never included in automation, will be included if you edit it and activate this option)"
+msgstr "K&auml;yt&auml; artikkelin muokkausp&auml;iv&auml;&auml; luomisp&auml;iv&auml;n sijasta automatisoituihin uutiskirjeisiin (vanhat artikkelit sis&auml;llytet&auml;&auml;n jos muokkaat sit&auml; ja aktivoit t&auml;m&auml;n valinnan, muuten ei koskaan)"
+
+msgid "Apply filter the_content in the newsletter post insertion (Deactivate for compatibility issues with some plugins like NextGen Gallery)"
+msgstr "K&auml;yt&auml; the_content -filtteri&auml; artikkelin tuomisessa uutiskirjeeseen (Ota pois k&auml;yt&ouml;st&auml; yhteensopivuusongelmien takia, mm. NextGen Gallery)"
+
+msgid "<strong>Note</strong>: if you are using <strong>qTranslate</strong> you cant deactivate this option, because it uses this filter to divide the post contents into different languages."
+msgstr "<strong>Huomaa</strong>: jos k&auml;yt&auml;t <strong>qTranslate</strong>-lis&auml;osaa, et voi ottaa t&auml;t&auml; pois k&auml;yt&ouml;st&auml;, koska se k&auml;ytt&auml;&auml; t&auml;t&auml; filtteri&auml; sis&auml;lt&ouml;jen k&auml;&auml;nn&ouml;ksiin."
+
+msgid "Prevent bot registrations. Some Cache Plugins can need deactivate this option (Subscribe always fails \"wrong e-mail adress\" message)."
+msgstr "Estä bottirekister&ouml;itymiset.  Jotkut Cache-lis&auml;osat eiv&auml;t ole yhteensopivia (Tilaaminen ep&auml;onnistuu \"v&auml;&auml;r&auml; email-osoite\" -viestill&auml;)."
+
+msgid "Premium options"
+msgstr "Premium-valinnat"
+
+msgid "Hide default templates (only works if at least one template is installed into (/wp-content/uploads/knewstemplates/)"
+msgstr "Piilota oletusivumallit (toimii vain jos v&auml;hint&auml;&auml;n yksi sivumalli on asennettu /wp-content/uploads/knewstemplates/)"
+
+msgid "Hide Knews Shop Products offers"
+msgstr "Piilota Knews Shopin tuotetarjoukset"
+
+msgid "WordPress user syncronization"
+msgstr "WordPress-k&auml;ytt&auml;jien synkronointi"
+
+msgid "Subscribe new WordPress users to:"
+msgstr "Liit&auml; uudet WordPress-k&auml;ytt&auml;j&auml;t:"
+
+msgid "None"
+msgstr "Ei mit&auml;&auml;n"
+
+msgid "Newsletter deleted"
+msgstr "Uutiskirje poistettu"
+
+msgid "Newsletter name updated"
+msgstr "Uutiskirjeen nimi p&auml;ivitetty"
+
+msgid "Newsletter duplicated"
+msgstr "Uutiskirje monistettu"
+
+msgid "Desktop and mobile versions"
+msgstr "Ty&ouml;p&ouml;yt&auml;- ja mobiiliversio"
+
+msgid "Desktop version only"
+msgstr "Vain ty&ouml;p&ouml;yt&auml;versio"
+
+msgid "Unconfirmed"
+msgstr "Ei varmistettu"
+
+msgid "Bounce"
+msgstr "Palautuminen"
+
+msgid "Bounced"
+msgstr "Palautunut"
+
+msgid "Mark as bounced email"
+msgstr "Merkitse palautuneeksi emailiksi"
+
+msgid "Mark as activated"
+msgstr "Merkitse aktivoiduksi"
+
+msgid "Mark as blocked"
+msgstr "Merkitse estetyksi"
+
+msgid "Mark as bounced"
+msgstr "Merkitse palautuneeksi"
+
+msgid "Subscribe to list"
+msgstr "Tilaa lista"
+
+msgid "Unsubscribe to list"
+msgstr "Peruuta listan tilaus"
+
+msgid "Choose one list"
+msgstr "Valitse lista"
+
+msgid "You dont have any mobile template!"
+msgstr "Sinulla ei ole mobiilitemplateja!"
+
+msgid "There is a videotutorial about Knews WYSIWYG Editor, %s view it in Youtube"
+msgstr "Katso video Knewsin WYSIWYG-editorista %s YouTubessa"
+
+msgid "SSL"
+msgstr "SSL"
+
+msgid "Sorry, this is a premium feature. Please, %s click here and see all the Knews Pro features."
+msgstr "Sorry, t&auml;m&auml; on premium-ominaisuus. Klikkaa %s t&auml;st&auml; n&auml;hd&auml;ksesi kaikki Pro-ominaisuudet."
+
+msgid "Warning! You arent selected any mailing list, do you want to continue?"
+msgstr "Varoitus! Et ole valinnut yht&auml;&auml;n postituslistaa. Haluatko jatkaa?"
+
+msgid "The field name cant be empty"
+msgstr "Kentän nimi ei voi olla tyhj&auml;"
+
+msgid "Select the %s filtered subscribers to perform a massive action"
+msgstr "Valitse %s suodatettua tilaajaa suorittaaksesi massatoimintoja"
+
+msgid "Select all your subscribers (%s) to perform a massive action"
+msgstr "Valitse kaikki tilaajat (%s) suorittaaksesi massatoimintoja"
+
+msgid "Roles and capabilities saved."
+msgstr "Roolit ja k&auml;ytt&ouml;oikeudet tallennettu."
+
+msgid "Roles and capabilities"
+msgstr "Roolit ja k&auml;ytt&ouml;oikeudet"
+
+msgid "Role name"
+msgstr "Rooli nimi"
+
+msgid "Can see Knews Stats"
+msgstr "Voi tarkastella Knewsin tilastoja"
+
+msgid "Can manage newsletters"
+msgstr "Voi hallita uutiskirjeit&auml;"
+
+msgid "Can manage users"
+msgstr "Voi hallita k&auml;ytt&auml;ji&auml;"
+
+msgid "Can configure Knews"
+msgstr "Voi tehd&auml; Knewsin asetuksia"
+
+msgid "All subscribers"
+msgstr "Kaikki tilaajat"
+
+msgid "Do WordPress user importation"
+msgstr "Tuo WordPressin k&auml;ytt&auml;ji&auml;"
+
+msgid "Import <strong>all</strong> the WordPress users and subscribe into the mailing list:"
+msgstr "Tuo <strong>kaikki</strong> WordPressin k&auml;ytt&auml;j&auml;t ja liit&auml; postituslistalle:"
+
+msgid "Assign the language:"
+msgstr "M&auml;&auml;rit&auml; kieli:"
+
+msgid "Import WP users into Knews"
+msgstr "Tuo WP k&auml;ytt&auml;ji&auml; Knewsiin"
+
+msgid "Users imported: %s. Users found before (not re-imported): %s."
+msgstr "K&auml;ytt&auml;ji&auml; tuotu: %s. Vanhoja k&auml;ytt&auml;ji&auml; (ei tuotu uudelleen): %s."
+
+msgid "Errors submitting confirmation: %s"
+msgstr "Virheet varmistuksen l&auml;hetyksess&auml;: %s"
+
+msgid "Order"
+msgstr "Järjestys"
+
+msgid "New Auto-create Newsletters Process"
+msgstr "Uusi automatisoitu uutiskirjeen luontiprosessi"
+
+msgid "Automated process name:"
+msgstr "Automatisoidun prosessin nimi:"
+
+msgid "desktop_version_text_link"
+msgstr "N&auml;yt&auml; ty&ouml;p&ouml;yt&auml;versio"
+
+msgid "Knews Pro is currently installed."
+msgstr "Knes Pro on asennettu."
+
+msgid "Only from the %s main blog dashboard %s the Knews upgrades can be managed. Maybe only the network administrator can do it."
+msgstr "Knewsin p&auml;ivityksi&auml; voidaan tehd&auml; vain Verkon hallinnan kautta.  Verkon j&auml;rjestelm&auml;nvalvojan oikeudet tarvitaan."
+
+msgid "Warning: if you haven't any mailing list opened, the subscription widget will not shown"
+msgstr "Varoitus: jos yksikään postituslista ei ole avoin, Tilaa-vimpainta ei näytetä"
+
+msgid "Warning: you haven't any mailing list opened for logged users, the subscription widget will not shown until you make log out"
+msgstr "Varoitus: yksikään postituslista ei ole avoinna kirjautuneille käyttäjille, Tilaa-vimpainta ei näytetää ennenkuin kirjaudut ulos"
+
+#: Text in echo
+#: admin/knews_admin_news_list.php:164
+#: admin/knews_admin_lists.php:148
+msgid "Save changes"
+msgstr "Tallenna muutokset"
+
+#: Text in function
+#: knews.php:520
+msgid "Subscribe me"
+msgstr "Tilaa uutiskirje"
+
+#: Text in echo
+#: admin/knews_admin_news_send.php:154
+msgid "WARNING"
+msgstr "VAROITUS"
+
+#: Text in echo
+#: admin/knews_admin_config.php:149
+msgid "here"
+msgstr "täällä"
+
+msgid "Show/hide handlers"
+msgstr "Näytä/piilota kahvat"
+
+msgid "Alerts"
+msgstr "Varoitukset"
+
+msgid "You must call the main blog www.yourdomain.com/wp-admin/admin-ajax.php?action=knewsCron URL"
+msgstr "Polun tulee viitata sivuston juureen: www.yourdomain.com/wp-admin/admin-ajax.php?action=knewsCron"
+
+msgid "mobile_version_text_link"
+msgstr "N&auml;yt&auml; mobiiliversio"
+
+msgid "Widget %s label form"
+msgstr "Vimpaimen %s nimi"
+
+msgid "http://www.knewsplugin.com/automated-bounced-email-handling"
+msgstr "http://www.knewsplugin.com/automated-bounced-email-handling"
+
