@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: InterOcc Homepage
+Template Name: Homepage
 */
 ?>
 

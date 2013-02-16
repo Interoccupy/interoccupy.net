@@ -10,7 +10,7 @@ Template Name: Left Sidebar Page
             
             	<?php get_sidebar('sidebarleft'); // sidebar left ?>
 			
-				<div id="main" class="eight columns clearfix" role="main">
+				<div id="main" class="ten columns clearfix" role="main">
 
 					<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 					

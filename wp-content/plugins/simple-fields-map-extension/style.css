@@ -1,0 +1,51 @@
+
+.simple-fields-fieldtype-googlemap-map-container {
+	width: 100%;
+	height: 300px;
+	border: 1px solid #CCC;
+}
+
+.simple-fields-fieldtype-googlemap-selected-positions {
+	float: right;
+	margin-top: 1.5em;
+	margin-bottom: 0;
+}
+
+.simple-fields-fieldtype-googlemap-selected-positions-inner {
+	display: block;
+}
+
+.simple-fields-fieldtype-googlemap-address-search input[type=text] {
+	width: 25em;
+}
+
+.simple-fields-field-googlemap-selected-name,
+.simple-fields-field-googlemap-selected-formatted_address
+ {
+	display: block;
+}
+
+.simple-fields-fieldtype-googlemap-marker-remove {
+	/* display: block; */
+}
+
+.simple-fields-fieldtype-googlemap-marker-add {
+	float: right;
+	display: none;
+	margin-top: 4px;
+}
+
+.simple-fields-fieldgroups-field-type-googlemaps {
+	overflow: hidden;
+}
+
+/* google autocomplete results*/
+.pac-container {
+	width: auto !important;
+}
+.pac-container .pac-item {
+	padding: .3em;
+}
+.pac-container {
+	
+}

@@ -1,0 +1,222 @@
+.cloner-title {
+	border-bottom: 1px dotted #CCC;
+	padding: 0 0 10px 0;
+}
+
+.col-left, .col-right  {
+	width: 35%;
+	float: left;
+}
+
+.col-right  {
+	margin-top: 10px;
+	margin-left: 3%;
+	float: left;
+	background-color: #EDEDED;
+	padding: 2%;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px; /* future proofing */
+	-khtml-border-radius: 10px; /* for old Konqueror browsers */
+}
+
+.col-right h3 {
+	padding: 0;
+	margin: 0 0 10px 0;
+	color: #666 !important;
+}
+
+.col-right ul {
+	list-style: disc !important;
+	padding: 0 0 0 20px;
+}
+
+.col-right input {
+	margin: 5px;
+}
+
+.row-center-span {
+	float: left;
+	clear: both;
+}
+
+.wrap p {
+	padding: 0 0 7px 0 !important;
+	margin: 0 0 7px 0 !important;
+	border-bottom: 1px dashed #CCC;
+}
+
+.before-clone {
+	background-color: #ffffcc;
+	padding: 5px 15px;
+	color: #666;
+	margin: 10px 0 10px 0;
+	border: 1px dashed #CCC;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px; /* future proofing */
+	-khtml-border-radius: 10px; /* for old Konqueror browsers */
+}
+
+.before-clone p {
+	padding: 0 !important;
+	margin: 5px 0 0 0 !important;
+	border: none !important;
+}
+
+.before-clone-title {
+	font-size: 1.4em !important;
+	font-weight: bold !important;
+	text-shadow: none !important;
+	text-transform: uppercase;
+	padding: 0 !important;
+	margin: 0 !important;
+	color: #666 !important;
+}
+
+.cloner-step {
+	padding: 0 !important;
+	margin: 0 !important;
+	clear: both;
+}
+
+.cloner-step span {
+	font-weight: lighter !important;
+	font-size: 0.5em  !important;
+	font-style: italic;
+}
+
+.no-border {
+	border: none !important;
+}
+
+.cloner-pro {
+	padding: 0 0 20px 0 !important;
+	margin: 0 0 20px 0 !important;
+	border-bottom: 1px dashed #CCC;
+}
+
+.cloner-pro p {
+	background-color: #EDEDED;
+	color: #666;
+	padding: 10px 20px !important;
+	margin: 0 !important;
+	font-size: 1.4em;
+	font-weight: lighter;
+	line-height: 1.2em;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px; /* future proofing */
+	-khtml-border-radius: 10px; /* for old Konqueror browsers */
+}
+
+.cloner-arrow {
+	width: 0; 
+	height: 0; 
+	border-top: 15px solid transparent;
+	border-bottom: 15px solid transparent;
+	border-left: 15px solid #666;
+	float: right;
+	margin: -5px -11px 0 0;
+}
+
+p.pro-text {
+	padding: 0 !important;
+	margin: 0 !important;
+	border: none;
+}
+
+.wrap .submit input, .button {
+	background-image: none;
+	color: #FFF;
+	text-shadow: none;
+	font-size: 1.4em !important;
+	padding: 4% !important;
+	width: 92%;
+	font-weight: bold;
+	text-transform: uppercase;
+	border-top: 1px solid #96d1f8;
+	background: #0d5275;
+	background: -webkit-gradient(linear, left top, left bottom, from(#3399cc), to(#0d5275));
+	background: -webkit-linear-gradient(top, #3399cc, #0d5275);
+	background: -moz-linear-gradient(top, #3399cc, #0d5275);
+	background: -ms-linear-gradient(top, #3399cc, #0d5275);
+	background: -o-linear-gradient(top, #3399cc, #0d5275);
+	text-shadow: 1px 1px 1px #000;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px; /* future proofing */
+	-khtml-border-radius: 10px; /* for old Konqueror browsers */
+}
+
+.wrap .submit input:hover, .button:hover {
+   border-top-color: #333333;
+   background: #333333 !important;
+   color: #ffffff;
+}
+
+.wrap .submit input:hover, .button:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+   cursor: pointer;
+}
+
+.col-right p {
+	padding: 3px 0 !important;
+	margin: 0 !important;
+	border: none;
+}
+
+.cloner-adopter {
+	text-align: center;
+}
+
+.warning-txt {
+	color: #999;
+	font-size: 11px;
+}
+
+.warning-txt span {
+	font-weight: bold;
+	color: red;
+}
+
+.cloner-txt {
+	position: relative;
+	top: 5px;
+}
+
+#search-replace, #add-admin {
+	margin: 10px 0 0 0;
+}
+
+.share-ns-pro a {
+	margin-right: 3px;
+}
+
+.social-ns-pro h2 {
+	padding: 0 0 10px 0;
+}
+
+.social-ns-pro a:hover {
+	zoom: 1;
+	filter: alpha(opacity=50);
+	opacity: 0.5;
+}
+
+.divide {
+	width: 100%;
+	float: left;
+	clear: both;
+	border-top: 1px solid #CCC;
+	margin-top: 5px;
+	padding: 0 0 15px 0;
+}
+
+h2.no-pad {
+	padding: 0;
+}
+
+.social-ns-pro img {
+	max-width: 100%;
+}
